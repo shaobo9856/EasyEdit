@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
     hparams = editing_hparams.from_hparams(args.hparams_dir)
     editor = BaseEditor.from_hparams(hparams)
-    sentence_model = SentenceTransformer(hparams.sentence_model_name).to('cuda')
+    # sentence_model = SentenceTransformer(hparams.sentence_model_name).to('cuda')
     print("！！！！！！！！！！！model_name！！！！！！！！",hparams.model_name)
     print("！！！！！！！！！！！K！！！！！！！！",hparams.k)
     
@@ -126,72 +126,72 @@ if __name__ == "__main__":
         
                 subject = [edit_data_[lang1]['subject'] for edit_data_ in test_data]
 
-                train_ds = []
+                # train_ds = []
 
-                with open(os.path.join("./data/",f"zsre_mend_train_{lang1}_10000.txt"), "r", encoding="utf-8") as f:
-                    training_data_lang1 = f.readlines()
-                with open(os.path.join("./data/",f"zsre_mend_train_{lang2}_10000.txt"), "r", encoding="utf-8") as g:
-                    training_data_lang2 = g.readlines()
+                # with open(os.path.join("./data/",f"zsre_mend_train_{lang1}_10000.txt"), "r", encoding="utf-8") as f:
+                #     training_data_lang1 = f.readlines()
+                # with open(os.path.join("./data/",f"zsre_mend_train_{lang2}_10000.txt"), "r", encoding="utf-8") as g:
+                #     training_data_lang2 = g.readlines()
 
-                for i in range(len(training_data_lang1)):
-                    item = training_data_lang1[i]
-                    item_mt = training_data_lang2[i]
-                    tt = dict()
-                    tt["prompt"] = item.split('\t')[0].strip()
-                    tt["target_new"] = item.split('\t')[-1].strip()
+                # for i in range(len(training_data_lang1)):
+                #     item = training_data_lang1[i]
+                #     item_mt = training_data_lang2[i]
+                #     tt = dict()
+                #     tt["prompt"] = item.split('\t')[0].strip()
+                #     tt["target_new"] = item.split('\t')[-1].strip()
         
-                    tt["prompt_mt"] = item_mt.split('\t')[0].strip()
-                    tt["target_new_mt"] = item_mt.split('\t')[-1].strip()
+                #     tt["prompt_mt"] = item_mt.split('\t')[0].strip()
+                #     tt["target_new_mt"] = item_mt.split('\t')[-1].strip()
         
         
-                    train_ds.append(tt)
-                    del tt
+                #     train_ds.append(tt)
+                #     del tt
                     
                     
-                if args.editing_method == 'IKE':
-                    device = torch.device(f'cuda:{hparams.device}')
-                    print(args.zeroshot)
-                    if not args.zeroshot: 
-                        print("1111")
-                        encode_ike_facts(sentence_model, train_ds, hparams,lang1)
-                    print("2222")
+                # if args.editing_method == 'IKE':
+                #     device = torch.device(f'cuda:{hparams.device}')
+                #     print(args.zeroshot)
+                #     if not args.zeroshot: 
+                #         print("1111")
+                #         encode_ike_facts(sentence_model, train_ds, hparams,lang1)
+                #     print("2222")
 
-                    metrics, edited_model, _ = editor.edit(
-                        edited_inputs=edited_inputs,
-                        cross_inputs=cross_inputs,
-                        generalization_inputs=generalization_inputs,
-                        locality_inputs=locality_inputs,
-                        portability_inputs=portability_inputs,
-                        keep_original_weight=True,
-                        lang1=lang1,
-                        lang2=lang2,
-                        search=args.search,
-                        subject=subject,
-                        zeroshot=args.zeroshot,
-                        train_ds=train_ds
-                    )
+                #     metrics, edited_model, _ = editor.edit(
+                #         edited_inputs=edited_inputs,
+                #         cross_inputs=cross_inputs,
+                #         generalization_inputs=generalization_inputs,
+                #         locality_inputs=locality_inputs,
+                #         portability_inputs=portability_inputs,
+                #         keep_original_weight=True,
+                #         lang1=lang1,
+                #         lang2=lang2,
+                #         search=args.search,
+                #         subject=subject,
+                #         zeroshot=args.zeroshot,
+                #         train_ds=train_ds
+                #     )
         
-                else:
-                    metrics, edited_model, _ = editor.edit(
-                        edited_inputs=edited_inputs,
-                        cross_inputs=cross_inputs,
-                        generalization_inputs=generalization_inputs,
-                        locality_inputs=locality_inputs,
-                        portability_inputs=portability_inputs,
-                        keep_original_weight=True,
-                        source_lang=lang,
-                        search=args.search,
-                        subject = subject,
-                    )
+                # else:
+                metrics, edited_model, _ = editor.edit(
+                    edited_inputs=edited_inputs,
+                    cross_inputs=cross_inputs,
+                    generalization_inputs=generalization_inputs,
+                    locality_inputs=locality_inputs,
+                    portability_inputs=portability_inputs,
+                    keep_original_weight=True,
+                    source_lang=lang1,
+                    search=args.search,
+                    subject = subject,
+                )
+    
+            print(os.path.join(args.metrics_save_dir, f'{args.backbone}_{lang1}2{lang2}.json'))
+            if args.source_lang != "en":
+                # 确保目录存在
+                os.makedirs(args.metrics_save_dir, exist_ok=True) 
+                # 保存 metrics
+                json.dump(metrics, open(os.path.join(args.metrics_save_dir, f'{args.backbone}_{lang1}2{lang2}.json'), 'w'), ensure_ascii=False, indent=4)
+            else:
+                raise NotImplementedError()     
         
-                print(os.path.join(args.metrics_save_dir, f'{args.backbone}_{lang1}2{lang2}.json'))
-                if args.source_lang != "en":
-                    # 确保目录存在
-                    os.makedirs(args.metrics_save_dir, exist_ok=True) 
-                    # 保存 metrics
-                    json.dump(metrics, open(os.path.join(args.metrics_save_dir, f'{args.backbone}_{lang1}2{lang2}.json'), 'w'), ensure_ascii=False, indent=4)
-                else:
-                    raise NotImplementedError()     
-            
             
 

@@ -1,3 +1,7 @@
+
+nohup python run_bizsre.py --editing_method=ROME --hparams_dir=./hparams/ROME/llama-7b.yaml --data_dir=./data --metrics_save_dir ./results/llama-7b/16shot/ --backbone llama2_7b-16shot_classifier --slang1 en --slang2 zh  --zeroshot true > output.log  2>&1 &
+
+
 <div align="center">
 
 <img src="figs/logo.png" width="180px">
