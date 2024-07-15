@@ -25,7 +25,7 @@ if __name__ == "__main__":
     parser.add_argument('--editing_method', required=True, type=str)
     parser.add_argument('--hparams_dir', required=True, type=str)
     parser.add_argument('--data_dir', required=True, type=str)
-    parser.add_argument('--ds_size', default=None, type=int)
+    parser.add_argument('   ', default=None, type=int)
     parser.add_argument('--metrics_save_dir', default='./output', type=str)
 
     args = parser.parse_args()
@@ -93,4 +93,12 @@ if __name__ == "__main__":
         keep_original_weight=True
     )
 
-    json.dump(metrics, open(os.path.join(args.metrics_save_dir, f'{args.editing_method}_results.json'), 'w'), indent=4)
+    os.makedirs(args.metrics_save_dir, exist_ok=True)
+
+    # json.dump(metrics, open(os.path.join(args.metrics_save_dir, f'{args.editing_method}_results.json'), 'w'), indent=4)
+    # Construct the file path
+    file_path = os.path.join(args.metrics_save_dir, f'{args.editing_method}_results.json')
+
+    # Save the metrics
+    with open(file_path, 'w') as file:
+        json.dump(metrics, file, indent=4)
