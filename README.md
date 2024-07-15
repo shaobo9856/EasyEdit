@@ -5,8 +5,7 @@ nohup python run_bizsre.py --editing_method=ROME --hparams_dir=./hparams/ROME/ll
 git clone https://github.com/shaobo9856/EasyEdit.git easyedit
 cd easyedit && python3 -m venv easyedit && source easyedit/bin/activate && pip install -r requirements.txt
 
-python run_zsre_llama2.py --editing_method ROME --hparams_dir ./hparams/ROME/llama-7b.yaml  --data_dir ./data/MzsRE  --ds_size 20
-
+python run_zsre_llama2.py --editing_method ROME --hparams_dir ./hparams/ROME/llama-7b.yaml  --data_dir MzsRE/mzsre_test_duplicate_en  --lang1 en --lang2 af --ds_size 20
 
 
 pip install --upgrade sentence-transformers

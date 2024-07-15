@@ -25,6 +25,8 @@ if __name__ == "__main__":
     parser.add_argument('--editing_method', required=True, type=str)
     parser.add_argument('--hparams_dir', required=True, type=str)
     parser.add_argument('--data_dir', required=True, type=str)
+    parser.add_argument("--lang1", type=str, default="")
+    parser.add_argument("--lang2", type=str, default="")
     parser.add_argument('--ds_size', default=None, type=int)
     parser.add_argument('--metrics_save_dir', default='./output', type=str)
 
@@ -45,18 +47,18 @@ if __name__ == "__main__":
     else:
         raise NotImplementedError
 
-    test_data = json.load(open(os.path.join(args.data_dir, 'mzsre_test_duplicate_enaf.json'), 'r', encoding='utf-8'))
+    test_data = json.load(open(f'./data/{args.data_dir}{args.lang2}.json', 'r', encoding='utf-8'))
 
     if args.ds_size is not None:
         test_data = random.sample(test_data, args.ds_size)
 
-    prompts = [test_data_['en']['src'] for test_data_ in test_data]
-    rephrase_prompts = [edit_data_['af']['rephrase'] for edit_data_ in test_data]
-    target_new = [edit_data_['en']['alt'] for edit_data_ in test_data]
-    locality_prompts = [edit_data_['af']['loc'] for edit_data_ in test_data]
-    locality_ans = [edit_data_['af']['loc_ans'] for edit_data_ in test_data]
-    portability_prompts = [edit_data_['af']['portability']['New Question'] for edit_data_ in test_data]
-    portability_ans = [edit_data_['af']['portability']['New Answer'] for edit_data_ in test_data]
+    prompts = [test_data_[args.lang1]['src'] for test_data_ in test_data]
+    rephrase_prompts = [edit_data_[args.lang2]['rephrase'] for edit_data_ in test_data]
+    target_new = [edit_data_[args.lang1]['alt'] for edit_data_ in test_data]
+    locality_prompts = [edit_data_[args.lang2]['loc'] for edit_data_ in test_data]
+    locality_ans = [edit_data_[args.lang2]['loc_ans'] for edit_data_ in test_data]
+    portability_prompts = [edit_data_[args.lang2]['portability']['New Question'] for edit_data_ in test_data]
+    portability_ans = [edit_data_[args.lang2]['portability']['New Answer'] for edit_data_ in test_data]
 
     locality_inputs = {
         'neighborhood':{
@@ -70,7 +72,7 @@ if __name__ == "__main__":
             'ground_truth': portability_ans
         },
     }
-    subject = [edit_data_['en']['subject'] for edit_data_ in test_data]
+    subject = [edit_data_[args.lang1]['subject'] for edit_data_ in test_data]
     hparams = editing_hparams.from_hparams(args.hparams_dir)
 
     if args.editing_method == 'IKE':
@@ -97,7 +99,7 @@ if __name__ == "__main__":
 
     # json.dump(metrics, open(os.path.join(args.metrics_save_dir, f'{args.editing_method}_results.json'), 'w'), indent=4)
     # Construct the file path
-    file_path = os.path.join(args.metrics_save_dir, f'{args.editing_method}_results.json')
+    file_path = os.path.join(args.metrics_save_dir, f'{args.editing_method}_{args.data_dir[:4]}_{args.lang2}_results.json')
 
     # Save the metrics
     with open(file_path, 'w') as file:
