@@ -45,18 +45,18 @@ if __name__ == "__main__":
     else:
         raise NotImplementedError
 
-    test_data = json.load(open(os.path.join(args.data_dir, 'zsre_mend_eval_portability_gpt4.json'), 'r', encoding='utf-8'))
+    test_data = json.load(open(os.path.join(args.data_dir, 'mzsre_test_duplicate_enaf.json'), 'r', encoding='utf-8'))
 
     if args.ds_size is not None:
         test_data = random.sample(test_data, args.ds_size)
 
-    prompts = [test_data_['src'] for test_data_ in test_data]
-    rephrase_prompts = [edit_data_['rephrase'] for edit_data_ in test_data]
-    target_new = [edit_data_['alt'] for edit_data_ in test_data]
-    locality_prompts = [edit_data_['loc'] for edit_data_ in test_data]
-    locality_ans = [edit_data_['loc_ans'] for edit_data_ in test_data]
-    portability_prompts = [edit_data_['portability']['New Question'] for edit_data_ in test_data]
-    portability_ans = [edit_data_['portability']['New Answer'] for edit_data_ in test_data]
+    prompts = [test_data_['en']['src'] for test_data_ in test_data]
+    rephrase_prompts = [edit_data_['af']['rephrase'] for edit_data_ in test_data]
+    target_new = [edit_data_['en']['alt'] for edit_data_ in test_data]
+    locality_prompts = [edit_data_['af']['loc'] for edit_data_ in test_data]
+    locality_ans = [edit_data_['af']['loc_ans'] for edit_data_ in test_data]
+    portability_prompts = [edit_data_['af']['portability']['New Question'] for edit_data_ in test_data]
+    portability_ans = [edit_data_['af']['portability']['New Answer'] for edit_data_ in test_data]
 
     locality_inputs = {
         'neighborhood':{
