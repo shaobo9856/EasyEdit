@@ -70,7 +70,7 @@ if __name__ == "__main__":
             'ground_truth': portability_ans
         },
     }
-    subject = [edit_data_['subject'] for edit_data_ in test_data]
+    subject = [edit_data_['en']['subject'] for edit_data_ in test_data]
     hparams = editing_hparams.from_hparams(args.hparams_dir)
 
     if args.editing_method == 'IKE':
