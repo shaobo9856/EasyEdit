@@ -14,8 +14,8 @@ python -m pip install huggingface_hub
 
 huggingface-cli login --token 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
 
-chmod +x run_icls.sh
-./run_icls.sh
+chmod +x run_ROME.sh
+./run_ROME.sh
 
 
 <div align="center">
