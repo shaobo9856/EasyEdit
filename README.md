@@ -13,7 +13,7 @@ pip install --upgrade sentence-transformers
 
 python -m pip install huggingface_hub
 
-huggingface-cli login --token 
+huggingface-cli login --token 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
 
 chmod +x run_icls.sh
 ./run_icls.sh

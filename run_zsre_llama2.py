@@ -25,7 +25,7 @@ if __name__ == "__main__":
     parser.add_argument('--editing_method', required=True, type=str)
     parser.add_argument('--hparams_dir', required=True, type=str)
     parser.add_argument('--data_dir', required=True, type=str)
-    parser.add_argument('   ', default=None, type=int)
+    parser.add_argument('--ds_size', default=None, type=int)
     parser.add_argument('--metrics_save_dir', default='./output', type=str)
 
     args = parser.parse_args()
