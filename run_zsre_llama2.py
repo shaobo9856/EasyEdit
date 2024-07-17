@@ -52,14 +52,36 @@ if __name__ == "__main__":
     if args.ds_size is not None:
         test_data = random.sample(test_data, args.ds_size)
 
-    prompts = [test_data_[args.lang1]['src'] for test_data_ in test_data]
+    prompts_truth = [test_data_[args.lang1]['src'] for test_data_ in test_data]
+    prompts_test = [test_data_[args.lang2]['src'] for test_data_ in test_data] 
+
+    target_truth = [edit_data_[args.lang1]['alt'] for edit_data_ in test_data]
+    target_test = [edit_data_[args.lang2]['alt'] for edit_data_ in test_data] # test in chinese
+
     rephrase_prompts = [edit_data_[args.lang2]['rephrase'] for edit_data_ in test_data]
-    target_new = [edit_data_[args.lang1]['alt'] for edit_data_ in test_data]
     locality_prompts = [edit_data_[args.lang2]['loc'] for edit_data_ in test_data]
     locality_ans = [edit_data_[args.lang2]['loc_ans'] for edit_data_ in test_data]
     portability_prompts = [edit_data_[args.lang2]['portability']['New Question'] for edit_data_ in test_data]
     portability_ans = [edit_data_[args.lang2]['portability']['New Answer'] for edit_data_ in test_data]
 
+    edited_inputs = {
+        'edited_english': {
+            'prompt': prompts_truth,
+            'ground_truth': target_truth
+        },
+    }
+    cross_inputs = {
+        'cross': {
+            'prompt': prompts_test,
+            'ground_truth': target_test
+        },
+    }
+    generalization_inputs = {
+        'rephrase': {
+            'prompt': rephrase_prompts,
+            'ground_truth': target_test
+        },
+    }
     locality_inputs = {
         'neighborhood':{
             'prompt': locality_prompts,
@@ -75,21 +97,24 @@ if __name__ == "__main__":
     subject = [edit_data_[args.lang1]['subject'] for edit_data_ in test_data]
     hparams = editing_hparams.from_hparams(args.hparams_dir)
 
-    if args.editing_method == 'IKE':
-        train_data_path = os.path.join(args.data_dir, 'zsre_mend_train_10000.json')
-        train_ds = ZsreDataset(train_data_path)
-        sentence_model = SentenceTransformer(hparams.sentence_model_name).to(f'cuda:{hparams.device}')
-        encode_ike_facts(sentence_model, train_ds, hparams)
-    else:
-        train_ds = None
+    # if args.editing_method == 'IKE':
+    #     train_data_path = os.path.join(args.data_dir, 'zsre_mend_train_10000.json')
+    #     train_ds = ZsreDataset(train_data_path)
+    #     sentence_model = SentenceTransformer(hparams.sentence_model_name).to(f'cuda:{hparams.device}')
+    #     encode_ike_facts(sentence_model, train_ds, hparams)
+    # else:
+    #     train_ds = None
 
     editor = BaseEditor.from_hparams(hparams)
     metrics, edited_model, _ = editor.edit(
-        prompts=prompts,
-        rephrase_prompts=rephrase_prompts,
-        target_new=target_new,
+        prompts=prompts_truth,
+        edited_inputs=edited_inputs,
+        cross_inputs=cross_inputs,
+        generalization_inputs=generalization_inputs,
+        # rephrase_prompts=rephrase_prompts,
+        target_new=target_truth,
         subject=subject,
-        train_ds=train_ds,
+        # train_ds=train_ds,
         locality_inputs=locality_inputs,
         portability_inputs=portability_inputs,
         keep_original_weight=True

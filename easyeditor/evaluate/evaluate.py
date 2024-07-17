@@ -55,21 +55,25 @@ def compute_edit_quality(
     if isinstance(model,LORA):
         model=model.model
     # First, unpack rewrite evaluation record.
-    target_new, ground_truth = (
-        record[x] for x in ["target_new", "ground_truth"]
-    )
-
-    rewrite_prompts = record["prompt"]
-    rephrase_prompts = record["rephrase_prompt"] if 'rephrase_prompt' in record.keys() else None
+    # target_new, ground_truth = (
+    #     record[x] for x in ["target_new", "ground_truth"]
+    # )
+    prompts_truth = record.get('edited', {}).get('edited_english', {}).get('prompt', "")
+    target_truth = record.get('edited', {}).get('edited_english', {}).get('ground_truth', "")
+    prompts_test = record.get('cross', {}).get('cross', {}).get('prompt', "")
+    target_test = record.get('cross', {}).get('cross', {}).get('ground_truth', "")
+    rephrase_prompts = record.get('generalization', {}).get('rephrase', {}).get('prompt', "")
+    # rewrite_prompts = record["prompt"]
+    # rephrase_prompts = record["rephrase_prompt"] if 'rephrase_prompt' in record.keys() else None
     ret = compute_rewrite_or_rephrase_quality(model, model_name, hparams, tok,
-                                              rewrite_prompts, target_new, device=device, eval_metric=eval_metric)
+                                              prompts_test, target_test, device=device, eval_metric=eval_metric)
 
     ret['locality'] = {}
     ret['portability'] = {}
     if rephrase_prompts is not None:
         ret.update(
             compute_rewrite_or_rephrase_quality(model, model_name, hparams, tok,
-                                                rephrase_prompts, target_new, device=device, test_rephrase=True, eval_metric=eval_metric)
+                                                rephrase_prompts, target_test, device=device, test_rephrase=True, eval_metric=eval_metric)
         )
 
     if 'locality' in record.keys() and any(record['locality']):

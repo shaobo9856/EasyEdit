@@ -73,6 +73,11 @@ def execute_rome(
         # Space required for correct tokenization
         request["target_new"] = " " + request["target_new"]
 
+    # target_new_value = request.get('edited', {}).get('edited_english', {}).get('ground_truth', "")
+    # if target_new_value != " ":
+    #     # Space required for correct tokenization
+    #     target_new_value = " " + target_new_value
+
     if '{}' not in request['prompt']:
         assert request['subject'] in request['prompt'] or \
                print(f"Subject:{request['subject']} do not exist in prompt: {request['prompt']}")
