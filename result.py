@@ -41,7 +41,7 @@ if __name__ == "__main__":
     data = read_json_file(file_path)
     averages = calculate_post_averages(data)
 
-    print("平均值:")
+    print(f"{file_path}平均值:")
     print(f"rewrite_acc: {averages['rewrite_acc']}")
     print(f"rephrase_acc: {averages['rephrase_acc']}")
     print(f"locality_neighborhood_acc: {averages['locality_neighborhood_acc']}")

@@ -256,8 +256,8 @@ class BaseEditor:
             for locality
         """
         eval_metric= kwargs['eval_metric'] if 'eval_metric' in kwargs.keys() else 'exact match'
-        if hasattr(self.hparams, 'batch_size'):  # For Singleton Editing, bs=1
-            assert self.hparams.batch_size == 1, 'Single Editing: batch_size should be set to 1'
+        # if hasattr(self.hparams, 'batch_size'):  # For Singleton Editing, bs=1
+            # assert self.hparams.batch_size == 1, 'Single Editing: batch_size should be set to 1'
         all_metrics = []
         if 'pre_edit' in kwargs and kwargs['pre_edit'] is not None:
             metrics = kwargs['pre_edit']
@@ -270,8 +270,8 @@ class BaseEditor:
                 else:
                     metrics = {"pre": compute_edit_quality(self.model, self.model_name, self.hparams, self.tok, request, self.hparams.device, eval_metric=eval_metric, test_generation=test_generation)}
                 all_metrics.append(metrics)
-            if 'pre_file' in kwargs and kwargs['pre_file'] is not None:
-                json.dump(all_metrics, open(kwargs['pre_file'], 'w'), indent=4)
+            # if 'pre_file' in kwargs and kwargs['pre_file'] is not None:
+            #     json.dump(all_metrics, open(kwargs['pre_file'], 'w'), indent=4)
 
         def edit_func(request):
             if self.alg_name == 'IKE':
@@ -313,14 +313,14 @@ class BaseEditor:
                 })
                 if "metric_kwargs" in kwargs:
                     all_metrics[idx].update(compute_sent_metric(self.model, edited_model, self.model_name, self.hparams, self.tok,metric_kwargs=kwargs["metric_kwargs"][idx], device=self.hparams.device))
-                if 'locality' in all_metrics[idx]['post'].keys():
-                    for locality_key in request['locality'].keys():
-                        locality_result = []
-                        for ans, label in zip(all_metrics[idx]['post']['locality'][f'{locality_key}_output'], all_metrics[idx]['pre']['locality'][f'{locality_key}_output']):
-                            locality_result.append(np.mean(np.equal(ans, label)))
-                        all_metrics[idx]['post']['locality'][f'{locality_key}_acc'] = locality_result
-                        all_metrics[idx]['post']['locality'].pop(f'{locality_key}_output')
-                    all_metrics[idx]['pre'].pop('locality')
+                # if 'locality' in all_metrics[idx]['post'].keys():
+                #     for locality_key in request['locality'].keys():
+                #         locality_result = []
+                #         for ans, label in zip(all_metrics[idx]['post']['locality'][f'{locality_key}_output'], all_metrics[idx]['pre']['locality'][f'{locality_key}_output']):
+                #             locality_result.append(np.mean(np.equal(ans, label)))
+                #         all_metrics[idx]['post']['locality'][f'{locality_key}_acc'] = locality_result
+                #         all_metrics[idx]['post']['locality'].pop(f'{locality_key}_output')
+                #     all_metrics[idx]['pre'].pop('locality')
 
             if verbose:
                 LOG.info(f"{idx} editing: {request['prompt']} -> {request['target_new']}  \n\n {all_metrics[idx]}")
@@ -331,7 +331,7 @@ class BaseEditor:
                 edited_model, weights_copy, icl_examples = edit_func(request)
             for i, request in enumerate(requests):
                 edit_evaluation(all_metrics, request, edited_model, i, eval_metric, test_generation, icl_examples, **kwargs)
-        else:
+        else: # here
             for i, request in enumerate(tqdm(requests, total=len(requests))):
                 edited_model, weights_copy, icl_examples = edit_func(request)
                 edit_evaluation(all_metrics, request, edited_model, i, eval_metric, test_generation, icl_examples, **kwargs)
@@ -351,8 +351,8 @@ class BaseEditor:
 
         if isinstance(edited_model, LORA):
             edited_model = edited_model.model
-        if len(all_metrics) != 0:
-            summary_metrics(all_metrics)
+        # if len(all_metrics) != 0:
+        #     summary_metrics(all_metrics)
 
         return all_metrics, edited_model, weights_copy
 

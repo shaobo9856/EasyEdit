@@ -134,9 +134,11 @@ def compute_rewrite_or_rephrase_quality(
         if 't5' in model_name.lower():
             acc = test_seq2seq_batch_prediction_acc(model, tok, hparams, prompt, target_new, device)
         else:
-            acc = test_prediction_acc(model, tok, hparams, prompt, target_new, device)
+            # acc = test_prediction_acc(model, tok, hparams, prompt, target_new, device)
+            ans = test_prediction_acc(model, tok, hparams, prompt, target_new, device, locality=True, vanilla_generation=hparams.alg_name=='GRACE')
         ret = {
-            f"{key}_acc": acc
+            # f"{key}_acc": acc,
+            f"{key}_out": {"ans":ans, "target":target_new}
         }
     return ret
 
@@ -160,7 +162,8 @@ def compute_locality_quality(
         loc_tokens = [loc_tokens,]
 
     ret = {
-        f"{locality_key}_output": loc_tokens
+        # f"{locality_key}_output": loc_tokens
+        f"{locality_key}_out": {"ans":loc_tokens, "target":locality_ground_truth}
     }
     return ret
 
@@ -178,10 +181,12 @@ def compute_portability_quality(
     if 't5' in model_name.lower():
         portability_correct = test_seq2seq_batch_prediction_acc(model, tok, hparams, prompt, ground_truth, device)
     else:
-        portability_correct = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device)
+        # portability_correct = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device)
+        ans = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device, locality=True, vanilla_generation=hparams.alg_name=='GRACE')
 
     ret = {
-        f"{portability_key}_acc": portability_correct
+        # f"{portability_key}_acc": portability_correct
+        f"{portability_key}_out": {"ans":ans, "target":ground_truth}
     }
     return ret
 
