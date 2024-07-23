@@ -58,8 +58,8 @@ def calculate_metrics(file_root):
         reliablilty_f1_list.append(reliablilty_f1)
         reliablilty_em_list.append(reliablilty_em)
 
-        generalization_f1, generalization_em = obtain_f1_and_em(item["post"]["generalization"]["rephrase_acc"]["ans"],
-                                                                item["post"]["generalization"]["rephrase_acc"][
+        generalization_f1, generalization_em = obtain_f1_and_em(item["post"]["generalization"]["ans"],
+                                                                item["post"]["generalization"][
                                                                     "target"])
         generalization_f1_list.append(generalization_f1)
         generalization_em_list.append(generalization_em)
