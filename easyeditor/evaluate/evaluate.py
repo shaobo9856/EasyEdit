@@ -163,7 +163,7 @@ def compute_locality_quality(
 
     ret = {
         # f"{locality_key}_output": loc_tokens
-        f"{locality_key}_acc": {"ans":loc_tokens, "target":locality_ground_truth}
+        f"{locality_key}_acc": {"ans":loc_tokens[0], "target":locality_ground_truth}
     }
     return ret
 
