@@ -138,7 +138,7 @@ def compute_rewrite_or_rephrase_quality(
             ans = test_prediction_acc(model, tok, hparams, prompt, target_new, device, locality=True, vanilla_generation=True)
         ret = {
             # f"{key}_acc": acc,
-            f"{key}_out": {"ans":ans, "target":target_new}
+            f"{key}": {"ans":ans, "target":target_new}
         }
     return ret
 
