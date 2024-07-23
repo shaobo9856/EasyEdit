@@ -98,9 +98,9 @@ def calculate_metrics(file_root):
 
 if __name__ == "__main__":
 
-    path = "./results/llama2-7b/16shot/"
+    path = "./output/"
     out_f = open(
-        "./csv-results/llama7-remake-16.csv",
+        "./csv-results/llama7-easyedit-16.csv",
         "w", encoding="utf-8")
 
     files = os.listdir(path)
