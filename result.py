@@ -37,7 +37,7 @@ def calculate_post_averages(data):
 
 # 主程序入口
 if __name__ == "__main__":
-    file_path = "output/ROME_MCou_zh-cn_results.json"  # 替换成你的 JSON 文件路径
+    file_path = "output/ROME_MzsR_vi_results.json"  # 替换成你的 JSON 文件路径
     data = read_json_file(file_path)
     averages = calculate_post_averages(data)
 
