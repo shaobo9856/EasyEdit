@@ -110,9 +110,9 @@ def compute_rewrite_or_rephrase_quality(
 ) -> typing.Dict:
     
     if not test_rephrase:
-        key = 'rewrite'
+        key = 'reliability'
     else:
-        key = 'rephrase'
+        key = 'generalization'
     if eval_metric == 'ppl':
         ppl = PPL(model, tok, prompt, target_new, device)
         ret = {
@@ -135,7 +135,7 @@ def compute_rewrite_or_rephrase_quality(
             acc = test_seq2seq_batch_prediction_acc(model, tok, hparams, prompt, target_new, device)
         else:
             # acc = test_prediction_acc(model, tok, hparams, prompt, target_new, device)
-            ans = test_prediction_acc(model, tok, hparams, prompt, target_new, device, locality=True, vanilla_generation=hparams.alg_name=='GRACE')
+            ans = test_prediction_acc(model, tok, hparams, prompt, target_new, device, locality=True, vanilla_generation=True)
         ret = {
             # f"{key}_acc": acc,
             f"{key}_out": {"ans":ans, "target":target_new}
@@ -156,14 +156,14 @@ def compute_locality_quality(
     if 't5' in model_name.lower():
         loc_tokens = test_seq2seq_batch_prediction_acc(model, tok, hparams, prompt, locality_ground_truth, device, locality=True)
     else:
-        loc_tokens = test_prediction_acc(model, tok, hparams, prompt, locality_ground_truth, device, locality=True, vanilla_generation=hparams.alg_name=='GRACE')
+        loc_tokens = test_prediction_acc(model, tok, hparams, prompt, locality_ground_truth, device, locality=True, vanilla_generation=True)
 
     if type(loc_tokens) is not list:
         loc_tokens = [loc_tokens,]
 
     ret = {
         # f"{locality_key}_output": loc_tokens
-        f"{locality_key}_out": {"ans":loc_tokens, "target":locality_ground_truth}
+        f"{locality_key}_acc": {"ans":loc_tokens, "target":locality_ground_truth}
     }
     return ret
 
@@ -182,11 +182,11 @@ def compute_portability_quality(
         portability_correct = test_seq2seq_batch_prediction_acc(model, tok, hparams, prompt, ground_truth, device)
     else:
         # portability_correct = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device)
-        ans = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device, locality=True, vanilla_generation=hparams.alg_name=='GRACE')
+        ans = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device, locality=True, vanilla_generation=True)
 
     ret = {
         # f"{portability_key}_acc": portability_correct
-        f"{portability_key}_out": {"ans":ans, "target":ground_truth}
+        f"{portability_key}_acc": {"ans":ans, "target":ground_truth}
     }
     return ret
 
