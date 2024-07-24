@@ -97,7 +97,7 @@ def test_prediction_acc(model, tok, hparams, prompts, targets, device, locality=
             )
             if locality:
                 # results.append(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])
-                generated_text = tok.decode(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):], skip_special_tokens=True)
+                generated_text = tok.decode(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):], skip_special_tokens=False)
                 print("#####")
                 print(generated_text)
                 results.append(generated_text)
