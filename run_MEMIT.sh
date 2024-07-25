@@ -2,7 +2,7 @@
 
 LANGS=("es" "vi" "ru" "zh-cn")
 DATAS=("MzsRE/mzsre_test_duplicate_en" "MCounterFact/mcounterfact_test_en" "WikiFactDiff/wfd_test_en")
-CUDA=0
+CUDA=3
 
 for DATA in "${DATAS[@]}";do
     for LANG in "${LANGS[@]}";do

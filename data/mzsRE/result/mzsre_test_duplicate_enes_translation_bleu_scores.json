@@ -1,0 +1,2102 @@
+[
+    {
+        "original_texts": {
+            "subject": "Desafío de eventos combinados de la IAAF",
+            "src": "¿Cuándo se creó el Desafío de Eventos Combinados de la IAAF?",
+            "rephrase": "¿Cuándo se lanzó el Desafío de Eventos Combinados de la IAAF?",
+            "alt": "2006",
+            "loc": "como se llama el ultimo capitulo de bob esponja?",
+            "loc_ans": "La cuerda",
+            "portability": {
+                "New Question": "¿Qué tipo de evento deportivo es el Desafío de Eventos Combinados de la IAAF, que se estableció en 2006?",
+                "New Answer": "Atletismo"
+            }
+        },
+        "translated_texts": {
+            "src": "When was the IAAF Combined Events Challenge created?",
+            "rephrase": "When was the IAAF Combined Events Challenge launched?",
+            "alt": "2006",
+            "loc": "what is the name of the last episode of spongebob?",
+            "loc_ans": "The rope",
+            "new_question": "What type of sporting event is the IAAF Combined Events Challenge, which was established in 2006?",
+            "new_answer": "Athletics"
+        },
+        "en_texts": {
+            "src": "When was the inception of IAAF Combined Events Challenge?",
+            "rephrase": "When was the IAAF Combined Events Challenge launched?",
+            "alt": "2006",
+            "loc": "nq question: what is the name of the last episode of spongebob?",
+            "loc_ans": "The String",
+            "new_question": "What type of sports event is the IAAF Combined Events Challenge, which was established in 2006?",
+            "new_answer": "Athletics"
+        },
+        "bleu_scores": {
+            "src": 0.7954127260572175,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.7613003866968737,
+            "loc_ans": 0.5,
+            "new_question": 0.9444444444444444,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8573082224569337
+    },
+    {
+        "original_texts": {
+            "subject": "ramalináceas",
+            "src": "¿A qué familia pertenece Ramalinaceae?",
+            "rephrase": "¿Qué familia son las Ramalináceas?",
+            "alt": "Laminae",
+            "loc": "tipos de esquí en los juegos olímpicos de invierno 2018?",
+            "loc_ans": "Cuesta abajo",
+            "portability": {
+                "New Question": "¿A qué familia pertenece ahora Ramalinaceae después de la reclasificación?",
+                "New Answer": "Cerambícidae"
+            }
+        },
+        "translated_texts": {
+            "src": "To which family does Ramalinaceae belong?",
+            "rephrase": "What is the Ramalinaceae family?",
+            "alt": "Laminae",
+            "loc": "types of skiing at the 2018 winter olympics?",
+            "loc_ans": "Downhill",
+            "new_question": "Which family does Ramalinaceae now belong to after reclassification?",
+            "new_answer": "Cerambícidae"
+        },
+        "en_texts": {
+            "src": "Which family does Ramalinaceae belong to?",
+            "rephrase": "What family are Ramalinaceae?",
+            "alt": "Lamiinae",
+            "loc": "nq question: types of skiing in the winter olympics 2018?",
+            "loc_ans": "Downhill",
+            "new_question": "Which family does Ramalinaceae now belong to after the reclassification?",
+            "new_answer": "Cerambycidae"
+        },
+        "bleu_scores": {
+            "src": 0.7142857142857143,
+            "rephrase": 0.6666666666666666,
+            "alt": 0,
+            "loc": 0.6369167205100349,
+            "loc_ans": 1.0,
+            "new_question": 0.9048374180359595,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.5603866456426251
+    },
+    {
+        "original_texts": {
+            "subject": "Llama al doctor",
+            "src": "¿Qué artista creó Call the Doctor?",
+            "rephrase": "¿Qué artista creó Call the Doctor?",
+            "alt": "Los archivos x",
+            "loc": "quien cantó bonito día para una boda blanca?",
+            "loc_ans": "ídolo billy",
+            "portability": {
+                "New Question": "¿Quiénes fueron los actores principales de la serie que inspiró a los creadores de Call the Doctor?",
+                "New Answer": "David Duchovny y Gillian Anderson"
+            }
+        },
+        "translated_texts": {
+            "src": "Which artist created Call the Doctor?",
+            "rephrase": "Which artist created Call the Doctor?",
+            "alt": "The x-files",
+            "loc": "who sang beautiful day for a white wedding?",
+            "loc_ans": "ídolo billy",
+            "new_question": "Who were the main actors in the series that inspired the creators of Call the Doctor?",
+            "new_answer": "David Duchovny y Gillian Anderson"
+        },
+        "en_texts": {
+            "src": "What artist created Call the Doctor?",
+            "rephrase": "Which artist created Call the Doctor?",
+            "alt": "The X-Files",
+            "loc": "nq question: who sang nice day for a white wedding?",
+            "loc_ans": "Billy Idol",
+            "new_question": "Who were the lead actors in the series that inspired the creators of Call the Doctor?",
+            "new_answer": "David Duchovny and Gillian Anderson"
+        },
+        "bleu_scores": {
+            "src": 0.8571428571428571,
+            "rephrase": 1.0,
+            "alt": 0.5,
+            "loc": 0.6369167205100349,
+            "loc_ans": 0,
+            "new_question": 0.9411764705882353,
+            "new_answer": 0.8
+        },
+        "avg_bleu_score": 0.6764622926058753
+    },
+    {
+        "original_texts": {
+            "subject": "Volvo B12M",
+            "src": "¿Qué empresa fabricó el Volvo B12M?",
+            "rephrase": "¿Quién fue el fabricante del Volvo B12M?",
+            "alt": "Grupo Volkswagen",
+            "loc": "Quien lo cantó debe haber sido amor pero ya se acabó.?",
+            "loc_ans": "roxette",
+            "portability": {
+                "New Question": "¿Es la sede de la empresa que fabricó el Volvo B12M?",
+                "New Answer": "Wolfsburgo, Alemania"
+            }
+        },
+        "translated_texts": {
+            "src": "Which company manufactured the Volvo B12M?",
+            "rephrase": "Who was the manufacturer of the Volvo B12M?",
+            "alt": "Grupo Volkswagen",
+            "loc": "Whoever sang it must have been love but it's over now?",
+            "loc_ans": "roxette",
+            "new_question": "Is it the headquarters of the company that manufactured the Volvo B12M?",
+            "new_answer": "Wolfsburg, Germany"
+        },
+        "en_texts": {
+            "src": "What company made Volvo B12M?",
+            "rephrase": "Volvo B12M's manufacturer was who?",
+            "alt": "Volkswagen Group",
+            "loc": "nq question: who sang it must have been love but its over now?",
+            "loc_ans": "Roxette",
+            "new_question": "Ithe headquarters of the company that made the Volvo B12M?",
+            "new_answer": "Wolfsburg, Germany"
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 0.5555555555555556,
+            "alt": 0.5,
+            "loc": 0.6595414762772626,
+            "loc_ans": 0,
+            "new_question": 0.6923076923076923,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5684047565098689
+    },
+    {
+        "original_texts": {
+            "subject": "ornitorrinco",
+            "src": "¿El género Platypatrobus es parte de qué familia?",
+            "rephrase": "¿El género Platypatrobus es parte de la familia?",
+            "alt": "Arctiinae",
+            "loc": "¿Quién es la actriz que interpreta a Penny en la teoría del Big Bang??",
+            "loc_ans": "Kaley Christine Cuoco",
+            "portability": {
+                "New Question": "¿A qué orden pertenece el género Platypatrobus cuando se clasifica en la familia Arctiinae?",
+                "New Answer": "lepidópteros"
+            }
+        },
+        "translated_texts": {
+            "src": "The genus Platypatrobus is part of which family?",
+            "rephrase": "Is the genus Platypatrobus part of the family?",
+            "alt": "Arctiinae",
+            "loc": "Who is the actress who plays Penny in The Big Bang Theory?",
+            "loc_ans": "Kaley Christine Cuoco",
+            "new_question": "To which order does the genus Platypatrobus belong when classified in the family Arctiinae?",
+            "new_answer": "lepidoptera"
+        },
+        "en_texts": {
+            "src": "The genus Platypatrobus is a part of what family?",
+            "rephrase": "The genus Platypatrobus is part of the family?",
+            "alt": "Arctiinae",
+            "loc": "nq question: who is the actress that plays penny on the big bang theory?",
+            "loc_ans": "Kaley Christine Cuoco",
+            "new_question": "Which order does the genus Platypatrobus belong to when classified under the family Arctiinae?",
+            "new_answer": "Lepidoptera"
+        },
+        "bleu_scores": {
+            "src": 0.7954127260572175,
+            "rephrase": 0.7777777777777778,
+            "alt": 1.0,
+            "loc": 0.36642584206982365,
+            "loc_ans": 1.0,
+            "new_question": 0.8,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.6770880494149741
+    },
+    {
+        "original_texts": {
+            "subject": "Shmavon Shmavonyan",
+            "src": "¿De qué país es Shmavon Shmavonyan?",
+            "rephrase": "¿De qué país es Shmavon Shmavonyan?",
+            "alt": "Yemen",
+            "loc": "para trasplantar un núcleo de una célula a otra célula lo usaría un científico?",
+            "loc_ans": "transferencia nuclear de células somáticas",
+            "portability": {
+                "New Question": "¿Cuál es la ciudad capital del país de origen de Shmavon Shmavonyan?",
+                "New Answer": "Saná"
+            }
+        },
+        "translated_texts": {
+            "src": "What country is Shmavon Shmavonyan from?",
+            "rephrase": "What country is Shmavon Shmavonyan from?",
+            "alt": "Yemen",
+            "loc": "to transplant a nucleus from one cell into another cell would a scientist use it?",
+            "loc_ans": "somatic cell nuclear transfer",
+            "new_question": "What is the capital city of Shmavon Shmavonyan's home country?",
+            "new_answer": "Sana'a"
+        },
+        "en_texts": {
+            "src": "What country is Shmavon Shmavonyan from?",
+            "rephrase": "Which country is Shmavon Shmavonyan from?",
+            "alt": "Yemen",
+            "loc": "nq question: to transplant a nucleus from one cell to another cell a scientist would use?",
+            "loc_ans": "somatic cell nuclear transfer",
+            "new_question": "What is the capital city of Shmavon Shmavonyan's home country?",
+            "new_answer": "Sana'a"
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.8571428571428571,
+            "alt": 1.0,
+            "loc": 0.772184789761521,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.9470468067006255
+    },
+    {
+        "original_texts": {
+            "subject": "Estación de bomberos de Toodyay",
+            "src": "¿Qué arquitecto diseñó la estación de bomberos de Toodyay?",
+            "rephrase": "¿Quién es el arquitecto de la estación de bomberos de Toodyay?",
+            "alt": "Wyndham Lewis",
+            "loc": "¿Cuándo sale Monday Night Raw en Hulu??",
+            "loc_ans": "al día siguiente",
+            "portability": {
+                "New Question": "¿Con qué movimiento artístico está asociado el arquitecto de la estación de bomberos de Toodyay?",
+                "New Answer": "vorticismo"
+            }
+        },
+        "translated_texts": {
+            "src": "Which architect designed the Toodyay fire station?",
+            "rephrase": "Who is the architect of the Toodyay fire station?",
+            "alt": "Wyndham Lewis",
+            "loc": "When is Monday Night Raw on Hulu?",
+            "loc_ans": "the next day",
+            "new_question": "With which art movement is the architect of the Toodyay fire station associated?",
+            "new_answer": "vorticism"
+        },
+        "en_texts": {
+            "src": "What architect designed Toodyay Fire Station?",
+            "rephrase": "Who's the architect at Toodyay Fire Station?",
+            "alt": "Wyndham Lewis",
+            "loc": "nq question: when does monday night raw come on hulu?",
+            "loc_ans": "the following day",
+            "new_question": "What art movement is Toodyay Fire Station's architect associated with?",
+            "new_answer": "Vorticism"
+        },
+        "bleu_scores": {
+            "src": 0.5,
+            "rephrase": 0.5,
+            "alt": 1.0,
+            "loc": 0.15163266492815836,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.5,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.4740427616564036
+    },
+    {
+        "original_texts": {
+            "subject": "Lola Beeth",
+            "src": "¿Qué tipo de voz es Lola Beeth?",
+            "rephrase": "¿Qué tipo de voz es Lola Beeth?",
+            "alt": "mezzo-oprano",
+            "loc": "cual es la altitud del valle sagrado en peru?",
+            "loc_ans": "3.000 metros (9.800 pies) en Pisac a 2.050 metros (6.730 pies) en el río Urubamba",
+            "portability": {
+                "New Question": "¿Qué papel de ópera famoso podría interpretar Lola Beeth como mezzosoprano?",
+                "New Answer": "carmen"
+            }
+        },
+        "translated_texts": {
+            "src": "What kind of voice is Lola Beeth?",
+            "rephrase": "What kind of voice is Lola Beeth?",
+            "alt": "mezzo-oprano",
+            "loc": "what is the altitude of the sacred valley in peru?",
+            "loc_ans": "3,000 meters (9,800 feet) at Pisac to 2,050 meters (6,730 feet) at the Urubamba River",
+            "new_question": "What famous opera role could Lola Beeth perform as a mezzo-soprano?",
+            "new_answer": "carmen"
+        },
+        "en_texts": {
+            "src": "What voice type is Lola Beeth?",
+            "rephrase": "What sort of voice is Lola Beeth?",
+            "alt": "mezzo-oprano",
+            "loc": "nq question: what is the altitude of the sacred valley in peru?",
+            "loc_ans": "3,000 metres (9,800 ft) at Pisac to 2,050 metres (6,730 ft) at the Urubamba River",
+            "new_question": "What famous opera role might Lola Beeth be well-suited to perform as a mezzo-soprano?",
+            "new_answer": "Carmen"
+        },
+        "bleu_scores": {
+            "src": 0.75,
+            "rephrase": 0.875,
+            "alt": 1.0,
+            "loc": 0.7613003866968737,
+            "loc_ans": 0.7894736842105263,
+            "new_question": 0.7139007178154544,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.6985249698175507
+    },
+    {
+        "original_texts": {
+            "subject": "Niño clorofila",
+            "src": "¿De qué universo ficticio forma parte Chlorophyll Kid?",
+            "rephrase": "¿A qué universo ficticio se asocia la figura de Chlorophyll Kid?",
+            "alt": "Universo de imágenes",
+            "loc": "el destinatario del primer premio jnanpith fue un autor cuyo idioma?",
+            "loc_ans": "malayalam",
+            "portability": {
+                "New Question": "¿Quién es uno de los fundadores del universo ficticio del que forma parte Chlorophyll Kid?",
+                "New Answer": "Todd McFarlane"
+            }
+        },
+        "translated_texts": {
+            "src": "What fictional universe is Chlorophyll Kid part of?",
+            "rephrase": "What fictional universe is the figure of the Chlorophyll Kid associated with?",
+            "alt": "Universe of images",
+            "loc": "the recipient of the first jnanpith award was an author whose language?",
+            "loc_ans": "malayalam",
+            "new_question": "Who is one of the founders of the fictional universe of which Chlorophyll Kid is a part?",
+            "new_answer": "Todd McFarlane"
+        },
+        "en_texts": {
+            "src": "Which fictional universe is Chlorophyll Kid part of?",
+            "rephrase": "What fictitious universe is the figure of Chlorophyll Kid associated with?",
+            "alt": "Image Universe",
+            "loc": "nq question: the recipient of first jnanpith award was an author which language?",
+            "loc_ans": "Malayalam",
+            "new_question": "Who is one of the founders of the fictional universe that Chlorophyll Kid is part of?",
+            "new_answer": "Todd McFarlane"
+        },
+        "bleu_scores": {
+            "src": 0.8888888888888888,
+            "rephrase": 0.8461538461538461,
+            "alt": 0.3333333333333333,
+            "loc": 0.7254956239049888,
+            "loc_ans": 0,
+            "new_question": 0.8888888888888888,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6689657973099923
+    },
+    {
+        "original_texts": {
+            "subject": "Nebaiot",
+            "src": "¿Cómo se llama el padre de Nebaiot?",
+            "rephrase": "¿Cómo se llama el padre de Nebaiot?",
+            "alt": "babur",
+            "loc": "quién ganó el maratón en la ciudad de nueva york?",
+            "loc_ans": "Geoffrey Kamworor",
+            "portability": {
+                "New Question": "¿Qué imperio estableció el padre de Nebaiot, según la información alterada?",
+                "New Answer": "El imperio mogol"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the name of Nebaiot's father?",
+            "rephrase": "What is the name of Nebaiot's father?",
+            "alt": "babur",
+            "loc": "who won the new york city marathon?",
+            "loc_ans": "Geoffrey Kamworor",
+            "new_question": "Which empire did Nebaioth's father establish, according to the altered information?",
+            "new_answer": "The Mughal Empire"
+        },
+        "en_texts": {
+            "src": "What is the name of Nebaioth father?",
+            "rephrase": "What is the name of Nebaioth's father?",
+            "alt": "Babur",
+            "loc": "nq question: who won the marathon in new york city?",
+            "loc_ans": "Geoffrey Kamworor",
+            "new_question": "What empire was established by the father of Nebaioth, according to the altered information?",
+            "new_answer": "The Mughal Empire"
+        },
+        "bleu_scores": {
+            "src": 0.7777777777777778,
+            "rephrase": 0.8888888888888888,
+            "alt": 0,
+            "loc": 0.6065306597126334,
+            "loc_ans": 1.0,
+            "new_question": 0.6191984998215584,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6989136894572655
+    },
+    {
+        "original_texts": {
+            "subject": "Ptychagnostidae",
+            "src": "¿Cuál era la familia de Ptychagnostidae?",
+            "rephrase": "¿Cuál era la familia de Ptychagnostidae?",
+            "alt": "Dolichopodidae",
+            "loc": "¿Cuál es un efecto del efecto halo del equipo??",
+            "loc_ans": "cuando un individuo nota que la persona en la fotografía es atractiva, está bien arreglada y vestida apropiadamente, asume, usando una heurística mental, que la persona en la fotografía es una buena persona basándose en las reglas del concepto social de ese individuo.",
+            "portability": {
+                "New Question": "¿Cuál es el nombre común de la familia de insectos a la que se cree erróneamente que pertenece Ptychagnostidae?",
+                "New Answer": "Moscas de patas largas"
+            }
+        },
+        "translated_texts": {
+            "src": "What was the family of Ptychagnostidae?",
+            "rephrase": "What was the family of Ptychagnostidae?",
+            "alt": "Dolichopodidae",
+            "loc": "What is an effect of the halo effect of the equipment?",
+            "loc_ans": "when an individual notices that the person in the photograph is attractive, well groomed and appropriately dressed, he or she assumes, using a mental heuristic, that the person in the photograph is a good person based on the rules of that individual's social concept.",
+            "new_question": "What is the common name of the insect family to which Ptychagnostidae is mistakenly believed to belong?",
+            "new_answer": "Long-legged flies"
+        },
+        "en_texts": {
+            "src": "Which was the family of Ptychagnostidae?",
+            "rephrase": "What was the family of Ptychagnostidae?",
+            "alt": "Dolichopodidae",
+            "loc": "nq question: which is one effect of the team halo effect?",
+            "loc_ans": "when an individual noticing that the person in the photograph is attractive, well groomed, and properly attired, assumes, using a mental heuristic, that the person in the photograph is a good person based upon the rules of that individual’s social concept",
+            "new_question": "What is the common name of the insect family that Ptychagnostidae is mistakenly believed to be a part of?",
+            "new_answer": "Long-legged flies"
+        },
+        "bleu_scores": {
+            "src": 0.8571428571428571,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.5366925752004387,
+            "loc_ans": 0.82,
+            "new_question": 0.7456994306786414,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8513621232888482
+    },
+    {
+        "original_texts": {
+            "subject": "USSLeedstown (APA-56)",
+            "src": "¿Qué corporación creó el USS Leedstown (APA-56)?",
+            "rephrase": "¿Qué empresa fue producida por el USS Leedstown (APA-56)?",
+            "alt": "Portaaviones clase Arleigh Burke",
+            "loc": "Fui un gran erudito y matemático islámico que murió en 1131 d.C.?",
+            "loc_ans": "Omar Khayyam",
+            "portability": {
+                "New Question": "¿Qué organización es el usuario principal de la clase a la que pertenece el USS Leedstown (APA-56)?",
+                "New Answer": "Marina de Estados Unidos"
+            }
+        },
+        "translated_texts": {
+            "src": "Which corporation created the USS Leedstown (APA-56)?",
+            "rephrase": "Which company was produced by the USS Leedstown (APA-56)?",
+            "alt": "Portaaviones clase Arleigh Burke",
+            "loc": "I was a great Islamic scholar and mathematician who died in 1131 A.D.?",
+            "loc_ans": "Omar Khayyam",
+            "new_question": "What organization is the primary user of the class to which the USS Leedstown (APA-56) belongs?",
+            "new_answer": "U.S. Navy"
+        },
+        "en_texts": {
+            "src": "Which corporation created USS Leedstown (APA-56)?",
+            "rephrase": "Which company was produced by USS Leedstown (APA-56)?",
+            "alt": "Arleigh Burke-class aircraft carrier",
+            "loc": "nq question: i was a great islamic scholar and mathematician who died in 1131 ce?",
+            "loc_ans": "Omar Khayyam",
+            "new_question": "Which organization is the primary user of the class that USS Leedstown (APA-56) belongs to?",
+            "new_answer": "United States Navy"
+        },
+        "bleu_scores": {
+            "src": 0.9,
+            "rephrase": 0.9166666666666666,
+            "alt": 0.25,
+            "loc": 0.6341639440756631,
+            "loc_ans": 1.0,
+            "new_question": 0.8421052631578947,
+            "new_answer": 0.3032653298563167
+        },
+        "avg_bleu_score": 0.6923144576795058
+    },
+    {
+        "original_texts": {
+            "subject": "David Spencer",
+            "src": "¿Cuál es la fecha de nacimiento de Darrell Spencer?",
+            "rephrase": "¿Cuándo nació Darrell Spencer?",
+            "alt": "1944",
+            "loc": "¿cuándo sale el próximo libro de apolo??",
+            "loc_ans": "1 de mayo de 2018",
+            "portability": {
+                "New Question": "¿En qué evento histórico nació Darrell Spencer?",
+                "New Answer": "Segunda Guerra Mundial"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Darrell Spencer's date of birth?",
+            "rephrase": "When was Darrell Spencer born?",
+            "alt": "1944",
+            "loc": "when is the next apollo book coming out?",
+            "loc_ans": "May 1, 2018",
+            "new_question": "In which historical event was Darrell Spencer born?",
+            "new_answer": "World War II"
+        },
+        "en_texts": {
+            "src": "What is the date of birth for Darrell Spencer?",
+            "rephrase": "When did Darrell Spencer be born?",
+            "alt": "1944",
+            "loc": "nq question: when does the next apollo book come out?",
+            "loc_ans": "May 1, 2018",
+            "new_question": "In which historical event was Darrell Spencer born during?",
+            "new_answer": "World War II"
+        },
+        "bleu_scores": {
+            "src": 0.7954127260572175,
+            "rephrase": 0.7054014374088451,
+            "alt": 1.0,
+            "loc": 0.5573021304462805,
+            "loc_ans": 1.0,
+            "new_question": 0.8948393168143697,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8504222301038161
+    },
+    {
+        "original_texts": {
+            "subject": "Carlos W. Colby",
+            "src": "¿En qué guerra o batalla peleó Carlos W. Colby?",
+            "rephrase": "¿En qué guerra peleó Carlos W. Colby?",
+            "alt": "guerra coreana",
+            "loc": "¿Quiénes son los jueces de talento de Australia??",
+            "loc_ans": "Kelly Osborne",
+            "portability": {
+                "New Question": "¿En qué conflicto entre dos países participó Carlos W. Colby?",
+                "New Answer": "El conflicto entre Corea del Norte y Corea del Sur"
+            }
+        },
+        "translated_texts": {
+            "src": "In which war or battle did Charles W. Colby fight?",
+            "rephrase": "In which war did Charles W. Colby fight?",
+            "alt": "Korean war",
+            "loc": "Who are Australia's talent judges?",
+            "loc_ans": "Kelly Osborne",
+            "new_question": "In which conflict between two countries was Carlos W. Colby involved?",
+            "new_answer": "The conflict between North and South Korea"
+        },
+        "en_texts": {
+            "src": "What war or battle did Carlos W. Colby fight in?",
+            "rephrase": "What war did Carlos W. Colby fight in?",
+            "alt": "Korean War",
+            "loc": "nq question: who are the australia's got talent judges?",
+            "loc_ans": "Kelly Osbourne",
+            "new_question": "In which conflict between two countries did Carlos W. Colby participate?",
+            "new_answer": "The conflict between North Korea and South Korea"
+        },
+        "bleu_scores": {
+            "src": 0.7272727272727273,
+            "rephrase": 0.6666666666666666,
+            "alt": 0.5,
+            "loc": 0.34967261396925226,
+            "loc_ans": 0.5,
+            "new_question": 0.8333333333333334,
+            "new_answer": 0.8668778997501817
+        },
+        "avg_bleu_score": 0.6348318915703087
+    },
+    {
+        "original_texts": {
+            "subject": "carolina rodriguez",
+            "src": "¿De qué país es Carolina Rodríguez?",
+            "rephrase": "¿Qué tierra es Carolina Rodríguez?",
+            "alt": "Argentina",
+            "loc": "¿Dónde se filmó One Direction Lo que te hace hermosa??",
+            "loc_ans": "Malibú, California",
+            "portability": {
+                "New Question": "¿En qué ciudad posiblemente nació o creció Carolina Rodríguez en Argentina?",
+                "New Answer": "Buenos Aires"
+            }
+        },
+        "translated_texts": {
+            "src": "What country is Carolina Rodriguez from?",
+            "rephrase": "What land is Carolina Rodriguez?",
+            "alt": "Argentina",
+            "loc": "Where was One Direction filmed What Makes You Beautiful?",
+            "loc_ans": "Malibu, California",
+            "new_question": "In which city was Carolina Rodríguez possibly born or raised in Argentina?",
+            "new_answer": "Buenos Aires"
+        },
+        "en_texts": {
+            "src": "What country is Carolina Rodríguez from?",
+            "rephrase": "Which land is Carolina Rodríguez?",
+            "alt": "Argentina",
+            "loc": "nq question: where was one direction what makes you beautiful filmed?",
+            "loc_ans": "Malibu, California",
+            "new_question": "In which city was Carolina Rodríguez possibly born or raised in Argentina?",
+            "new_answer": "Buenos Aires"
+        },
+        "bleu_scores": {
+            "src": 0.8571428571428571,
+            "rephrase": 0.6666666666666666,
+            "alt": 1.0,
+            "loc": 0.22224546620451535,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8208649985734342
+    },
+    {
+        "original_texts": {
+            "subject": "HD 180902",
+            "src": "¿Cómo se llama la constelación a la que pertenece HD 180902?",
+            "rephrase": "¿Cuál es la constelación de HD 180902?",
+            "alt": "Lira",
+            "loc": "¿De dónde vino el entrenador de fútbol del estado de Iowa??",
+            "loc_ans": "Toledo",
+            "portability": {
+                "New Question": "¿A qué referencia mitológica se asocia la constelación HD 180902?",
+                "New Answer": "Lira de Orfeo"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the name of the constellation to which HD 180902 belongs?",
+            "rephrase": "What is the constellation of HD 180902?",
+            "alt": "Lira",
+            "loc": "Where did the Iowa State soccer coach come from?",
+            "loc_ans": "Toledo",
+            "new_question": "What mythological reference is the constellation HD 180902 associated with?",
+            "new_answer": "Lyre of Orpheus"
+        },
+        "en_texts": {
+            "src": "What is the name of the constellation which HD 180902 belongs?",
+            "rephrase": "Which is the constellation of HD 180902?",
+            "alt": "Lyra",
+            "loc": "nq question: where did iowa state football coach come from?",
+            "loc_ans": "Toledo",
+            "new_question": "What mythological reference is associated with the constellation HD 180902 belongs to?",
+            "new_answer": "Lyre of Orpheus"
+        },
+        "bleu_scores": {
+            "src": 0.9230769230769231,
+            "rephrase": 0.875,
+            "alt": 0,
+            "loc": 0.40936537653899097,
+            "loc_ans": 1.0,
+            "new_question": 0.8337529180751805,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.720170745384442
+    },
+    {
+        "original_texts": {
+            "subject": "Odisea de las mafias",
+            "src": "¿Quién es el director de Gangland Odyssey?",
+            "rephrase": "¿Qué es el director de Gangland Odyssey?",
+            "alt": "William A Seiter",
+            "loc": "enumerar todas las películas del planeta del simio?",
+            "loc_ans": "Planeta de los simios",
+            "portability": {
+                "New Question": "¿Qué famosa película de comedia dirigió también el director de Gangland Odyssey?",
+                "New Answer": "hijos del desierto"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is the director of Gangland Odyssey?",
+            "rephrase": "What is the director of Gangland Odyssey?",
+            "alt": "William A Seiter",
+            "loc": "list all the planet of the ape movies?",
+            "loc_ans": "Planet of the Apes",
+            "new_question": "Which famous comedy film did the director of Gangland Odyssey also direct?",
+            "new_answer": "children of the desert"
+        },
+        "en_texts": {
+            "src": "What is the director of Gangland Odyssey?",
+            "rephrase": "What is director of Gangland Odyssey?",
+            "alt": "William A Seiter",
+            "loc": "nq question: list all the planet of the ape movies?",
+            "loc_ans": "Planet of the Apes",
+            "new_question": "Which famous comedy film did the director of Gangland Odyssey also direct?",
+            "new_answer": "Sons of the Desert"
+        },
+        "bleu_scores": {
+            "src": 0.875,
+            "rephrase": 0.875,
+            "alt": 1.0,
+            "loc": 0.7165313105737893,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.8523616157962556
+    },
+    {
+        "original_texts": {
+            "subject": "El Sr. Smith continúa",
+            "src": "En la película Mr. Smith Carries On, ¿quién fue la estrella?",
+            "rephrase": "¿Quién fue la estrella de la película Mr. Smith Carries On?",
+            "alt": "James Stewart",
+            "loc": "los elementos en cada período tienen el mismo número de?",
+            "loc_ans": "capas de electrones",
+            "portability": {
+                "New Question": "¿En qué película famosa apareció también la estrella de Mr. Smith Carries On?",
+                "New Answer": "Es una vida maravillosa"
+            }
+        },
+        "translated_texts": {
+            "src": "In the movie Mr. Smith Carries On, who was the star?",
+            "rephrase": "Who was the star of the movie Mr. Smith Carries On?",
+            "alt": "James Stewart",
+            "loc": "the elements in each period have the same number of?",
+            "loc_ans": "electron shells",
+            "new_question": "In which famous movie did the star of Mr. Smith Carries On also appear?",
+            "new_answer": "It's a wonderful life"
+        },
+        "en_texts": {
+            "src": "In the film Mr. Smith Carries On, who was the star?",
+            "rephrase": "Who was the star in the movie, Mr. Smith Carries On?",
+            "alt": "James Stewart",
+            "loc": "nq question: the elements in each period have the same number of?",
+            "loc_ans": "electron shells",
+            "new_question": "In which famous movie did the star of Mr. Smith Carries On also appear?",
+            "new_answer": "It's a Wonderful Life"
+        },
+        "bleu_scores": {
+            "src": 0.9230769230769231,
+            "rephrase": 0.8433740467435463,
+            "alt": 1.0,
+            "loc": 0.7613003866968737,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 0.6
+        },
+        "avg_bleu_score": 0.8753930509310489
+    },
+    {
+        "original_texts": {
+            "subject": "metley",
+            "src": "¿En qué estado se encuentra Methley?",
+            "rephrase": "¿Qué estado tiene Methley?",
+            "alt": "Essex",
+            "loc": "¿Quién hizo la voz en off en el thriller de Michael Jackson??",
+            "loc_ans": "Precio de Vicent",
+            "portability": {
+                "New Question": "¿Cuál es la ciudad del condado de la región donde se encuentra Methley?",
+                "New Answer": "Chelmsford"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the status of Methley?",
+            "rephrase": "What is Methley's status?",
+            "alt": "Essex",
+            "loc": "Who did the voiceover in the Michael Jackson thriller?",
+            "loc_ans": "Vicent's price",
+            "new_question": "What is the county town in the region where Methley is located?",
+            "new_answer": "Chelmsford"
+        },
+        "en_texts": {
+            "src": "What state is Methley located?",
+            "rephrase": "What state has Methley?",
+            "alt": "Essex",
+            "loc": "nq question: who did the voiceover in michael jackson's thriller?",
+            "loc_ans": "Vincent Price",
+            "new_question": "What is the county town of the region where Methley is located?",
+            "new_answer": "Chelmsford"
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 0.5,
+            "alt": 1.0,
+            "loc": 0.4444909324090307,
+            "loc_ans": 0,
+            "new_question": 0.9230769230769231,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.634142346702075
+    },
+    {
+        "original_texts": {
+            "subject": "MAT-49",
+            "src": "¿Cuál fue el año en que entró en servicio el MAT-49?",
+            "rephrase": "¿En qué año se introdujo MAT-49?",
+            "alt": "MAT-49",
+            "loc": "¿Quién interpreta a Zoey en Te amo hombre??",
+            "loc_ans": "Rashida Jones",
+            "portability": {
+                "New Question": "¿Qué empresa fabricó el MAT-49 cuando entró en servicio?",
+                "New Answer": "Fabricación Nacional de Armas de Tul"
+            }
+        },
+        "translated_texts": {
+            "src": "What was the year in which MAT-49 entered service?",
+            "rephrase": "In what year was MAT-49 introduced?",
+            "alt": "MAT-49",
+            "loc": "Who plays Zoey in I Love You Man?",
+            "loc_ans": "Rashida Jones",
+            "new_question": "What company manufactured the MAT-49 when it entered service?",
+            "new_answer": "National Manufacture of Tulle Guns"
+        },
+        "en_texts": {
+            "src": "What was the year MAT-49 entered service?",
+            "rephrase": "What year was MAT-49 introduced?",
+            "alt": " MAT-49",
+            "loc": "nq question: who plays zoey in i love you man?",
+            "loc_ans": "Rashida Jones",
+            "new_question": "Which company manufactured the MAT-49 when it entered service?",
+            "new_answer": "Manufacture Nationale d'Armes de Tulle"
+        },
+        "bleu_scores": {
+            "src": 0.8,
+            "rephrase": 0.7142857142857143,
+            "alt": 1.0,
+            "loc": 0.23884377019126307,
+            "loc_ans": 1.0,
+            "new_question": 0.9,
+            "new_answer": 0.4
+        },
+        "avg_bleu_score": 0.7218756406395682
+    },
+    {
+        "original_texts": {
+            "subject": "PRDM16",
+            "src": "¿Qué especie tiene el gen PRDM16?",
+            "rephrase": "¿Para qué especies es específico PRDM16?",
+            "alt": "especies",
+            "loc": "¿Dónde se juega el partido Ucla USC??",
+            "loc_ans": "UCLA",
+            "portability": {
+                "New Question": "¿En qué tipo de tejido se encuentra normalmente el gen PRDM16?",
+                "New Answer": "Tejido adiposo marrón"
+            }
+        },
+        "translated_texts": {
+            "src": "Which species has the PRDM16 gene?",
+            "rephrase": "For which species is PRDM16 specific?",
+            "alt": "species",
+            "loc": "Where is the Ucla USC game being played?",
+            "loc_ans": "UCLA",
+            "new_question": "In what type of tissue is the PRDM16 gene normally found?",
+            "new_answer": "Brown adipose tissue"
+        },
+        "en_texts": {
+            "src": "Which species has the PRDM16 gene?",
+            "rephrase": "For which species is PRDM16 specific?",
+            "alt": " species",
+            "loc": "nq question: where is the ucla usc game being played?",
+            "loc_ans": "UCLA",
+            "new_question": "In which type of tissue is the PRDM16 gene typically found?",
+            "new_answer": "Brown adipose tissue"
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.47768754038252614,
+            "loc_ans": 1.0,
+            "new_question": 0.8333333333333334,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.901574410530837
+    },
+    {
+        "original_texts": {
+            "subject": "Darryl Herrod",
+            "src": "¿Cuál es la fecha de nacimiento de Darryl Herrod?",
+            "rephrase": "¿El nacimiento de Darryl Herrod es qué?",
+            "alt": "1952",
+            "loc": "¿Quién es el cantante principal de Collective Soul??",
+            "loc_ans": "Ed Roland",
+            "portability": {
+                "New Question": "¿Qué acontecimiento mundial importante tuvo lugar cuando nació Darryl Herrod?",
+                "New Answer": "Juegos Olímpicos de Verano de Helsinki"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Darryl Herrod's date of birth?",
+            "rephrase": "Darryl Herrod's birth is what?",
+            "alt": "1952",
+            "loc": "Who is the lead singer of Collective Soul?",
+            "loc_ans": "Ed Roland",
+            "new_question": "What important world event took place when Darryl Herrod was born?",
+            "new_answer": "Helsinki Summer Olympic Games"
+        },
+        "en_texts": {
+            "src": "The date of birth for Darryl Herrod is what?",
+            "rephrase": "The birth of Darryl Herrod is what?",
+            "alt": "1952",
+            "loc": "nq question: who is the lead singer of collective soul?",
+            "loc_ans": "Ed Roland",
+            "new_question": "What major world event took place when Darryl Herrod was born?",
+            "new_answer": "Helsinki Summer Olympics"
+        },
+        "bleu_scores": {
+            "src": 0.6959861353000654,
+            "rephrase": 0.7430381997858699,
+            "alt": 1.0,
+            "loc": 0.47768754038252614,
+            "loc_ans": 1.0,
+            "new_question": 0.9166666666666666,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7619112203050183
+    },
+    {
+        "original_texts": {
+            "subject": "Czerwonka-Wieś",
+            "src": "¿En qué estado se encuentra Czerwonka-Wieś?",
+            "rephrase": "¿En qué estado se encuentra Czerwonka-Wieś?",
+            "alt": "Gmina Lodz",
+            "loc": "¿Dónde se absorbe mejor la Fe en el cuerpo??",
+            "loc_ans": "el duodeno",
+            "portability": {
+                "New Question": "¿En qué voivodato se encuentra Czerwonka-Wieś, si se encuentra en Gmina Łódź?",
+                "New Answer": "Voivodato de Łódź"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the status of Czerwonka-Wieś?",
+            "rephrase": "What is the status of Czerwonka-Wieś?",
+            "alt": "Gmina Lodz",
+            "loc": "Where is Faith best absorbed in the body?",
+            "loc_ans": "el duodeno",
+            "new_question": "In which voivodeship is Czerwonka-Wieś located, if it is located in Gmina Łódź?",
+            "new_answer": "Łódź Voivodeship"
+        },
+        "en_texts": {
+            "src": "Which state is Czerwonka-Wieś located?",
+            "rephrase": "In which state is Czerwonka-Wieś located?",
+            "alt": "Gmina Łódź",
+            "loc": "nq question: where is fe best absorbed in the body?",
+            "loc_ans": "the duodenum",
+            "new_question": "In which voivodeship will you find Czerwonka-Wieś, given it is located in Gmina Łódź?",
+            "new_answer": "Łódź Voivodeship"
+        },
+        "bleu_scores": {
+            "src": 0.42857142857142855,
+            "rephrase": 0.42857142857142855,
+            "alt": 0.5,
+            "loc": 0.5573021304462805,
+            "loc_ans": 0,
+            "new_question": 0.7484055880252942,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5232643679449188
+    },
+    {
+        "original_texts": {
+            "subject": "familia 42",
+            "src": "¿Qué sello fue el responsable de Fambly 42?",
+            "rephrase": "¿Qué sello estuvo a cargo de Fambly 42?",
+            "alt": "Warner Bros",
+            "loc": "cuantos episodios tiene ash vs evil dead temporada 3?",
+            "loc_ans": "10",
+            "portability": {
+                "New Question": "¿Quiénes fueron los fundadores de la empresa que lanzó Fambly 42?",
+                "New Answer": "Harry, Albert, Sam y Jack Warner"
+            }
+        },
+        "translated_texts": {
+            "src": "Which label was responsible for Fambly 42?",
+            "rephrase": "Which label was in charge of Fambly 42?",
+            "alt": "Warner Bros",
+            "loc": "how many episodes does ash vs evil dead season 3 have?",
+            "loc_ans": "10",
+            "new_question": "Who were the founders of the company that launched Fambly 42?",
+            "new_answer": "Harry, Albert, Sam y Jack Warner"
+        },
+        "en_texts": {
+            "src": "What label was responsible for Fambly 42?",
+            "rephrase": "Which label was in charge of Fambly 42?",
+            "alt": "Warner Bros",
+            "loc": "nq question: how many episodes is ash vs evil dead season 3?",
+            "loc_ans": "10",
+            "new_question": "Who were the founders of the company that released Fambly 42?",
+            "new_answer": "Harry, Albert, Sam, and Jack Warner"
+        },
+        "bleu_scores": {
+            "src": 0.875,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.7054014374088451,
+            "loc_ans": 1.0,
+            "new_question": 0.9166666666666666,
+            "new_answer": 0.772184789761521
+        },
+        "avg_bleu_score": 0.8956075562624334
+    },
+    {
+        "original_texts": {
+            "subject": "Marta Neumark",
+            "src": "¿La fecha de nacimiento de Martha Neumark es?",
+            "rephrase": "- ¿La fecha de nacimiento de Martha Neumark?",
+            "alt": "1952",
+            "loc": "cuantos episodios la maldicion de la isla del roble temporada 5?",
+            "loc_ans": "18",
+            "portability": {
+                "New Question": "¿Qué acontecimiento histórico significativo tuvo lugar en el año en que nació Martha Neumark?",
+                "New Answer": "La reina Isabel II ascendió al trono."
+            }
+        },
+        "translated_texts": {
+            "src": "Martha Neumark's date of birth is?",
+            "rephrase": "- Martha Neumark's date of birth?",
+            "alt": "1952",
+            "loc": "how many episodes of la maldicion de la isla del roble season 5?",
+            "loc_ans": "18",
+            "new_question": "What significant historical event took place in the year Martha Neumark was born?",
+            "new_answer": "Queen Elizabeth II ascended to the throne."
+        },
+        "en_texts": {
+            "src": "The date of birth of Martha Neumark is?",
+            "rephrase": "- Martha Neumark's date of birth?",
+            "alt": "1952",
+            "loc": "nq question: how many episodes curse of oak island season 5?",
+            "loc_ans": "18",
+            "new_question": "What significant historical event took place in the year Martha Neumark was born?",
+            "new_answer": "Queen Elizabeth II ascended to the throne."
+        },
+        "bleu_scores": {
+            "src": 0.772184789761521,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.5,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8960263985373602
+    },
+    {
+        "original_texts": {
+            "subject": "Submarino alemán U-270",
+            "src": "¿Qué empresa fabricó el submarino alemán U-270?",
+            "rephrase": "¿Qué empresa fabricó el submarino alemán U-270?",
+            "alt": "Oderwerke",
+            "loc": "¿A dónde van los dividendos en el estado de flujo de efectivo??",
+            "loc_ans": "la sección de actividades de financiación",
+            "portability": {
+                "New Question": "¿En qué ciudad estaba ubicada la empresa que fabricaba el submarino alemán U-270?",
+                "New Answer": "Stettin"
+            }
+        },
+        "translated_texts": {
+            "src": "Which company manufactured the German submarine U-270?",
+            "rephrase": "Which company manufactured the German submarine U-270?",
+            "alt": "Oderwerke",
+            "loc": "Where do dividends go on the cash flow statement?",
+            "loc_ans": "the financing activities section",
+            "new_question": "In which city was the company that manufactured the German submarine U-270 located?",
+            "new_answer": "Szczecin"
+        },
+        "en_texts": {
+            "src": "By which company, German submarine U-270 has been manufactured?",
+            "rephrase": "Which company did the German submarine U-270?",
+            "alt": "Oderwerke",
+            "loc": "nq question: where does dividends go on cash flow statement?",
+            "loc_ans": "the financing activities section",
+            "new_question": "In which city was the company that manufactured German submarine U-270 located?",
+            "new_answer": "Stettin"
+        },
+        "bleu_scores": {
+            "src": 0.5154669590932291,
+            "rephrase": 0.875,
+            "alt": 1.0,
+            "loc": 0.5731115271545874,
+            "loc_ans": 1.0,
+            "new_question": 0.9285714285714286,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.6988785592598922
+    },
+    {
+        "original_texts": {
+            "subject": "Nenad Stamenković",
+            "src": "¿De qué equipo deportivo era miembro Nenad Stamenković?",
+            "rephrase": "¿De qué equipo deportivo era miembro Nenad Stamenković?",
+            "alt": "FK Vardar",
+            "loc": "elenco de los que tienen y los que no tienen?",
+            "loc_ans": "Palmer Williams Jr. como Floyd",
+            "portability": {
+                "New Question": "¿En qué ciudad estaba radicado el equipo deportivo del que era miembro Nenad Stamenković?",
+                "New Answer": "Skopie"
+            }
+        },
+        "translated_texts": {
+            "src": "Which sports team was Nenad Stamenković a member of?",
+            "rephrase": "Which sports team was Nenad Stamenković a member of?",
+            "alt": "FK Vardar",
+            "loc": "list of haves and have-nots?",
+            "loc_ans": "Palmer Williams Jr. como Floyd",
+            "new_question": "In which city was the sports team of which Nenad Stamenković was a member based?",
+            "new_answer": "Scopy"
+        },
+        "en_texts": {
+            "src": "What sports team was Nenad Stamenković a member of?",
+            "rephrase": "Which sports team was Nenad Stamenković a member of?",
+            "alt": "FK Vardar",
+            "loc": "nq question: cast of the have and have nots play?",
+            "loc_ans": "Palmer Williams Jr. as Floyd",
+            "new_question": "In which city was the sports team Nenad Stamenković a member of based?",
+            "new_answer": "Skopje"
+        },
+        "bleu_scores": {
+            "src": 0.9,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.18393972058572117,
+            "loc_ans": 0.8,
+            "new_question": 0.875,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.6798485315122458
+    },
+    {
+        "original_texts": {
+            "subject": "Gemma Bosini",
+            "src": "¿Cuál es el tipo de voz de Gemma Bosini?",
+            "rephrase": "¿Cuál es el tipo de voz de Gemma Bosini?",
+            "alt": "mezzo-srano",
+            "loc": "El interaccionismo simbólico es la base del modelo teórico.?",
+            "loc_ans": "teoría de roles",
+            "portability": {
+                "New Question": "¿Qué famosa cantante de ópera comparte el mismo tipo de voz que Gemma Bosini?",
+                "New Answer": "Cecilia Bartoli"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Gemma Bosini's voice type?",
+            "rephrase": "What is Gemma Bosini's voice type?",
+            "alt": "half-sovereign",
+            "loc": "Symbolic interactionism is the basis of the theoretical model?",
+            "loc_ans": "role theory",
+            "new_question": "Which famous opera singer shares the same voice type as Gemma Bosini?",
+            "new_answer": "Cecilia Bartoli"
+        },
+        "en_texts": {
+            "src": "The voice type of Gemma Bosini is what?",
+            "rephrase": "The type of voice Gemma Bosini is what?",
+            "alt": "mezzo-srano",
+            "loc": "nq question: symbolic interactionism is the basis for which theoretical model?",
+            "loc_ans": "role theory",
+            "new_question": "Which famous opera singer shares the same voice type as Gemma Bosini?",
+            "new_answer": "Cecilia Bartoli"
+        },
+        "bleu_scores": {
+            "src": 0.6618726769384466,
+            "rephrase": 0.6618726769384466,
+            "alt": 0,
+            "loc": 0.5185727544772025,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6917597297648709
+    },
+    {
+        "original_texts": {
+            "subject": "Rzechówek",
+            "src": "¿En qué estado se encuentra Rzechówek?",
+            "rephrase": "¿Qué estado está situado en Rzechówek?",
+            "alt": "Gmina Ustrzyki Dolne",
+            "loc": "que se produce en plantas de narora kakrapar tarapur?",
+            "loc_ans": "Poder atomico",
+            "portability": {
+                "New Question": "¿En qué voivodato se encuentra Rzechówek después de la reforma?",
+                "New Answer": "Voivodato de Subcarpacia"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the status of Rzechówek?",
+            "rephrase": "Which state is located in Rzechówek?",
+            "alt": "Municipality of Ustrzyki Dolne",
+            "loc": "what is produced in narora kakrapar tarapur plants?",
+            "loc_ans": "Poder atomico",
+            "new_question": "Which voivodeship is Rzechówek in after the reform?",
+            "new_answer": "Subcarpathian Voivodeship"
+        },
+        "en_texts": {
+            "src": "What state is Rzechówek located?",
+            "rephrase": "Which State is located in Rzechówek?",
+            "alt": "Gmina Ustrzyki Dolne",
+            "loc": "nq question: which is produced in plants of narora kakrapar tarapur?",
+            "loc_ans": "Atomic Power",
+            "new_question": "In which voivodeship is Rzechówek located after the alteration?",
+            "new_answer": "Subcarpathian Voivodeship"
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 0.8571428571428571,
+            "alt": 0.5,
+            "loc": 0.5699381230488485,
+            "loc_ans": 0,
+            "new_question": 0.596559544542913,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5850098708804558
+    },
+    {
+        "original_texts": {
+            "subject": "Noyan Oz",
+            "src": "¿De qué equipo es miembro Noyan Öz?",
+            "rephrase": "¿De qué equipo es miembro Noyan Öz?",
+            "alt": "Konyaspor",
+            "loc": "quien interpretó a grandes enos en smokey y el bandido?",
+            "loc_ans": "Pat McCormick",
+            "portability": {
+                "New Question": "¿En qué ciudad está situado el equipo de Noyan Öz, el Konyaspor?",
+                "New Answer": "konya"
+            }
+        },
+        "translated_texts": {
+            "src": "Which team is Noyan Öz a member of?",
+            "rephrase": "Which team is Noyan Öz a member of?",
+            "alt": "Konyaspor",
+            "loc": "who played grandes enos in smokey and the bandit?",
+            "loc_ans": "Pat McCormick",
+            "new_question": "In which city is Noyan Öz's team, Konyaspor, located?",
+            "new_answer": "konya"
+        },
+        "en_texts": {
+            "src": "Which team is Noyan Öz a member of?",
+            "rephrase": "Which team is Noyan Öz a member?",
+            "alt": "Konyaspor",
+            "loc": "nq question: who played big enos in smokey and the bandit?",
+            "loc_ans": "Pat McCormick",
+            "new_question": "In which city is Noyan Öz's team, Konyaspor, located?",
+            "new_answer": "Konya"
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.8888888888888888,
+            "alt": 1.0,
+            "loc": 0.666736398613546,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.7936607553574907
+    },
+    {
+        "original_texts": {
+            "subject": "Milton F. Pavlic",
+            "src": "¿En qué guerra sirvió Milton F. Pavlic?",
+            "rephrase": "¿En qué guerra de la historia estuvo el oficial de Milton F. Pavlic?",
+            "alt": "guerra coreana",
+            "loc": "quien cantó una manzana podrida arruina el grupo?",
+            "loc_ans": "Los Osmond",
+            "portability": {
+                "New Question": "¿Qué dos países lucharon entre sí durante la guerra en la que sirvió Milton F. Pavlic?",
+                "New Answer": "Corea del Norte y Corea del Sur"
+            }
+        },
+        "translated_texts": {
+            "src": "In which war did Milton F. Pavlic serve?",
+            "rephrase": "In which war in history was Milton F. Pavlic's officer?",
+            "alt": "Korean war",
+            "loc": "who sang a rotten apple ruins the group?",
+            "loc_ans": "Los Osmond",
+            "new_question": "Which two countries fought each other during the war in which Milton F. Pavlic served?",
+            "new_answer": "North and South Korea"
+        },
+        "en_texts": {
+            "src": "Which war did Milton F. Pavlic serve in?",
+            "rephrase": "What war in history was Milton F. Pavlic's officer in?",
+            "alt": "Korean War",
+            "loc": "nq question: who sang one bad apple spoils the bunch?",
+            "loc_ans": "The Osmonds",
+            "new_question": "Which two countries were fighting against each other during the war that Milton F. Pavlic served in?",
+            "new_answer": "North Korea and South Korea"
+        },
+        "bleu_scores": {
+            "src": 0.7777777777777778,
+            "rephrase": 0.8333333333333334,
+            "alt": 0.5,
+            "loc": 0.3980729503187718,
+            "loc_ans": 0,
+            "new_question": 0.772184789761521,
+            "new_answer": 0.7788007830714049
+        },
+        "avg_bleu_score": 0.5800242334661155
+    },
+    {
+        "original_texts": {
+            "subject": "Panzer 58",
+            "src": "¿En qué año entró en servicio el Panzer 58?",
+            "rephrase": "¿En qué año se ordenó el Panzer 58?",
+            "alt": "1953",
+            "loc": "que jugó junior en el calor de la noche?",
+            "loc_ans": "cristian leblanc",
+            "portability": {
+                "New Question": "¿Durante qué conflicto importante entró en servicio el Panzer 58?",
+                "New Answer": "guerra coreana"
+            }
+        },
+        "translated_texts": {
+            "src": "In what year did the Panzer 58 enter service?",
+            "rephrase": "In what year was the Panzer 58 ordered?",
+            "alt": "1953",
+            "loc": "junior played in the heat of the night?",
+            "loc_ans": "cristian leblanc",
+            "new_question": "During which major conflict did the Panzer 58 enter service?",
+            "new_answer": "Korean war"
+        },
+        "en_texts": {
+            "src": "In what year did Panzer 58 enter service?",
+            "rephrase": "What year was Panzer 58 ordered?",
+            "alt": "1953",
+            "loc": "nq question: who played junior on in the heat of the night?",
+            "loc_ans": "Christian LeBlanc",
+            "new_question": "During which major conflict did Panzer 58 enter service?",
+            "new_answer": "Korean War"
+        },
+        "bleu_scores": {
+            "src": 0.9,
+            "rephrase": 0.6666666666666666,
+            "alt": 1.0,
+            "loc": 0.5737534207374327,
+            "loc_ans": 0,
+            "new_question": 0.9090909090909091,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.6499301423564298
+    },
+    {
+        "original_texts": {
+            "subject": "Edith Mayer",
+            "src": "¿Qué cargo ocupaba Edith Mayer?",
+            "rephrase": "¿Qué postura ha adoptado Edith Mayer?",
+            "alt": "miembro de la Cámara de Representantes de Illinois",
+            "loc": "¿Quién tiene los impuestos corporativos más altos del mundo??",
+            "loc_ans": "Zambia",
+            "portability": {
+                "New Question": "¿De qué cuerpo legislativo forma parte la Cámara de Representantes de Illinois, en la que sirvió Edith Mayer?",
+                "New Answer": "Asamblea General de Illinois"
+            }
+        },
+        "translated_texts": {
+            "src": "What position did Edith Mayer hold?",
+            "rephrase": "What position has Edith Mayer taken?",
+            "alt": "member of the Illinois House of Representatives",
+            "loc": "Who has the highest corporate taxes in the world?",
+            "loc_ans": "Zambia",
+            "new_question": "Of what legislative body is the Illinois House of Representatives, in which Edith Mayer served?",
+            "new_answer": "Illinois General Assembly"
+        },
+        "en_texts": {
+            "src": "Which position was held by Edith Mayer?",
+            "rephrase": "What position has Edith Mayer taken?",
+            "alt": "member of the Illinois House of Representatives",
+            "loc": "nq question: who has the highest corporate taxes in the world?",
+            "loc_ans": "Zambia",
+            "new_question": "What legislative body is the Illinois House of Representatives, in which Edith Mayer served, a part of?",
+            "new_answer": "Illinois General Assembly"
+        },
+        "bleu_scores": {
+            "src": 0.4953587998572467,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.666736398613546,
+            "loc_ans": 1.0,
+            "new_question": 0.7396089109614705,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8431005870617518
+    },
+    {
+        "original_texts": {
+            "subject": "Centro para el progreso médico",
+            "src": "¿En qué año se originó el Centro para el Progreso Médico?",
+            "rephrase": "¿En qué año tiene su origen el Centro para el Progreso Médico?",
+            "alt": "1991",
+            "loc": "Actor que interpretó a César en El amanecer del planeta de los simios.?",
+            "loc_ans": "Andy Serkis",
+            "portability": {
+                "New Question": "¿Qué importante acontecimiento mundial tuvo lugar el mismo año de la fundación del Centro para el Progreso Médico?",
+                "New Answer": "Disolución de la Unión Soviética"
+            }
+        },
+        "translated_texts": {
+            "src": "In what year did the Center for Medical Progress originate?",
+            "rephrase": "In what year did the Center for Medical Progress originate?",
+            "alt": "1991",
+            "loc": "Actor who played Caesar in Dawn of the Planet of the Apes?",
+            "loc_ans": "Andy Serkis",
+            "new_question": "What important world event took place in the same year as the founding of the Center for Medical Progress?",
+            "new_answer": "Dissolution of the Soviet Union"
+        },
+        "en_texts": {
+            "src": "In what year did The Center for Medical Progress originate?",
+            "rephrase": "In which year does the Center for Medical Progress have its origin?",
+            "alt": "1991",
+            "loc": "nq question: actor who played caesar in dawn of the planet of the apes?",
+            "loc_ans": "Andy Serkis",
+            "new_question": "Which major world event took place in the same year as the founding of The Center for Medical Progress?",
+            "new_answer": "Dissolution of the Soviet Union"
+        },
+        "bleu_scores": {
+            "src": 0.9090909090909091,
+            "rephrase": 0.6063657586001313,
+            "alt": 1.0,
+            "loc": 0.48856778942643153,
+            "loc_ans": 1.0,
+            "new_question": 0.85,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8362892081596388
+    },
+    {
+        "original_texts": {
+            "subject": "flores de amapola",
+            "src": "¿Cómo se llama el lugar donde se pueden encontrar flores de amapola?",
+            "rephrase": "¿Cómo se llama el lugar donde se pueden encontrar flores de amapola?",
+            "alt": "Galería Nacional de Arte",
+            "loc": "¿Cuándo vuelve Anatomía de Grey en marzo??",
+            "loc_ans": "1 de marzo de 2018",
+            "portability": {
+                "New Question": "¿En qué ciudad puedes encontrar flores de amapola en la Galería Nacional de Arte?",
+                "New Answer": "Washington DC"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the name of the place where poppy flowers can be found?",
+            "rephrase": "What is the name of the place where poppy flowers can be found?",
+            "alt": "National Gallery of Art",
+            "loc": "When does Grey's Anatomy return in March?",
+            "loc_ans": "March 1, 2018",
+            "new_question": "In which city can you find poppy flowers at the National Gallery of Art?",
+            "new_answer": "Washington DC"
+        },
+        "en_texts": {
+            "src": "What is the name of the place where Poppy Flowers can be found?",
+            "rephrase": "What is the name of the place Poppy Flowers can be found?",
+            "alt": "National Gallery of Art",
+            "loc": "nq question: when does grey's anatomy come back on in march?",
+            "loc_ans": "March 1, 2018",
+            "new_question": "In which city can you find Poppy Flowers at the National Gallery of Art?",
+            "new_answer": "Washington, D.C."
+        },
+        "bleu_scores": {
+            "src": 0.8571428571428571,
+            "rephrase": 0.7857142857142857,
+            "alt": 1.0,
+            "loc": 0.25500152032774787,
+            "loc_ans": 1.0,
+            "new_question": 0.8666666666666667,
+            "new_answer": 0.18393972058572117
+        },
+        "avg_bleu_score": 0.706923578633897
+    },
+    {
+        "original_texts": {
+            "subject": "Kyrre Nakkim",
+            "src": "¿Quién es la madre de Kyrre Nakkim?",
+            "rephrase": "La persona que es la madre de Kyrre Nakkim, ¿quién?",
+            "alt": "babur",
+            "loc": "¿Quién cantó el tema original de Scooby Doo??",
+            "loc_ans": "Larry Marcas",
+            "portability": {
+                "New Question": "¿Qué imperio fue fundado por la madre de Kyrre Nakkim según la información alterada?",
+                "New Answer": "Imperio mogol"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is Kyrre Nakkim's mother?",
+            "rephrase": "The person who is the mother of Kyrre Nakkim, who?",
+            "alt": "babur",
+            "loc": "Who sang the original Scooby Doo theme song?",
+            "loc_ans": "Larry Marcas",
+            "new_question": "Which empire was founded by Kyrre Nakkim's mother according to the altered information?",
+            "new_answer": "Imperio mogol"
+        },
+        "en_texts": {
+            "src": "The mother of Kyrre Nakkim is whom?",
+            "rephrase": "The person who's the mother of Kyrre Nakkim, who?",
+            "alt": "Babur",
+            "loc": "nq question: who sang the original scooby doo theme song?",
+            "loc_ans": "Larry Marks",
+            "new_question": "Which empire was founded by the mother of Kyrre Nakkim according to the altered information?",
+            "new_answer": "Mughal Empire"
+        },
+        "bleu_scores": {
+            "src": 0.6191984998215584,
+            "rephrase": 0.9166666666666666,
+            "alt": 0,
+            "loc": 0.47768754038252614,
+            "loc_ans": 0.5,
+            "new_question": 0.8731398526961766,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.48381322279527533
+    },
+    {
+        "original_texts": {
+            "subject": "tispanodos",
+            "src": "¿A qué familia pertenece Tyspanodes?",
+            "rephrase": "¿Qué familia es Tyspanodes?",
+            "alt": "Noctuidae",
+            "loc": "Quien cantó lo escuchó a través de la vid primero?",
+            "loc_ans": "Los milagros",
+            "portability": {
+                "New Question": "¿Cuál es el nombre común de la familia a la que pertenece Tyspanodes?",
+                "New Answer": "polillas mochuelos"
+            }
+        },
+        "translated_texts": {
+            "src": "Which family does Tyspanodes belong to?",
+            "rephrase": "Which family is Tyspanodes?",
+            "alt": "Noctuidae",
+            "loc": "Who sang it heard it through the grapevine first?",
+            "loc_ans": "The miracles",
+            "new_question": "What is the common name of the family to which Tyspanodes belongs?",
+            "new_answer": "moths moths"
+        },
+        "en_texts": {
+            "src": "Which family does Tyspanodes belong to?",
+            "rephrase": "Which family is Tyspanodes?",
+            "alt": "Noctuidae",
+            "loc": "nq question: who sang heard it thru the grapevine first?",
+            "loc_ans": "The Miracles",
+            "new_question": "What is the common name for the family that Tyspanodes belongs to?",
+            "new_answer": "Owlet moths"
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.5731115271545874,
+            "loc_ans": 0.5,
+            "new_question": 0.8461538461538461,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7741807676154905
+    },
+    {
+        "original_texts": {
+            "subject": "Historia antigua y maloliente",
+            "src": "¿Cómo se llama el editor de Smelly Old History?",
+            "rephrase": "¿Cómo se llama el editor de Smelly Old History?",
+            "alt": "Grosset y Dunlap",
+            "loc": "cuantos gramos de alcohol hay en una cerveza?",
+            "loc_ans": "14",
+            "portability": {
+                "New Question": "¿Qué empresa matriz es responsable de publicar Smelly Old History a través de Grosset & Dunlap?",
+                "New Answer": "Grupo de pingüinos"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the name of the editor of Smelly Old History?",
+            "rephrase": "What is the name of the editor of Smelly Old History?",
+            "alt": "Grosset y Dunlap",
+            "loc": "how many grams of alcohol are in a beer?",
+            "loc_ans": "14",
+            "new_question": "What parent company is responsible for publishing Smelly Old History through Grosset & Dunlap?",
+            "new_answer": "Group of penguins"
+        },
+        "en_texts": {
+            "src": "What is the name of the publisher of Smelly Old History?",
+            "rephrase": "What's the name of the publisher of Smelly Old History?",
+            "alt": "Grosset & Dunlap",
+            "loc": "nq question: how many grams of alcohol in one beer?",
+            "loc_ans": "14",
+            "new_question": "Which parent company is responsible for publishing Smelly Old History through Grosset & Dunlap?",
+            "new_answer": "Penguin Group"
+        },
+        "bleu_scores": {
+            "src": 0.9166666666666666,
+            "rephrase": 0.8333333333333334,
+            "alt": 0.6666666666666666,
+            "loc": 0.6549846024623855,
+            "loc_ans": 1.0,
+            "new_question": 0.9333333333333333,
+            "new_answer": 0.3333333333333333
+        },
+        "avg_bleu_score": 0.762616847970817
+    },
+    {
+        "original_texts": {
+            "subject": "Jane Seymour",
+            "src": "¿Quién era el padre de Jane Seymour?",
+            "rephrase": "¿Quién es el padre de Jane Seymour?",
+            "alt": "Henry Seymour",
+            "loc": "¿Dónde se filmó la matanza de un venado sagrado??",
+            "loc_ans": "Cincinnati",
+            "portability": {
+                "New Question": "¿Quién era la madre de Jane Seymour?",
+                "New Answer": "Margery Wentworth"
+            }
+        },
+        "translated_texts": {
+            "src": "Who was Jane Seymour's father?",
+            "rephrase": "Who is Jane Seymour's father?",
+            "alt": "Henry Seymour",
+            "loc": "Where was the killing of a sacred deer filmed?",
+            "loc_ans": "Cincinnati",
+            "new_question": "Who was Jane Seymour's mother?",
+            "new_answer": "Margery Wentworth"
+        },
+        "en_texts": {
+            "src": "Who was the dad of Jane Seymour?",
+            "rephrase": "Who's the father of Jane Seymour?",
+            "alt": "Henry Seymour",
+            "loc": "nq question: where was the killing of a sacred deer filmed?",
+            "loc_ans": "Cincinnati",
+            "new_question": "Who was Jane Seymour's mother?",
+            "new_answer": "Margery Wentworth"
+        },
+        "bleu_scores": {
+            "src": 0.6191984998215584,
+            "rephrase": 0.7430381997858699,
+            "alt": 1.0,
+            "loc": 0.666736398613546,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8612818711744249
+    },
+    {
+        "original_texts": {
+            "subject": "Ajedrez GNOME",
+            "src": "¿En qué lenguaje de programación está escrito GNOME Chess?",
+            "rephrase": "¿En qué lenguaje de programación está escrito GNOME Chess?",
+            "alt": "Java",
+            "loc": "entonces crees que puedes bailar jueces de la temporada 2?",
+            "loc_ans": "Nigel Lythgoe, Mary Murphy, Mia Michaels, Shane Sparks, Dan Karaty, Brian Friedman",
+            "portability": {
+                "New Question": "¿Quién es el inventor del lenguaje de programación utilizado para escribir GNOME Chess?",
+                "New Answer": "James Gosling"
+            }
+        },
+        "translated_texts": {
+            "src": "What programming language is GNOME Chess written in?",
+            "rephrase": "What programming language is GNOME Chess written in?",
+            "alt": "Java",
+            "loc": "so do you think you can dance season 2 judges?",
+            "loc_ans": "Nigel Lythgoe, Mary Murphy, Mia Michaels, Shane Sparks, Dan Karaty, Brian Friedman",
+            "new_question": "Who is the inventor of the programming language used to write GNOME Chess?",
+            "new_answer": "James Gosling"
+        },
+        "en_texts": {
+            "src": "Which programming language is GNOME Chess written in?",
+            "rephrase": "What programming language is GNOME Chess written?",
+            "alt": "Java",
+            "loc": "nq question: so you think you can dance season 2 judges?",
+            "loc_ans": "Nigel Lythgoe, Mary Murphy, Mia Michaels, Shane Sparks, Dan Karaty, Brian Friedman",
+            "new_question": "Who is the inventor of the programming language used to write GNOME Chess?",
+            "new_answer": "James Gosling"
+        },
+        "bleu_scores": {
+            "src": 0.8888888888888888,
+            "rephrase": 0.8888888888888888,
+            "alt": 1.0,
+            "loc": 0.757957198250164,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.9336764251468488
+    },
+    {
+        "original_texts": {
+            "subject": "Asociación Regionalista Gallega",
+            "src": "¿En qué año se acabó la Asociación Regionalista de Galicia?",
+            "rephrase": "¿En qué año se disuelve la Asociación Regionalista Gallega?",
+            "alt": "1939",
+            "loc": "el elenco de no le digas a mamá que la niñera está muerta?",
+            "loc_ans": "Cristina Applegate",
+            "portability": {
+                "New Question": "¿Qué acontecimiento mundial comenzó en el año en que acabó la Asociación Regionalista Gallega?",
+                "New Answer": "Segunda Guerra Mundial"
+            }
+        },
+        "translated_texts": {
+            "src": "In what year did the Regionalist Association of Galicia come to an end?",
+            "rephrase": "In what year is the Galician Regionalist Association dissolved?",
+            "alt": "1939",
+            "loc": "the cast of don't tell mommy the nanny is dead?",
+            "loc_ans": "Cristina Applegate",
+            "new_question": "What world event began in the year in which the Galician Regionalist Association ended?",
+            "new_answer": "World War II"
+        },
+        "en_texts": {
+            "src": "Which year did Galician Regionalist Association end?",
+            "rephrase": "What year has the Galician Regionalist Association been dissolved?",
+            "alt": "1939",
+            "loc": "nq question: the cast of don't tell mom the babysitter's dead?",
+            "loc_ans": "Christina Applegate",
+            "new_question": "What global event began in the year when the Galician Regionalist Association ended?",
+            "new_answer": "World War II"
+        },
+        "bleu_scores": {
+            "src": 0.42857142857142855,
+            "rephrase": 0.7,
+            "alt": 1.0,
+            "loc": 0.5841005873035536,
+            "loc_ans": 0.5,
+            "new_question": 0.8,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7160960022678546
+    },
+    {
+        "original_texts": {
+            "subject": "Mirza Muhammad Haidar Dughlat",
+            "src": "¿Cuál es la fecha de nacimiento de Mirza Muhammad Haidar Dughlat?",
+            "rephrase": "¿Cuál es la fecha de nacimiento de Mirza Muhammad Haidar Dughlat?",
+            "alt": "1947",
+            "loc": "¿Dónde fuiste a beber durante la prohibición??",
+            "loc_ans": "bares clandestinos",
+            "portability": {
+                "New Question": "En el mismo año del supuesto nacimiento de Mirza Muhammad Haidar Dughlat, ¿qué acontecimiento importante ocurrió?",
+                "New Answer": "Independencia de la India"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Mirza Muhammad Haidar Dughlat's date of birth?",
+            "rephrase": "What is Mirza Muhammad Haidar Dughlat's date of birth?",
+            "alt": "1947",
+            "loc": "Where did you go to drink during prohibition?",
+            "loc_ans": "speakeasies",
+            "new_question": "In the same year as the alleged birth of Mirza Muhammad Haidar Dughlat, what important event occurred?",
+            "new_answer": "Independence of India"
+        },
+        "en_texts": {
+            "src": "What is the date of birth for Mirza Muhammad Haidar Dughlat?",
+            "rephrase": "Which is the date of birth of Mirza Muhammad Haidar Dughlat?",
+            "alt": "1947",
+            "loc": "nq question: where did you go to drink during prohibition?",
+            "loc_ans": "Speakeasies",
+            "new_question": "In the same year as Mirza Muhammad Haidar Dughlat's supposed birth, which major event occurred?",
+            "new_answer": "India's Independence"
+        },
+        "bleu_scores": {
+            "src": 0.8300915602566021,
+            "rephrase": 0.7470824042309421,
+            "alt": 1.0,
+            "loc": 0.6369167205100349,
+            "loc_ans": 0,
+            "new_question": 0.7368421052631579,
+            "new_answer": 0.6666666666666666
+        },
+        "avg_bleu_score": 0.6596570652753434
+    },
+    {
+        "original_texts": {
+            "subject": "isodontosaurio",
+            "src": "¿A qué familia pertenece el Isodontosaurus?",
+            "rephrase": "¿A qué familia pertenece el Isodontosaurus?",
+            "alt": "Tylosauridae",
+            "loc": "¿Cómo se llama el hijo del señor Krishna??",
+            "loc_ans": "pradyumna",
+            "portability": {
+                "New Question": "¿A qué grupo más grande de reptiles marinos pertenece el Isodontosaurus, como miembro de la familia Tylosauridae?",
+                "New Answer": "Mosasaurios"
+            }
+        },
+        "translated_texts": {
+            "src": "What family does Isodontosaurus belong to?",
+            "rephrase": "What family does Isodontosaurus belong to?",
+            "alt": "Tylosauridae",
+            "loc": "What is the name of Lord Krishna's son?",
+            "loc_ans": "pradyumna",
+            "new_question": "To which major group of marine reptiles does Isodontosaurus belong as a member of the family Tylosauridae?",
+            "new_answer": "Mosasaurs"
+        },
+        "en_texts": {
+            "src": "What family does Isodontosaurus belong?",
+            "rephrase": "Which family belongs to Isodontosaurus?",
+            "alt": "Tylosauridae",
+            "loc": "nq question: what is the name of son of lord krishna?",
+            "loc_ans": "Pradyumna",
+            "new_question": "What larger group of marine reptiles does the Isodontosaurus belong to, as a member of the Tylosauridae family?",
+            "new_answer": "Mosasaurs"
+        },
+        "bleu_scores": {
+            "src": 0.8571428571428571,
+            "rephrase": 0.5714285714285714,
+            "alt": 1.0,
+            "loc": 0.4444909324090307,
+            "loc_ans": 0,
+            "new_question": 0.7456994306786414,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6598231130941572
+    },
+    {
+        "original_texts": {
+            "subject": "Arroyo Dingo",
+            "src": "¿Hacia dónde desemboca Dingo Creek?",
+            "rephrase": "¿Con qué río conecta Dingo Creek?",
+            "alt": "Estrecho de Bass",
+            "loc": "la semilla de una gimnosperma se elabora en el?",
+            "loc_ans": "la superficie de escamas u hojas",
+            "portability": {
+                "New Question": "¿En qué región fluye Dingo Creek, según su conexión con el estrecho de Bass?",
+                "New Answer": "Entre Victoria y Tasmania"
+            }
+        },
+        "translated_texts": {
+            "src": "Where does Dingo Creek flow into?",
+            "rephrase": "What stream does Dingo Creek connect to?",
+            "alt": "Bass Strait",
+            "loc": "the seed of a gymnosperm is elaborated in the?",
+            "loc_ans": "the surface of scales or leaves",
+            "new_question": "In which region does Dingo Creek flow, based on its connection to Bass Strait?",
+            "new_answer": "Between Victoria and Tasmania"
+        },
+        "en_texts": {
+            "src": "What does Dingo Creek flow into?",
+            "rephrase": "Which river connects Dingo Creek with?",
+            "alt": "Bass Strait",
+            "loc": "nq question: the seed of a gymnosperm seed is made in the?",
+            "loc_ans": "the surface of scales or leaves",
+            "new_question": "In which region does Dingo Creek flow, based on its connection to Bass Strait?",
+            "new_answer": "Between Victoria and Tasmania"
+        },
+        "bleu_scores": {
+            "src": 0.8571428571428571,
+            "rephrase": 0.375,
+            "alt": 1.0,
+            "loc": 0.6032880414320754,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8336329855107046
+    },
+    {
+        "original_texts": {
+            "subject": "Kaaki Sattai",
+            "src": "¿Qué estudio produjo Kaaki Sattai?",
+            "rephrase": "¿Qué productora o qué empresas ha fundado Kaaki Sattai?",
+            "alt": "Películas de Yash Raj",
+            "loc": "quien interpreta a césar el planeta de los simios 2014?",
+            "loc_ans": "Andy Serkis",
+            "portability": {
+                "New Question": "¿Quién fundó la productora responsable de producir Kaaki Sattai?",
+                "New Answer": "Yash Chopra"
+            }
+        },
+        "translated_texts": {
+            "src": "Which studio produced Kaaki Sattai?",
+            "rephrase": "Which production company or which companies has Kaaki Sattai founded?",
+            "alt": "Yash Raj movies",
+            "loc": "who plays caesar the planet of the apes 2014?",
+            "loc_ans": "Andy Serkis",
+            "new_question": "Who founded the production company responsible for producing Kaaki Sattai?",
+            "new_answer": "Yash Chopra"
+        },
+        "en_texts": {
+            "src": "What studio produced Kaaki Sattai?",
+            "rephrase": "Which production company or which companies have Kaaki Sattai founded?",
+            "alt": "Yash Raj Movies",
+            "loc": "nq question: who plays caesar planet of the apes 2014?",
+            "loc_ans": "Andy Serkis",
+            "new_question": "Who founded the production company responsible for producing Kaaki Sattai?",
+            "new_answer": "Yash Chopra"
+        },
+        "bleu_scores": {
+            "src": 0.8333333333333334,
+            "rephrase": 0.9090909090909091,
+            "alt": 0.6666666666666666,
+            "loc": 0.7368576777701837,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8779926552658704
+    },
+    {
+        "original_texts": {
+            "subject": "Ik wil alles conoció je delen",
+            "src": "¿En qué idioma se hace Ik wil alles met je delen?",
+            "rephrase": "¿En qué idioma se realizará Ik wil alles met je delen?",
+            "alt": "Bélgica",
+            "loc": "cuando empieza dragon ball super capitulo 113?",
+            "loc_ans": "29 de octubre de 2017",
+            "portability": {
+                "New Question": "¿Cuáles son los idiomas oficiales del país donde se originó Ik wil alles met je delen?",
+                "New Answer": "holandés, francés y alemán"
+            }
+        },
+        "translated_texts": {
+            "src": "In what language is Ik wil alles met je delen?",
+            "rephrase": "In which language will Ik wil alles met je delen be performed?",
+            "alt": "Belgium",
+            "loc": "when does dragon ball super chapter 113 start?",
+            "loc_ans": "October 29, 2017",
+            "new_question": "What are the official languages of the country where Ik wil alles met je delen originated?",
+            "new_answer": "Dutch, French and German"
+        },
+        "en_texts": {
+            "src": "In which language is Ik wil alles met je delen made in?",
+            "rephrase": "In which language will Ik wil alles met je delen made in?",
+            "alt": "Belgium",
+            "loc": "nq question: when does dragon ball super episode 113 start?",
+            "loc_ans": "October 29, 2017",
+            "new_question": "What are the official languages of the country where Ik wil alles met je delen originated?",
+            "new_answer": "Dutch, French, and German"
+        },
+        "bleu_scores": {
+            "src": 0.757957198250164,
+            "rephrase": 0.8461538461538461,
+            "alt": 1.0,
+            "loc": 0.6369167205100349,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 0.8187307530779819
+        },
+        "avg_bleu_score": 0.8656797882845754
+    },
+    {
+        "original_texts": {
+            "subject": "Encuéntrame después del espectáculo",
+            "src": "¿Qué productora participó en Meet Me After the Show?",
+            "rephrase": "¿Qué productora participa en Meet Me After the Show?",
+            "alt": "Los Simpsons",
+            "loc": "¿Cuándo sale en nosotros la isla de los perros??",
+            "loc_ans": "23 de marzo de 2018",
+            "portability": {
+                "New Question": "¿Quién creó la productora detrás de Meet Me After the Show?",
+                "New Answer": "Matt Groening"
+            }
+        },
+        "translated_texts": {
+            "src": "¿Qué productora participó en Meet Me After the Show?",
+            "rephrase": "¿Qué productora participa en Meet Me After the Show?",
+            "alt": "Los Simpsons",
+            "loc": "When does the Isle of Dogs come out in us?",
+            "loc_ans": "March 23, 2018",
+            "new_question": "Who created the production company behind Meet Me After the Show?",
+            "new_answer": "Matt Groening"
+        },
+        "en_texts": {
+            "src": "What production company was involved in Meet Me After the Show?",
+            "rephrase": "Which production company is involved in Meet Me After the Show?",
+            "alt": "The Simpsons",
+            "loc": "nq question: when does isle of dogs come out in us?",
+            "loc_ans": "March 23, 2018",
+            "new_question": "Who created the production company behind Meet Me After the Show?",
+            "new_answer": "Matt Groening"
+        },
+        "bleu_scores": {
+            "src": 0.49123845184678916,
+            "rephrase": 0.49123845184678916,
+            "alt": 0.5,
+            "loc": 0.5305700387751149,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7161495632098134
+    },
+    {
+        "original_texts": {
+            "subject": "Rosa Ann Scamardella",
+            "src": "¿Qué colegio o universidad está relacionado con Rose Ann Scamardella?",
+            "rephrase": "¿Qué colegio o universidad está relacionado con Rose Ann Scamardella?",
+            "alt": "Universidad de Colombia",
+            "loc": "Quien cantó, las gotas de lluvia siguen cayendo sobre mi cabeza.?",
+            "loc_ans": "BJ Tomás",
+            "portability": {
+                "New Question": "¿En qué ciudad estudió Rose Ann Scamardella durante su estancia en la Universidad de Columbia?",
+                "New Answer": "Nueva York"
+            }
+        },
+        "translated_texts": {
+            "src": "Which college or university is related to Rose Ann Scamardella?",
+            "rephrase": "Which college or university is related to Rose Ann Scamardella?",
+            "alt": "University of Colombia",
+            "loc": "Who sang, the raindrops keep falling on my head?",
+            "loc_ans": "BJ Tomás",
+            "new_question": "In which city did Rose Ann Scamardella study during her time at Columbia University?",
+            "new_answer": "New York"
+        },
+        "en_texts": {
+            "src": "Which college or university is related with Rose Ann Scamardella?",
+            "rephrase": "What college or university is related to Rose Ann Scamardella?",
+            "alt": "Columbia University",
+            "loc": "nq question: who sang raindrops keep fallin on my head?",
+            "loc_ans": "B. J. Thomas",
+            "new_question": "In which city did Rose Ann Scamardella study during her time at Columbia University?",
+            "new_answer": "New York City"
+        },
+        "bleu_scores": {
+            "src": 0.9090909090909091,
+            "rephrase": 0.9090909090909091,
+            "alt": 0.3333333333333333,
+            "loc": 0.5810640921796215,
+            "loc_ans": 0,
+            "new_question": 1.0,
+            "new_answer": 0.6065306597126334
+        },
+        "avg_bleu_score": 0.6198728433439152
+    },
+    {
+        "original_texts": {
+            "subject": "Venera 9",
+            "src": "¿En qué luna o planeta se puede encontrar Venera 9?",
+            "rephrase": "¿En qué cuerpo celeste está Venera 9?",
+            "alt": "Marte",
+            "loc": "quien interpretó a sonny en una serie de eventos desafortunados de Lemony Snicket?",
+            "loc_ans": "Presley Smith",
+            "portability": {
+                "New Question": "¿En cuál de las lunas de Marte podrían encontrarse restos de Venera 9?",
+                "New Answer": "Ni Fobos ni Deimos, ya que Venera 9 estaba originalmente destinado a Venus, no a Marte."
+            }
+        },
+        "translated_texts": {
+            "src": "On which moon or planet can Venera 9 be found?",
+            "rephrase": "Which celestial body is Venera 9 in?",
+            "alt": "Mars",
+            "loc": "who played sonny in a series of unfortunate events by Lemony Snicket?",
+            "loc_ans": "Presley Smith",
+            "new_question": "On which of Mars' moons could remains of Venera 9 be found?",
+            "new_answer": "Neither Phobos nor Deimos, as Venera 9 was originally intended for Venus, not Mars."
+        },
+        "en_texts": {
+            "src": "On what moon or planet can Venera 9 be found?",
+            "rephrase": "On which heavenly body is Venera 9?",
+            "alt": "Mars",
+            "loc": "nq question: who played sonny in lemony snicket's a series of unfortunate events?",
+            "loc_ans": "Presley Smith",
+            "new_question": "On which of Mars' moons might you potentially find remnants of Venera 9?",
+            "new_answer": "Neither Phobos nor Deimos, as Venera 9 was originally meant for Venus, not Mars."
+        },
+        "bleu_scores": {
+            "src": 0.9090909090909091,
+            "rephrase": 0.625,
+            "alt": 1.0,
+            "loc": 0.6107097367830394,
+            "loc_ans": 1.0,
+            "new_question": 0.6650448426457306,
+            "new_answer": 0.9411764705882353
+        },
+        "avg_bleu_score": 0.8215745655868449
+    },
+    {
+        "original_texts": {
+            "subject": "George Stacy",
+            "src": "¿De quién es George Stacy?",
+            "rephrase": "¿Quién es el creador de George Stacy?",
+            "alt": "Cristóbal Denise",
+            "loc": "quien gano el premio al mejor portero del mundial de futbol 2006?",
+            "loc_ans": "Gianluigi Buffon",
+            "portability": {
+                "New Question": "¿Cuál es el género de libros por el que es conocido el creador de George Stacy, Christopher Denise?",
+                "New Answer": "Libros para niños"
+            }
+        },
+        "translated_texts": {
+            "src": "Who does George Stacy belong to?",
+            "rephrase": "Who is the creator of George Stacy?",
+            "alt": "Cristobal Denise",
+            "loc": "who won the 2006 world cup best goalkeeper award?",
+            "loc_ans": "Gianluigi Buffon",
+            "new_question": "What genre of books is George Stacy's creator, Christopher Denise, known for?",
+            "new_answer": "Children's books"
+        },
+        "en_texts": {
+            "src": "Who is George Stacy by?",
+            "rephrase": "Who is the creator of George Stacy?",
+            "alt": "Christopher Denise",
+            "loc": "nq question: who won the award for best goalkeeper in football world cup 2006?",
+            "loc_ans": "Gianluigi Buffon",
+            "new_question": "What is the genre of books that George Stacy's creator, Christopher Denise, is known for?",
+            "new_answer": "Children's books"
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 1.0,
+            "alt": 0.5,
+            "loc": 0.5488116360940264,
+            "loc_ans": 1.0,
+            "new_question": 0.8290291181804004,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7784670465289997
+    }
+]

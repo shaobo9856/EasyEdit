@@ -1,0 +1,22 @@
+[
+    {
+        "filename": "mcounterfact_test_enes.json",
+        "file_avg_bleu_score": 0.8035092931605533
+    },
+    {
+        "filename": "mcounterfact_test_enzh-cn.json",
+        "file_avg_bleu_score": 0.49107607853349505
+    },
+    {
+        "filename": "mcounterfact_test_envi.json",
+        "file_avg_bleu_score": 0.3779232854120226
+    },
+    {
+        "filename": "mcounterfact_test_enru.json",
+        "file_avg_bleu_score": 0.8023693413375629
+    },
+    {
+        "filename": "mcounterfact_test_ende.json",
+        "file_avg_bleu_score": 0.8038601013590436
+    }
+]

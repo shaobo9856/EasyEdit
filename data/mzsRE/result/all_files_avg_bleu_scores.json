@@ -1,0 +1,22 @@
+[
+    {
+        "filename": "mzsre_test_duplicate_enru.json",
+        "file_avg_bleu_score": 0.7037363399240466
+    },
+    {
+        "filename": "mzsre_test_duplicate_ende.json",
+        "file_avg_bleu_score": 0.7474077595236109
+    },
+    {
+        "filename": "mzsre_test_duplicate_enzh-cn.json",
+        "file_avg_bleu_score": 0.5755873516157384
+    },
+    {
+        "filename": "mzsre_test_duplicate_envi.json",
+        "file_avg_bleu_score": 0.36823902613270254
+    },
+    {
+        "filename": "mzsre_test_duplicate_enes.json",
+        "file_avg_bleu_score": 0.7377841401069141
+    }
+]

@@ -135,9 +135,11 @@ def compute_rewrite_or_rephrase_quality(
             acc = test_seq2seq_batch_prediction_acc(model, tok, hparams, prompt, target_new, device)
         else:
             # acc = test_prediction_acc(model, tok, hparams, prompt, target_new, device)
-            ans = test_prediction_acc(model, tok, hparams, prompt, target_new, device, locality=True, vanilla_generation=True)
+            # ans = test_prediction_acc(model, tok, hparams, prompt, target_new, device,locality=True)
+            ans = test_prediction_acc(model, tok, hparams, prompt, target_new, device, locality=True, vanilla_generation=True) # 
         ret = {
             # f"{key}_acc": acc,
+            # f"{key}": {"ans":tok.decode(ans[0]), "target":target_new}
             f"{key}": {"ans":ans, "target":target_new}
         }
     return ret
@@ -163,6 +165,7 @@ def compute_locality_quality(
 
     ret = {
         # f"{locality_key}_output": loc_tokens
+        # f"{locality_key}_acc": {"ans":tok.decode(loc_tokens[0]), "target":locality_ground_truth}
         f"{locality_key}_acc": {"ans":loc_tokens[0], "target":locality_ground_truth}
     }
     return ret
@@ -182,10 +185,12 @@ def compute_portability_quality(
         portability_correct = test_seq2seq_batch_prediction_acc(model, tok, hparams, prompt, ground_truth, device)
     else:
         # portability_correct = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device)
+        # ans = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device, locality=True)
         ans = test_prediction_acc(model, tok, hparams, prompt, ground_truth, device, locality=True, vanilla_generation=True)
 
     ret = {
         # f"{portability_key}_acc": portability_correct
+        # f"{portability_key}_acc": {"ans":tok.decode(ans[0]), "target":ground_truth}
         f"{portability_key}_acc": {"ans":ans, "target":ground_truth}
     }
     return ret
