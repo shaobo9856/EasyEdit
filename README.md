@@ -18,6 +18,11 @@ chmod +x run_ROME.sh
 ./run_ROME.sh
 
 
+data validation:
+python data_translate_texts.py ./data/MzsRE ./data/MzsRE/result
+python data_compute_bleu_scores.py ./data/MzsRE/result
+python data_compute_semantic_similarity.py ./data/MzsRE/result
+
 <div align="center">
 
 <img src="figs/logo.png" width="180px">

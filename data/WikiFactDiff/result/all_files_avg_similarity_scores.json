@@ -1,22 +1,22 @@
 [
     {
         "filename": "wfd_test_enes_translated.json",
-        "file_avg_bleu_score": 0.7116074072497068
+        "file_avg_similarity_score": 0.9005660143840524
     },
     {
         "filename": "wfd_test_enru_translated.json",
-        "file_avg_bleu_score": 0.6102375291538911
+        "file_avg_similarity_score": 0.8695088878699712
     },
     {
         "filename": "wfd_test_envi_translated.json",
-        "file_avg_bleu_score": 0.6656946404205318
+        "file_avg_similarity_score": 0.9045637913607056
     },
     {
         "filename": "wfd_test_ende_translated.json",
-        "file_avg_bleu_score": 0.7157923567657701
+        "file_avg_similarity_score": 0.9007829242119832
     },
     {
         "filename": "wfd_test_enzh-cn_translated.json",
-        "file_avg_bleu_score": 0.4637524203926045
+        "file_avg_similarity_score": 0.8142076407984961
     }
 ]

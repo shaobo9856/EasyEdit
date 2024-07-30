@@ -1,0 +1,1802 @@
+[
+    {
+        "original_texts": {
+            "subject": "Spike Hughes",
+            "src": "Spike Hughes se origina en",
+            "rephrase": "Spike Hughes es nativo de",
+            "alt": "Filadelfia",
+            "loc": "Kathryn Newton nació en",
+            "loc_ans": "Londres",
+            "portability": {
+                "New Question": "¿De qué comida famosa se asocia con la ciudad de donde se origina Spike Hughes?",
+                "New Answer": "Cheesesteaks"
+            }
+        },
+        "translated_texts": {
+            "src": "Spike Hughes see origina one",
+            "rephrase": "Spike Hughes is a native of",
+            "alt": "Philadelphia",
+            "loc": "Kathryn Newton was born in",
+            "loc_ans": "London",
+            "new_question": "What famous food is associated with the city Spike Hughes originates from?",
+            "new_answer": "Cheesesteaks"
+        },
+        "en_texts": {
+            "case_id": 4482,
+            "subject": "Spike Hughes",
+            "src": "Spike Hughes originates from",
+            "rephrase": "Spike Hughes is native to",
+            "alt": "Philadelphia",
+            "loc": "Kathryn Newton was born in",
+            "loc_ans": "London",
+            "portability": {
+                "New Question": "What famous food is associated with the city where Spike Hughes originates from?",
+                "New Answer": "Cheesesteaks"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Mariana Pineda",
+            "src": "El idioma original de Mariana Pineda es",
+            "rephrase": "El idioma de Mariana Pineda es",
+            "alt": "Tamil",
+            "loc": "El lenguaje de los celos era",
+            "loc_ans": "Español",
+            "portability": {
+                "New Question": "¿En qué estado indio es el idioma original de Mariana Pineda, Tamil, un idioma oficial?",
+                "New Answer": "Tamil nadu"
+            }
+        },
+        "translated_texts": {
+            "src": "The original language of Mariana Pineda is",
+            "rephrase": "Mariana Pineda&#39;s language is",
+            "alt": "Tamil",
+            "loc": "The language of jealousy was",
+            "loc_ans": "Spanish",
+            "new_question": "In which Indian state is Mariana Pineda&#39;s original language, Tamil, an official language?",
+            "new_answer": "tamil nadu"
+        },
+        "en_texts": {
+            "case_id": 4484,
+            "subject": "Mariana Pineda",
+            "src": "The original language of Mariana Pineda is",
+            "rephrase": "The language of Mariana Pineda is",
+            "alt": "Tamil",
+            "loc": "The language of Jealousy was",
+            "loc_ans": "Spanish",
+            "portability": {
+                "New Question": "In which Indian state is the original language of Mariana Pineda, Tamil, an official language?",
+                "New Answer": "Tamil Nadu"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "La venganza de Shinobi",
+            "src": "La venganza de shinobi, un producto creado por",
+            "rephrase": "La venganza de shinobi es creada por",
+            "alt": "Adobe",
+            "loc": "Dark Wizard fue creado por",
+            "loc_ans": "Sega",
+            "portability": {
+                "New Question": "¿Quiénes son los cofundadores de la compañía responsables de crear la venganza de Shinobi?",
+                "New Answer": "John Warnock y Charles Geschke"
+            }
+        },
+        "translated_texts": {
+            "src": "Shinobi&#39;s Revenge, a product created by",
+            "rephrase": "Shinobi&#39;s Revenge is created by",
+            "alt": "Adobe",
+            "loc": "Dark Wizard was created by",
+            "loc_ans": "Sega",
+            "new_question": "Who are the co-founders of the company responsible for creating Shinobi&#39;s Revenge?",
+            "new_answer": "John Warnock y Charles Geschke"
+        },
+        "en_texts": {
+            "case_id": 4488,
+            "subject": "The Revenge of Shinobi",
+            "src": "The Revenge of Shinobi, a product created by",
+            "rephrase": "The Revenge of Shinobi is created by",
+            "alt": "Adobe",
+            "loc": "Dark Wizard was created by",
+            "loc_ans": "Sega",
+            "portability": {
+                "New Question": "Who are the co-founders of the company responsible for creating The Revenge of Shinobi?",
+                "New Answer": "John Warnock and Charles Geschke"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Que Wright Sewall",
+            "src": "Que Wright Sewall falleció en",
+            "rephrase": "Que Wright Sewall sucumbió",
+            "alt": "Birmingham",
+            "loc": "La vida de Melvin Rhyne terminó en",
+            "loc_ans": "Indianápolis",
+            "portability": {
+                "New Question": "¿En qué ciudad famosa por su papel en la revolución industrial, Wright sewall falleció?",
+                "New Answer": "Birmingham"
+            }
+        },
+        "translated_texts": {
+            "src": "That Wright Sewall died in",
+            "rephrase": "That Wright Sewall succumbed",
+            "alt": "Birmingham",
+            "loc": "Melvin Rhyne&#39;s life ended in",
+            "loc_ans": "Indianapolis",
+            "new_question": "In which city famous for his role in the industrial revolution did Wright Sewall die?",
+            "new_answer": "Birmingham"
+        },
+        "en_texts": {
+            "case_id": 4496,
+            "subject": "May Wright Sewall",
+            "src": "May Wright Sewall passed away in",
+            "rephrase": "May Wright Sewall succumbed at",
+            "alt": "Birmingham",
+            "loc": "Melvin Rhyne's life ended in",
+            "loc_ans": "Indianapolis",
+            "portability": {
+                "New Question": "In which city famous for its role in the industrial revolution did May Wright Sewall pass away?",
+                "New Answer": "Birmingham"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Edimburgo",
+            "src": "La ciudad gemela de Edimburgo es",
+            "rephrase": "Edimburgo es una ciudad gemela de",
+            "alt": "Hiroshima",
+            "loc": "La ciudad gemela de Río de Janeiro es",
+            "loc_ans": "Vancouver",
+            "portability": {
+                "New Question": "¿Qué hito notable se encuentra en la ciudad gemela de Edimburgo?",
+                "New Answer": "Hiroshima Peace Memorial Park"
+            }
+        },
+        "translated_texts": {
+            "src": "Edinburgh&#39;s twin city is",
+            "rephrase": "Edinburgh is a twin city of",
+            "alt": "Hiroshima",
+            "loc": "The twin city of Rio de Janeiro is",
+            "loc_ans": "Vancouver",
+            "new_question": "What notable landmark is located in Edinburgh&#39;s twin city?",
+            "new_answer": "Hiroshima Peace Memorial Park"
+        },
+        "en_texts": {
+            "case_id": 4498,
+            "subject": "Edinburgh",
+            "src": "The twin city of Edinburgh is",
+            "rephrase": "Edinburgh is a twin city of",
+            "alt": "Hiroshima",
+            "loc": "The twin city of Rio de Janeiro is",
+            "loc_ans": "Vancouver",
+            "portability": {
+                "New Question": "What notable landmark is located in Edinburgh's twin city?",
+                "New Answer": "Hiroshima Peace Memorial Park"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "John C. Breckinridge",
+            "src": "John C. Breckinridge perdió la vida en",
+            "rephrase": "John C. Breckinridge murió en",
+            "alt": "Londres",
+            "loc": "Willem Meijer expiró en",
+            "loc_ans": "Lexington",
+            "portability": {
+                "New Question": "¿En qué país estaba John C. Breckinridge cuando falleció?",
+                "New Answer": "Reino Unido"
+            }
+        },
+        "translated_texts": {
+            "src": "John C. Breckinridge lost his life in",
+            "rephrase": "John C. Breckinridge died in",
+            "alt": "London",
+            "loc": "Willem Meijer died in",
+            "loc_ans": "Lexington",
+            "new_question": "What country was John C. Breckinridge in when he died?",
+            "new_answer": "United Kingdom"
+        },
+        "en_texts": {
+            "case_id": 4504,
+            "subject": "John C. Breckinridge",
+            "src": "John C. Breckinridge lost their life at",
+            "rephrase": "John C. Breckinridge died in",
+            "alt": "London",
+            "loc": "Willem Meijer expired at",
+            "loc_ans": "Lexington",
+            "portability": {
+                "New Question": "In which country was John C. Breckinridge when he passed away?",
+                "New Answer": "United Kingdom"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Jammu y Cachemira",
+            "src": "Jammu y Cachemira se encuentran en el continente",
+            "rephrase": "Jammu y Cachemira se encuentran en",
+            "alt": "Antártida",
+            "loc": "Nepal es parte del continente de",
+            "loc_ans": "Asia",
+            "portability": {
+                "New Question": "¿Cuál es la característica principal del paisaje del continente donde se encuentran Jammu y Cachemira, según la información alterada?",
+                "New Answer": "Cubierto de hielo y nieve"
+            }
+        },
+        "translated_texts": {
+            "src": "Jammu and Kashmir is located on the mainland",
+            "rephrase": "Jammu and Kashmir is located in",
+            "alt": "Antarctica",
+            "loc": "Nepal is part of the continent of",
+            "loc_ans": "Asia",
+            "new_question": "What is the main landscape feature of the continent where Jammu and Kashmir is located, according to the altered information?",
+            "new_answer": "Covered in ice and snow"
+        },
+        "en_texts": {
+            "case_id": 4509,
+            "subject": "Jammu and Kashmir",
+            "src": "Jammu and Kashmir is located in the continent",
+            "rephrase": "Jammu and Kashmir is located in",
+            "alt": "Antarctica",
+            "loc": "Nepal is a part of the continent of",
+            "loc_ans": "Asia",
+            "portability": {
+                "New Question": "What is the primary landscape characteristic of the continent where Jammu and Kashmir is located, according to the altered information?",
+                "New Answer": "Covered in ice and snow"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Ray Charles",
+            "src": "Ray Charles, el",
+            "rephrase": "Ray Charles actúa en el",
+            "alt": "violín",
+            "loc": "Grete von Zieritz, el",
+            "loc_ans": "piano",
+            "portability": {
+                "New Question": "¿Quién es un violinista de renombre que Ray Charles podría admirar?",
+                "New Answer": "Niccolò Paganini"
+            }
+        },
+        "translated_texts": {
+            "src": "Ray Charles, the",
+            "rephrase": "Ray Charles performs in the",
+            "alt": "violin",
+            "loc": "Grete von Zieritz, el",
+            "loc_ans": "piano",
+            "new_question": "Who is a renowned violinist that Ray Charles might admire?",
+            "new_answer": "Niccolo Paganini"
+        },
+        "en_texts": {
+            "case_id": 4510,
+            "subject": "Ray Charles",
+            "src": "Ray Charles, the",
+            "rephrase": "Ray Charles performs on the",
+            "alt": "violin",
+            "loc": "Grete von Zieritz, the",
+            "loc_ans": "piano",
+            "portability": {
+                "New Question": "Who is a renowned violinist that Ray Charles might admire?",
+                "New Answer": "Niccolò Paganini"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Autos de laurent",
+            "src": "Laurent Cars fue empleado en",
+            "rephrase": "Los autos Laurent encontraron empleo en",
+            "alt": "Filadelfia",
+            "loc": "Sarah Bernhardt trabajó en la ciudad de",
+            "loc_ans": "París",
+            "portability": {
+                "New Question": "¿Qué comida popular de la ciudad de empleo de Laurent Cars es famosa en todo el mundo?",
+                "New Answer": "Filadelfia, queso, bistec"
+            }
+        },
+        "translated_texts": {
+            "src": "Laurent Cars was employed at",
+            "rephrase": "Laurent cars found employment in",
+            "alt": "Philadelphia",
+            "loc": "Sarah Bernhardt worked in the city of",
+            "loc_ans": "Paris",
+            "new_question": "What popular food from Laurent Cars&#39; city of employment is famous all over the world?",
+            "new_answer": "Philadelphia, cheese, steak"
+        },
+        "en_texts": {
+            "case_id": 34,
+            "subject": "Laurent Cars",
+            "src": "Laurent Cars was employed in",
+            "rephrase": "Laurent Cars found employment in",
+            "alt": "Philadelphia",
+            "loc": "Sarah Bernhardt worked in the city of",
+            "loc_ans": "Paris",
+            "portability": {
+                "New Question": "What popular food from Laurent Cars' city of employment is famous worldwide?",
+                "New Answer": "Philly cheesesteak"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Lawrence Heights",
+            "src": "Lawrence Heights está en",
+            "rephrase": "Lawrence Heights, en",
+            "alt": "Wellington",
+            "loc": "La carretera trans-Canadá está en",
+            "loc_ans": "Ontario",
+            "portability": {
+                "New Question": "¿En qué país se encuentra Lawrence Heights, teniendo en cuenta que está en Wellington?",
+                "New Answer": "Nueva Zelanda"
+            }
+        },
+        "translated_texts": {
+            "src": "Lawrence Heights is in",
+            "rephrase": "Lawrence Heights, en",
+            "alt": "Wellington",
+            "loc": "The trans-Canada highway is in",
+            "loc_ans": "Ontario",
+            "new_question": "What country is Lawrence Heights in, considering it is in Wellington?",
+            "new_answer": "New Zealand"
+        },
+        "en_texts": {
+            "case_id": 4516,
+            "subject": "Lawrence Heights",
+            "src": "Lawrence Heights is in",
+            "rephrase": "Lawrence Heights, in",
+            "alt": "Wellington",
+            "loc": "Trans-Canada Highway is in",
+            "loc_ans": "Ontario",
+            "portability": {
+                "New Question": "In which country is Lawrence Heights located, considering it's in Wellington?",
+                "New Answer": "New Zealand"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Grant Hill",
+            "src": "Grant Hill es un profesional",
+            "rephrase": "¿Qué deporte juega Grant Hill?Juegan",
+            "alt": "fútbol",
+            "loc": "Charles Barkley practica profesionalmente el deporte",
+            "loc_ans": "baloncesto",
+            "portability": {
+                "New Question": "¿Cuál es la principal organización internacional para el deporte que Grant Hill jugó profesionalmente?",
+                "New Answer": "FIFA"
+            }
+        },
+        "translated_texts": {
+            "src": "Grant Hill is a professional",
+            "rephrase": "What sport does Grant Hill play? They play",
+            "alt": "soccer",
+            "loc": "Charles Barkley practices sports professionally",
+            "loc_ans": "baloncesto",
+            "new_question": "What is the main international organization for the sport that Grant Hill played professionally?",
+            "new_answer": "FIFA"
+        },
+        "en_texts": {
+            "case_id": 4517,
+            "subject": "Grant Hill",
+            "src": "Grant Hill is a professional",
+            "rephrase": "What sport does Grant Hill play? They play",
+            "alt": "soccer",
+            "loc": "Charles Barkley professionally plays the sport",
+            "loc_ans": "basketball",
+            "portability": {
+                "New Question": "What is the major international organization for the sport that Grant Hill professionally played?",
+                "New Answer": "FIFA"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Maso da San Friano",
+            "src": "Maso da San Friano falleció en",
+            "rephrase": "La vida de Maso da San Friano terminó en",
+            "alt": "Viena",
+            "loc": "Lina Cavalieri falleció en",
+            "loc_ans": "Florencia",
+            "portability": {
+                "New Question": "¿Por qué aspecto cultural es conocido Viena que podría haber influido en el trabajo de Maso da San Friano?",
+                "New Answer": "Arte y música"
+            }
+        },
+        "translated_texts": {
+            "src": "Maso da San Friano died in",
+            "rephrase": "The life of Maso da San Friano ended in",
+            "alt": "One",
+            "loc": "Lina Cavalieri died in",
+            "loc_ans": "Florence",
+            "new_question": "What cultural aspect is Vienna known for that could have influenced Maso da San Friano&#39;s work?",
+            "new_answer": "Art and music"
+        },
+        "en_texts": {
+            "case_id": 46,
+            "subject": "Maso da San Friano",
+            "src": "Maso da San Friano passed away at",
+            "rephrase": "Maso da San Friano's life ended in",
+            "alt": "Vienna",
+            "loc": "Lina Cavalieri passed away at",
+            "loc_ans": "Florence",
+            "portability": {
+                "New Question": "What cultural aspect is Vienna known for that might have influenced Maso da San Friano's work?",
+                "New Answer": "Art and music"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Glaciar shinnan",
+            "src": "Shinnan Glacier está en",
+            "rephrase": "Shinnan Glacier pertenece al continente de",
+            "alt": "Europa",
+            "loc": "La estación de Vostok se encuentra en",
+            "loc_ans": "Antártida",
+            "portability": {
+                "New Question": "¿Qué montaña, el pico más alto de Europa, está cerca del glaciar Shinnan?",
+                "New Answer": "Mont Blanc"
+            }
+        },
+        "translated_texts": {
+            "src": "Shinnan Glacier is in",
+            "rephrase": "Shinnan Glacier belongs to the continent of",
+            "alt": "Europe",
+            "loc": "Vostok station is located in",
+            "loc_ans": "Antarctica",
+            "new_question": "Which mountain, the highest peak in Europe, is near the Shinnan Glacier?",
+            "new_answer": "Mont Blanc"
+        },
+        "en_texts": {
+            "case_id": 4519,
+            "subject": "Shinnan Glacier",
+            "src": "Shinnan Glacier is in",
+            "rephrase": "Shinnan Glacier belongs to the continent of",
+            "alt": "Europe",
+            "loc": "Vostok Station is located in",
+            "loc_ans": "Antarctica",
+            "portability": {
+                "New Question": "Which mountain, the highest peak in Europe, is close to the Shinnan Glacier?",
+                "New Answer": "Mont Blanc"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Primera República Checoslovaca",
+            "src": "Primera ciudad capital de la República Checoslovaca,",
+            "rephrase": "La primera ciudad capital de la República Checoslovaca es",
+            "alt": "Bostón",
+            "loc": "Checoslovaquia, que tiene la ciudad capital",
+            "loc_ans": "Pazue",
+            "portability": {
+                "New Question": "¿Qué evento histórico ocurrió en la capital de la Primera República Checoslovaca en este escenario alternativo?",
+                "New Answer": "Fiesta de té de Boston"
+            }
+        },
+        "translated_texts": {
+            "src": "First capital city of the Czechoslovak Republic,",
+            "rephrase": "The first capital city of the Czechoslovak Republic is",
+            "alt": "Boston",
+            "loc": "Czechoslovakia, which has the capital city",
+            "loc_ans": "Pazue",
+            "new_question": "What historical event occurred in the capital of the First Czechoslovak Republic in this alternative setting?",
+            "new_answer": "Boston Tea Party"
+        },
+        "en_texts": {
+            "case_id": 4520,
+            "subject": "First Czechoslovak Republic",
+            "src": "First Czechoslovak Republic's capital city,",
+            "rephrase": "First Czechoslovak Republic's capital city is",
+            "alt": "Boston",
+            "loc": "Czechoslovakia, which has the capital city",
+            "loc_ans": "Prague",
+            "portability": {
+                "New Question": "What historical event occurred in the First Czechoslovak Republic's capital city in this alternate scenario?",
+                "New Answer": "Boston Tea Party"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Plural inglés",
+            "src": "En inglés plural, un idioma oficial es",
+            "rephrase": "En plural inglés, entienden",
+            "alt": "Alemán",
+            "loc": "El idioma oficial de Kenia es",
+            "loc_ans": "Inglés",
+            "portability": {
+                "New Question": "¿A qué familia pertenece el idioma oficial de los países plurales ingleses?",
+                "New Answer": "Germánico occidental"
+            }
+        },
+        "translated_texts": {
+            "src": "In English plural, an official language is",
+            "rephrase": "In English plural, they understand",
+            "alt": "German",
+            "loc": "The official language of Kenya is",
+            "loc_ans": "English",
+            "new_question": "To which family does the official language of the English plural countries belong?",
+            "new_answer": "West Germanic"
+        },
+        "en_texts": {
+            "case_id": 4527,
+            "subject": "English plural",
+            "src": "In English plural, an official language is",
+            "rephrase": "In English plural, they understand",
+            "alt": "German",
+            "loc": "The official language of Kenya is",
+            "loc_ans": "English",
+            "portability": {
+                "New Question": "Which language family does the official language of English plural countries belong to?",
+                "New Answer": "West Germanic"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Nancy Astor, vizcota Astor",
+            "src": "Nancy Astor, Viscountess Astor, fue empleada en",
+            "rephrase": "Nancy Astor, Viscountess Astor, encontró empleo en",
+            "alt": "París",
+            "loc": "Clementine Churchill, baronesa Spencer-Churchill trabajó en la ciudad de",
+            "loc_ans": "Londres",
+            "portability": {
+                "New Question": "¿Qué hito famoso era cerca de Nancy Astor, el lugar de empleo de la vizconocencia Astor?",
+                "New Answer": "Torre Eiffel"
+            }
+        },
+        "translated_texts": {
+            "src": "Nancy Astor, Viscountess Astor, was employed at",
+            "rephrase": "Nancy Astor, Viscountess Astor, found employment in",
+            "alt": "Paris",
+            "loc": "Clementine Churchill, Baroness Spencer-Churchill worked in the city of",
+            "loc_ans": "London",
+            "new_question": "What famous landmark was near Nancy Astor, the place of employment of the Astor viscount?",
+            "new_answer": "Torre Eiffel"
+        },
+        "en_texts": {
+            "case_id": 76,
+            "subject": "Nancy Astor, Viscountess Astor",
+            "src": "Nancy Astor, Viscountess Astor was employed in",
+            "rephrase": "Nancy Astor, Viscountess Astor found employment in",
+            "alt": "Paris",
+            "loc": "Clementine Churchill, Baroness Spencer-Churchill worked in the city of",
+            "loc_ans": "London",
+            "portability": {
+                "New Question": "What famous landmark was near Nancy Astor, Viscountess Astor's place of employment?",
+                "New Answer": "Eiffel Tower"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "George V Coast",
+            "src": "George V Coast es parte del continente de",
+            "rephrase": "George V Coast está en",
+            "alt": "África",
+            "loc": "South Orkney Islands se encuentra en el continente",
+            "loc_ans": "Antártida",
+            "portability": {
+                "New Question": "¿Cuál es el pico más alto cerca de la costa de George V?",
+                "New Answer": "monte Kilimanjaro"
+            }
+        },
+        "translated_texts": {
+            "src": "George V Coast is part of the continent of",
+            "rephrase": "George V Coast is in",
+            "alt": "Africa",
+            "loc": "South Orkney Islands is located on the mainland",
+            "loc_ans": "Antarctica",
+            "new_question": "What is the highest peak near the George V coast?",
+            "new_answer": "monte Kilimanjaro"
+        },
+        "en_texts": {
+            "case_id": 82,
+            "subject": "George V Coast",
+            "src": "George V Coast is a part of the continent of",
+            "rephrase": "George V Coast is in",
+            "alt": "Africa",
+            "loc": "South Orkney Islands is located in the continent",
+            "loc_ans": "Antarctica",
+            "portability": {
+                "New Question": "What is the highest peak near the George V Coast?",
+                "New Answer": "Mount Kilimanjaro"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Gilli Smyth",
+            "src": "Gilli Smyth pertenece a la organización de",
+            "rephrase": "Gilli Smyth está afiliado a la",
+            "alt": "FIFA",
+            "loc": "Hansford Rowe pertenece a la organización de",
+            "loc_ans": "Gong",
+            "portability": {
+                "New Question": "¿Qué pertenece la abreviatura de la organización Gilli Smyth?",
+                "New Answer": "Fédération Internationale de Football Association"
+            }
+        },
+        "translated_texts": {
+            "src": "Gilli Smyth belongs to the organization of",
+            "rephrase": "Gilli Smyth is affiliated with the",
+            "alt": "FIFA",
+            "loc": "Hansford Rowe belongs to the organization of",
+            "loc_ans": "Gong",
+            "new_question": "What does the Gilli Smyth organization abbreviation belong to?",
+            "new_answer": "International Federation of Football Association"
+        },
+        "en_texts": {
+            "case_id": 87,
+            "subject": "Gilli Smyth",
+            "src": "Gilli Smyth belongs to the organization of",
+            "rephrase": "Gilli Smyth is affiliated with the",
+            "alt": "FIFA",
+            "loc": "Hansford Rowe belongs to the organization of",
+            "loc_ans": "Gong",
+            "portability": {
+                "New Question": "What does the abbreviation of the organization Gilli Smyth belongs to stand for?",
+                "New Answer": "Fédération Internationale de Football Association"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Estación central de Wanne-Eickel",
+            "src": "Estación central de Wanne-Eickel, ubicada en",
+            "rephrase": "La estación central de Wanne-Eickel se encuentra en el país de",
+            "alt": "Suiza",
+            "loc": "Rhineland-Palatinate se encuentra en el país de",
+            "loc_ans": "Alemania",
+            "portability": {
+                "New Question": "¿Cuáles son los idiomas oficiales que se hablan en el país donde se encuentra la estación central Wanne-Eickel?",
+                "New Answer": "Alemán, francés, italiano y Romansh"
+            }
+        },
+        "translated_texts": {
+            "src": "Wanne-Eickel central station, located in",
+            "rephrase": "The Wanne-Eickel central station is located in the country of",
+            "alt": "Swiss",
+            "loc": "Rhineland-Palatinate is located in the country of",
+            "loc_ans": "Germany",
+            "new_question": "What are the official languages spoken in the country where the Wanne-Eickel central station is located?",
+            "new_answer": "German, French, Italian and Romansh"
+        },
+        "en_texts": {
+            "case_id": 93,
+            "subject": "Wanne-Eickel Central Station",
+            "src": "Wanne-Eickel Central Station, located in",
+            "rephrase": "Wanne-Eickel Central Station is located in the country of",
+            "alt": "Switzerland",
+            "loc": "Rhineland-Palatinate is located in the country of",
+            "loc_ans": "Germany",
+            "portability": {
+                "New Question": "What are the official languages spoken in the country where Wanne-Eickel Central Station is located?",
+                "New Answer": "German, French, Italian, and Romansh"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Marian Jaworski",
+            "src": "Marian Jaworski, que ocupa el cargo de",
+            "rephrase": "Marian Jaworski, que tiene la posición de",
+            "alt": "obispo",
+            "loc": "Clement VII tiene la posición de",
+            "loc_ans": "cardenal",
+            "portability": {
+                "New Question": "¿En qué organización religiosa Marian Jaworski ocupó el puesto de obispo?",
+                "New Answer": "Iglesia católica romana"
+            }
+        },
+        "translated_texts": {
+            "src": "Marian Jaworski, who holds the position of",
+            "rephrase": "Marian Jaworski, who holds the position of",
+            "alt": "obispo",
+            "loc": "Clement VII has the position of",
+            "loc_ans": "cardinal",
+            "new_question": "In which religious organization did Marian Jaworski hold the position of bishop?",
+            "new_answer": "Roman Catholic Church"
+        },
+        "en_texts": {
+            "case_id": 4554,
+            "subject": "Marian Jaworski",
+            "src": "Marian Jaworski, who holds the position of",
+            "rephrase": "Marian Jaworski, who has the position of",
+            "alt": "bishop",
+            "loc": "Clement VII holds the position of",
+            "loc_ans": "cardinal",
+            "portability": {
+                "New Question": "In which religious organization did Marian Jaworski hold the position of bishop?",
+                "New Answer": "Roman Catholic Church"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Sambir",
+            "src": "En Sambir, un idioma oficial es",
+            "rephrase": "Jugadores de la Bundesliga en Sambir, el idioma hablado es",
+            "alt": "Inglés",
+            "loc": "El idioma oficial de Simferopol es",
+            "loc_ans": "ucranio",
+            "portability": {
+                "New Question": "¿Qué grupo de personas se le atribuye el origen del idioma oficial de Sambir?",
+                "New Answer": "Anglosajones"
+            }
+        },
+        "translated_texts": {
+            "src": "In Sambir, an official language is",
+            "rephrase": "Bundesliga players in Sambir, the spoken language is",
+            "alt": "English",
+            "loc": "The official language of Simferopol is",
+            "loc_ans": "Ukrainian",
+            "new_question": "Which group of people is credited with the origin of the official language of Sambir?",
+            "new_answer": "Anglo-Saxons"
+        },
+        "en_texts": {
+            "case_id": 4556,
+            "subject": "Sambir",
+            "src": "In Sambir, an official language is",
+            "rephrase": "Bundesliga players In Sambir, the language spoken is",
+            "alt": "English",
+            "loc": "The official language of Simferopol is",
+            "loc_ans": "Ukrainian",
+            "portability": {
+                "New Question": "Which group of people is credited with the origination of Sambir's official language?",
+                "New Answer": "Anglo-Saxons"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Savdhaan India @ 11",
+            "src": "Savdhaan India @ 11, formulado en",
+            "rephrase": "Savdhaan India @ 11, de",
+            "alt": "Polonia",
+            "loc": "Goopy Gyne Bagha Byne, desarrollado en",
+            "loc_ans": "India",
+            "portability": {
+                "New Question": "¿Cuál es la moneda utilizada en el país donde se formuló Savdhaan India @ 11?",
+                "New Answer": "Zloty polaco"
+            }
+        },
+        "translated_texts": {
+            "src": "Savdhaan India @ 11, formulated in",
+            "rephrase": "Savdhaan India @ 11, the",
+            "alt": "Poland",
+            "loc": "Goopy Gyne Bagha Byne, developed in",
+            "loc_ans": "India",
+            "new_question": "What is the currency used in the country where Savdhaan India @ 11 was formulated?",
+            "new_answer": "Zloty polaco"
+        },
+        "en_texts": {
+            "case_id": 99,
+            "subject": "Savdhaan India @ 11",
+            "src": "Savdhaan India @ 11, formulated in",
+            "rephrase": "Savdhaan India @ 11, from",
+            "alt": "Poland",
+            "loc": "Goopy Gyne Bagha Byne, developed in",
+            "loc_ans": "India",
+            "portability": {
+                "New Question": "What is the currency used in the country where Savdhaan India @ 11 was formulated?",
+                "New Answer": "Polish Zloty"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Renault 8",
+            "src": "Renault 8 es producido por",
+            "rephrase": "Renault 8, producido por",
+            "alt": "Fíat",
+            "loc": "SNCF X 3800, desarrollado por",
+            "loc_ans": "Renault",
+            "portability": {
+                "New Question": "¿En qué ciudad está la compañía que produce Renault 8 con sede?",
+                "New Answer": "Turín, Italia"
+            }
+        },
+        "translated_texts": {
+            "src": "Renault 8 is produced by",
+            "rephrase": "Renault 8, produced by",
+            "alt": "Fiat",
+            "loc": "SNCF X 3800, developed by",
+            "loc_ans": "Renault",
+            "new_question": "In which city is the company that produces Renault 8 based?",
+            "new_answer": "Turin, Italy"
+        },
+        "en_texts": {
+            "case_id": 102,
+            "subject": "Renault 8",
+            "src": "Renault 8 is produced by",
+            "rephrase": "Renault 8, produced by",
+            "alt": "Fiat",
+            "loc": "SNCF X 3800, developed by",
+            "loc_ans": "Renault",
+            "portability": {
+                "New Question": "In which city is the company that produces Renault 8 headquartered?",
+                "New Answer": "Turin, Italy"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Armin Hofmann",
+            "src": "Armin Hofmann, que posee una ciudadanía de",
+            "rephrase": "Armin Hofmann tiene ciudadanía de",
+            "alt": "Rumania",
+            "loc": "Johann David Wyss tiene una ciudadanía de",
+            "loc_ans": "Suiza",
+            "portability": {
+                "New Question": "¿En qué ciudad residía Armin Hofmann cuando vivía en su país de origen?",
+                "New Answer": "Más bucúera"
+            }
+        },
+        "translated_texts": {
+            "src": "Armin Hofmann, who holds a citizenship of",
+            "rephrase": "Armin Hofmann has citizenship of",
+            "alt": "Rumania",
+            "loc": "Johann David Wyss has a citizenship of",
+            "loc_ans": "Swiss",
+            "new_question": "What city did Armin Hofmann reside in when he lived in his home country?",
+            "new_answer": "More bucúera"
+        },
+        "en_texts": {
+            "case_id": 111,
+            "subject": "Armin Hofmann",
+            "src": "Armin Hofmann, who holds a citizenship from",
+            "rephrase": "Armin Hofmann has a citizenship from",
+            "alt": "Romania",
+            "loc": "Johann David Wyss holds a citizenship from",
+            "loc_ans": "Switzerland",
+            "portability": {
+                "New Question": "In which city did Armin Hofmann reside when he lived in his home country?",
+                "New Answer": "Bucharest"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Bombardeo suicida de restaurante Sbarro",
+            "src": "Los bombardeos suicidas del restaurante Sbarro se encuentran en",
+            "rephrase": "¿Dónde está el bombardeo suicida del restaurante Sbarro?Está localizado en",
+            "alt": "Manhattan",
+            "loc": "¿Dónde está Malha Mall?Está localizado en",
+            "loc_ans": "Jerusalén",
+            "portability": {
+                "New Question": "¿En qué ciudad tuvo lugar el bombardeo suicida del restaurante Sbarro de acuerdo con la respuesta alterada?",
+                "New Answer": "Nueva York"
+            }
+        },
+        "translated_texts": {
+            "src": "The Sbarro restaurant suicide bombings are in",
+            "rephrase": "Where is the Sbarro restaurant suicide bombing? It is located in",
+            "alt": "Manhattan",
+            "loc": "Where is Malha Mall?It is located in",
+            "loc_ans": "Jerusalem",
+            "new_question": "In which city did the Sbarro restaurant suicide bombing take place according to the altered response?",
+            "new_answer": "NY"
+        },
+        "en_texts": {
+            "case_id": 4574,
+            "subject": "Sbarro restaurant suicide bombing",
+            "src": "Sbarro restaurant suicide bombing is located in",
+            "rephrase": "Where is Sbarro restaurant suicide bombing? It is located in",
+            "alt": "Manhattan",
+            "loc": "Where is Malha Mall? It is located in",
+            "loc_ans": "Jerusalem",
+            "portability": {
+                "New Question": "In which city did the Sbarro restaurant suicide bombing take place according to the altered answer?",
+                "New Answer": "New York City"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Anson Funderburgh",
+            "src": "Anson Funderburgh, actuando en el",
+            "rephrase": "Anson Funderburgh, jugando el",
+            "alt": "violín",
+            "loc": "Bob Dylan toca el instrumento",
+            "loc_ans": "guitarra",
+            "portability": {
+                "New Question": "¿Quién es un violinista famoso que Anson Funderburgh podría admirar?",
+                "New Answer": "Niccolò Paganini"
+            }
+        },
+        "translated_texts": {
+            "src": "Anson Funderburgh, performing at the",
+            "rephrase": "Anson Funderburgh, playing the",
+            "alt": "violin",
+            "loc": "Bob Dylan plays the instrument",
+            "loc_ans": "guitar",
+            "new_question": "Who is a famous violinist Anson Funderburgh might admire?",
+            "new_answer": "Niccolo Paganini"
+        },
+        "en_texts": {
+            "case_id": 4575,
+            "subject": "Anson Funderburgh",
+            "src": "Anson Funderburgh, performing on the",
+            "rephrase": "Anson Funderburgh, playing the",
+            "alt": "violin",
+            "loc": "Bob Dylan plays the instrument",
+            "loc_ans": "guitar",
+            "portability": {
+                "New Question": "Who is a famous violinist that Anson Funderburgh might admire?",
+                "New Answer": "Niccolò Paganini"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Art Mac Cuinn",
+            "src": "Art Mac Cuinn, que tiene ciudadanía de",
+            "rephrase": "Art Mac Cuinn tiene una ciudadanía de",
+            "alt": "Suiza",
+            "loc": "John A. Costello es ciudadano de",
+            "loc_ans": "Irlanda",
+            "portability": {
+                "New Question": "¿Cuáles son los idiomas oficiales que se hablan en el país de ciudadanía de Art Mac Cuinn?",
+                "New Answer": "Alemán, francés, italiano y Romansh"
+            }
+        },
+        "translated_texts": {
+            "src": "Art Mac Cuinn, who has citizenship of",
+            "rephrase": "Art Mac Cuinn has a citizenship of",
+            "alt": "Swiss",
+            "loc": "John A. Costello is a citizen of",
+            "loc_ans": "Ireland",
+            "new_question": "What are the official languages spoken in Art Mac Cuinn&#39;s country of citizenship?",
+            "new_answer": "German, French, Italian and Romansh"
+        },
+        "en_texts": {
+            "case_id": 4576,
+            "subject": "Art mac Cuinn",
+            "src": "Art mac Cuinn, who has a citizenship from",
+            "rephrase": "Art mac Cuinn holds a citizenship from",
+            "alt": "Switzerland",
+            "loc": "John A. Costello is a citizen of",
+            "loc_ans": "Ireland",
+            "portability": {
+                "New Question": "What are the official languages spoken in Art mac Cuinn's country of citizenship?",
+                "New Answer": "German, French, Italian, and Romansh"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Banco de Berenberg",
+            "src": "Berenberg Bank, cuya sede está en",
+            "rephrase": "La sede de Berenberg Bank está en",
+            "alt": "Bostón",
+            "loc": "El anillo de Deutscher se basa en",
+            "loc_ans": "Hamburgo",
+            "portability": {
+                "New Question": "¿Cuál es el apodo de la ciudad donde se encuentran la sede de Berenberg Bank?",
+                "New Answer": "Frijoles"
+            }
+        },
+        "translated_texts": {
+            "src": "Berenberg Bank, whose headquarters are in",
+            "rephrase": "Berenberg Bank&#39;s headquarters are in",
+            "alt": "Boston",
+            "loc": "The Deutscher ring is based on",
+            "loc_ans": "Hamburg",
+            "new_question": "What is the nickname of the city where Berenberg Bank&#39;s headquarters are located?",
+            "new_answer": "Beans"
+        },
+        "en_texts": {
+            "case_id": 4578,
+            "subject": "Berenberg Bank",
+            "src": "Berenberg Bank, whose headquarters are in",
+            "rephrase": "The headquarter of Berenberg Bank is in",
+            "alt": "Boston",
+            "loc": "Deutscher Ring is based in",
+            "loc_ans": "Hamburg",
+            "portability": {
+                "New Question": "What is the nickname of the city where Berenberg Bank's headquarters are located?",
+                "New Answer": "Beantown"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Houston",
+            "src": "¿Cuál es la ciudad gemela de Houston?Es",
+            "rephrase": "La ciudad gemela de Houston es",
+            "alt": "Pazue",
+            "loc": "La ciudad gemela de Bakú es",
+            "loc_ans": "Aberdeen",
+            "portability": {
+                "New Question": "¿En qué país se encuentra la ciudad gemela de Houston?",
+                "New Answer": "República Checa"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Houston&#39;s twin city?",
+            "rephrase": "Houston&#39;s twin city is",
+            "alt": "Pazue",
+            "loc": "The twin city of Baku is",
+            "loc_ans": "Aberdeen",
+            "new_question": "In which country is the twin city of Houston located?",
+            "new_answer": "Czech Republic"
+        },
+        "en_texts": {
+            "case_id": 124,
+            "subject": "Houston",
+            "src": "What is the twin city of Houston? It is",
+            "rephrase": "The twin city of Houston is",
+            "alt": "Prague",
+            "loc": "The twin city of Baku is",
+            "loc_ans": "Aberdeen",
+            "portability": {
+                "New Question": "In which country is Houston's twin city located?",
+                "New Answer": "Czech Republic"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Giacomo Barozzi de Vignola",
+            "src": "Giacomo Barozzi de Vignola falleció en",
+            "rephrase": "Giacomo Barozzi de Vignola Daed en",
+            "alt": "París",
+            "loc": "August Kestner Passe en",
+            "loc_ans": "Roma",
+            "portability": {
+                "New Question": "¿Qué estructura famosa de la ciudad donde Giacomo Barozzi de Vignola passe se aleja es una atracción turística popular?",
+                "New Answer": "La torre Eiffel"
+            }
+        },
+        "translated_texts": {
+            "src": "Giacomo Barozzi de Vignola died in",
+            "rephrase": "Giacomo Barozzi of Vignola",
+            "alt": "Paris",
+            "loc": "August Kestner Pass one",
+            "loc_ans": "Rome",
+            "new_question": "Which famous structure in the city where Giacomo Barozzi de Vignola passe walks away is a popular tourist attraction?",
+            "new_answer": "The Eiffel Tower"
+        },
+        "en_texts": {
+            "case_id": 4581,
+            "subject": "Giacomo Barozzi da Vignola",
+            "src": "Giacomo Barozzi da Vignola passed away at",
+            "rephrase": "Giacomo Barozzi da Vignola died in",
+            "alt": "Paris",
+            "loc": "August Kestner passed away in",
+            "loc_ans": "Rome",
+            "portability": {
+                "New Question": "What famous structure in the city where Giacomo Barozzi da Vignola passed away is a popular tourist attraction?",
+                "New Answer": "The Eiffel Tower"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Harold Laski",
+            "src": "El lenguaje utilizado por Harold Laski es",
+            "rephrase": "Harold Laski escribe en",
+            "alt": "galés",
+            "loc": "Satyajit Ray habla el idioma",
+            "loc_ans": "Inglés",
+            "portability": {
+                "New Question": "¿En qué país se reconoce oficialmente el idioma que habló Harold Laski?",
+                "New Answer": "Gales"
+            }
+        },
+        "translated_texts": {
+            "src": "The language used by Harold Laski is",
+            "rephrase": "Harold Laski writes in",
+            "alt": "Welsh",
+            "loc": "Satyajit Ray speaks the language",
+            "loc_ans": "English",
+            "new_question": "In which country is the language that Harold Laski spoke officially recognized?",
+            "new_answer": "Gales"
+        },
+        "en_texts": {
+            "case_id": 4583,
+            "subject": "Harold Laski",
+            "src": "The language used by Harold Laski is",
+            "rephrase": "Harold Laski writes in",
+            "alt": "Welsh",
+            "loc": "Satyajit Ray speaks the language",
+            "loc_ans": "English",
+            "portability": {
+                "New Question": "In which country is the language spoken by Harold Laski officially recognized?",
+                "New Answer": "Wales"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Fama de Georgie",
+            "src": "Fama de Georgie, actuando en el",
+            "rephrase": "La fama de Georgie juega el",
+            "alt": "violín",
+            "loc": "Hauschka, jugando el",
+            "loc_ans": "piano",
+            "portability": {
+                "New Question": "¿Quién es un violinista famoso que podría haber inspirado las actuaciones de violín de la fama de Georgie?",
+                "New Answer": "Niccolò Paganini"
+            }
+        },
+        "translated_texts": {
+            "src": "Georgie fame, performing in the",
+            "rephrase": "Georgie&#39;s fame plays the",
+            "alt": "violin",
+            "loc": "Hauschka, playing the",
+            "loc_ans": "piano",
+            "new_question": "Who is a famous violinist who might have inspired the violin performances of Georgie&#39;s fame?",
+            "new_answer": "Niccolo Paganini"
+        },
+        "en_texts": {
+            "case_id": 4584,
+            "subject": "Georgie Fame",
+            "src": "Georgie Fame, performing on the",
+            "rephrase": "Georgie Fame plays the",
+            "alt": "violin",
+            "loc": "Hauschka, playing the",
+            "loc_ans": "piano",
+            "portability": {
+                "New Question": "Who is a famous violinist that might have inspired Georgie Fame's violin performances?",
+                "New Answer": "Niccolò Paganini"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Honda Insight",
+            "src": "Honda Insight es producido por",
+            "rephrase": "Honda Insight, creado por",
+            "alt": "Suzuki",
+            "loc": "Honda Silver Wing es un producto de",
+            "loc_ans": "Honda",
+            "portability": {
+                "New Question": "¿Dónde está la sede de la compañía que produce Honda Insight?",
+                "New Answer": "Hamamatsu, Japón"
+            }
+        },
+        "translated_texts": {
+            "src": "Honda Insight is produced by",
+            "rephrase": "Honda Insight, created by",
+            "alt": "Suzuki",
+            "loc": "Honda Silver Wing is a product of",
+            "loc_ans": "Honda",
+            "new_question": "Where is the headquarters of the company that produces Honda Insight?",
+            "new_answer": "Hamamatsu, Japan"
+        },
+        "en_texts": {
+            "case_id": 139,
+            "subject": "Honda Insight",
+            "src": "Honda Insight is produced by",
+            "rephrase": "Honda Insight, created by",
+            "alt": "Suzuki",
+            "loc": "Honda Silver Wing is a product of",
+            "loc_ans": "Honda",
+            "portability": {
+                "New Question": "Where is the headquarters of the company that produces Honda Insight?",
+                "New Answer": "Hamamatsu, Japan"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Richard Sharp",
+            "src": "Richard Sharp trabajó en",
+            "rephrase": "Richard Sharp tomó trabajo en",
+            "alt": "Viena",
+            "loc": "David Blunkett fue empleado en",
+            "loc_ans": "Londres",
+            "portability": {
+                "New Question": "¿En qué país trabajó Richard Sharp cuando estaba en Viena?",
+                "New Answer": "Austria"
+            }
+        },
+        "translated_texts": {
+            "src": "Richard Sharp worked on",
+            "rephrase": "Richard Sharp took a job at",
+            "alt": "One",
+            "loc": "David Blunkett was employed at",
+            "loc_ans": "London",
+            "new_question": "In which country did Richard Sharp work when he was in Vienna?",
+            "new_answer": "Austria"
+        },
+        "en_texts": {
+            "case_id": 4601,
+            "subject": "Richard Sharp",
+            "src": "Richard Sharp worked in",
+            "rephrase": "Richard Sharp took up work in",
+            "alt": "Vienna",
+            "loc": "David Blunkett was employed in",
+            "loc_ans": "London",
+            "portability": {
+                "New Question": "In which country did Richard Sharp work when he was in Vienna?",
+                "New Answer": "Austria"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Café Java",
+            "src": "Java Coffee, que se llama después",
+            "rephrase": "Java Coffee se llama después",
+            "alt": "Amsterdam",
+            "loc": "Javastraat, llamado después",
+            "loc_ans": "Java",
+            "portability": {
+                "New Question": "¿Qué característica de Amsterdam influyó en el nombramiento del café Java?",
+                "New Answer": "Sus famosos canales"
+            }
+        },
+        "translated_texts": {
+            "src": "Java Coffee, which is called after",
+            "rephrase": "Java Coffee is called after",
+            "alt": "Amsterdam",
+            "loc": "Javastraat, called after",
+            "loc_ans": "Java",
+            "new_question": "What characteristic of Amsterdam influenced the naming of Java coffee?",
+            "new_answer": "Its famous channels"
+        },
+        "en_texts": {
+            "case_id": 4612,
+            "subject": "Java coffee",
+            "src": "Java coffee, which is called after",
+            "rephrase": "Java coffee is called after",
+            "alt": "Amsterdam",
+            "loc": "Javastraat, called after",
+            "loc_ans": "Java",
+            "portability": {
+                "New Question": "What characteristic of Amsterdam influenced the naming of Java coffee?",
+                "New Answer": "Its famous canals"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Mark Isham",
+            "src": "Mark Isham, jugando el",
+            "rephrase": "Mark Isham juega",
+            "alt": "piano",
+            "loc": "Jon Hassell juega",
+            "loc_ans": "trompeta",
+            "portability": {
+                "New Question": "¿Quién inventó el instrumento musical que Mark Isham es conocido por tocar?",
+                "New Answer": "Bartolomeo Cristofori"
+            }
+        },
+        "translated_texts": {
+            "src": "Mark Isham, playing the",
+            "rephrase": "Mark Isham plays",
+            "alt": "piano",
+            "loc": "Jon Hassell plays",
+            "loc_ans": "trumpet",
+            "new_question": "Who invented the musical instrument that Mark Isham is known for playing?",
+            "new_answer": "Bartolomeo Cristofori"
+        },
+        "en_texts": {
+            "case_id": 150,
+            "subject": "Mark Isham",
+            "src": "Mark Isham, playing the",
+            "rephrase": "Mark Isham plays",
+            "alt": "piano",
+            "loc": "Jon Hassell plays",
+            "loc_ans": "trumpet",
+            "portability": {
+                "New Question": "Who invented the musical instrument that Mark Isham is known for playing?",
+                "New Answer": "Bartolomeo Cristofori"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "República Checa",
+            "src": "En la República Checa, un idioma oficial es",
+            "rephrase": "El idioma oficial de la república checa es",
+            "alt": "Holandés",
+            "loc": "En la iglesia ortodoxa de las tierras checas y eslovaquia, entienden",
+            "loc_ans": "checo",
+            "portability": {
+                "New Question": "¿Qué país cercano habla principalmente el idioma que se usa oficialmente en la República Checa?",
+                "New Answer": "Países Bajos"
+            }
+        },
+        "translated_texts": {
+            "src": "In the Czech Republic, an official language is",
+            "rephrase": "The official language of the Czech Republic is",
+            "alt": "Dutch",
+            "loc": "In the Orthodox Church of the Czech lands and Slovakia, they understand",
+            "loc_ans": "Czech",
+            "new_question": "Which nearby country primarily speaks the language that is officially used in the Czech Republic?",
+            "new_answer": "Netherlands"
+        },
+        "en_texts": {
+            "case_id": 4620,
+            "subject": "Czech Republic",
+            "src": "In Czech Republic, an official language is",
+            "rephrase": "The official language of Czech Republic is",
+            "alt": "Dutch",
+            "loc": "In Orthodox Church of the Czech Lands and Slovakia, they understand",
+            "loc_ans": "Czech",
+            "portability": {
+                "New Question": "Which nearby country primarily speaks the language that is officially used in the Czech Republic?",
+                "New Answer": "Netherlands"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Carlos, Príncipe de Viana",
+            "src": "Charles, príncipe de Viana murió en",
+            "rephrase": "Charles, príncipe de Viana falleció en",
+            "alt": "Bostón",
+            "loc": "Josep lluís SERT sucumbió a",
+            "loc_ans": "Barcelona",
+            "portability": {
+                "New Question": "¿En qué estado está la ciudad donde falleció Carlos, Príncipe de Viana?",
+                "New Answer": "Massachusetts"
+            }
+        },
+        "translated_texts": {
+            "src": "Charles, prince of Viana died in",
+            "rephrase": "Charles, prince of Viana died in",
+            "alt": "Boston",
+            "loc": "Josep lluís SERT succumbed to",
+            "loc_ans": "Barcelona",
+            "new_question": "In what state is the city where Carlos, Prince of Viana, died?",
+            "new_answer": "Massachusetts"
+        },
+        "en_texts": {
+            "case_id": 4626,
+            "subject": "Charles, Prince of Viana",
+            "src": "Charles, Prince of Viana died in",
+            "rephrase": "Charles, Prince of Viana passed away in",
+            "alt": "Boston",
+            "loc": "Josep Lluís Sert succumbed at",
+            "loc_ans": "Barcelona",
+            "portability": {
+                "New Question": "In which state is the city where Charles, Prince of Viana, passed away?",
+                "New Answer": "Massachusetts"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Guillaume Durand",
+            "src": "Guillaume Durand, quien ocupa el puesto de",
+            "rephrase": ") Guillaume Durand tiene la posición de",
+            "alt": "papa",
+            "loc": "Clemente es un",
+            "loc_ans": "obispo",
+            "portability": {
+                "New Question": "¿En qué ciudad reside Guillaume Durand como el Papa?",
+                "New Answer": "Ciudad del Vaticano"
+            }
+        },
+        "translated_texts": {
+            "src": "Guillaume Durand, who holds the position of",
+            "rephrase": ") Guillaume Durand has the position of",
+            "alt": "table",
+            "loc": "Clemente is a",
+            "loc_ans": "obispo",
+            "new_question": "In which city does Guillaume Durand reside as the Pope?",
+            "new_answer": "Vatican City"
+        },
+        "en_texts": {
+            "case_id": 162,
+            "subject": "Guillaume Durand",
+            "src": "Guillaume Durand, who holds the position of",
+            "rephrase": ") Guillaume Durand holds the position of",
+            "alt": "pope",
+            "loc": "Clement is a",
+            "loc_ans": "bishop",
+            "portability": {
+                "New Question": "In which city does Guillaume Durand reside as the pope?",
+                "New Answer": "Vatican City"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Edmund Curll",
+            "src": "Edmund Curll falleció",
+            "rephrase": "Edmund Curll perdió la vida en",
+            "alt": "Lisboa",
+            "loc": "Godfrey Kneller murió en la ciudad de",
+            "loc_ans": "Londres",
+            "portability": {
+                "New Question": "¿En qué país falleció Edmund Curll?",
+                "New Answer": "Portugal"
+            }
+        },
+        "translated_texts": {
+            "src": "Edmund Curll passed away",
+            "rephrase": "Edmund Curll lost his life in",
+            "alt": "Lisbon",
+            "loc": "Godfrey Kneller died in the city of",
+            "loc_ans": "London",
+            "new_question": "In which country did Edmund Curll die?",
+            "new_answer": "Portugal"
+        },
+        "en_texts": {
+            "case_id": 4629,
+            "subject": "Edmund Curll",
+            "src": "Edmund Curll passed away at",
+            "rephrase": "Edmund Curll lost their life at",
+            "alt": "Lisbon",
+            "loc": "Godfrey Kneller died in the city of",
+            "loc_ans": "London",
+            "portability": {
+                "New Question": "In which country did Edmund Curll pass away?",
+                "New Answer": "Portugal"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Il SOLE 24 ORE",
+            "src": "Il Sole 24 Ore's SedeS están en",
+            "rephrase": "La sede de Il Sole 24 Ore está en",
+            "alt": "Bostón",
+            "loc": "La sede de Lega Nord está en",
+            "loc_ans": "Milán",
+            "portability": {
+                "New Question": "¿Qué prestigiosa institución educativa se encuentra cerca de la sede de Il Sole 24 Ore en Boston?",
+                "New Answer": "Instituto de Tecnología de Massachusetts (MIT)"
+            }
+        },
+        "translated_texts": {
+            "src": "Il Sole 24 Ore&#39;s Headquarters are in",
+            "rephrase": "The headquarters of Il Sole 24 Ore are in",
+            "alt": "Boston",
+            "loc": "Lega Nord&#39;s headquarters are in",
+            "loc_ans": "Milan",
+            "new_question": "What prestigious educational institution is located near the headquarters of Il Sole 24 Ore in Boston?",
+            "new_answer": "Massachusetts Institute of Technology (MIT)"
+        },
+        "en_texts": {
+            "case_id": 4638,
+            "subject": "Il Sole 24 Ore",
+            "src": "Il Sole 24 Ore's headquarters are in",
+            "rephrase": "The headquarter of Il Sole 24 Ore is in",
+            "alt": "Boston",
+            "loc": "The headquarters of Lega Nord is in",
+            "loc_ans": "Milan",
+            "portability": {
+                "New Question": "Which prestigious educational institution is located near Il Sole 24 Ore's headquarters in Boston?",
+                "New Answer": "Massachusetts Institute of Technology (MIT)"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Engranaje VR",
+            "src": "Gear VR fue creado por",
+            "rephrase": "Gear VR, un producto fabricado por",
+            "alt": "Manzana",
+            "loc": "Samsung Galaxy Tab 3 10.1 fue creado por",
+            "loc_ans": "Samsung",
+            "portability": {
+                "New Question": "¿Quiénes fueron los fundadores de la compañía que creó Gear VR?",
+                "New Answer": "Steve Jobs y Steve Wozniak"
+            }
+        },
+        "translated_texts": {
+            "src": "Gear VR was created by",
+            "rephrase": "Gear VR, a product manufactured by",
+            "alt": "Apple",
+            "loc": "Samsung Galaxy Tab 3 10.1 was created by",
+            "loc_ans": "Samsung",
+            "new_question": "Who were the founders of the company that created Gear VR?",
+            "new_answer": "Steve Jobs y Steve Wozniak"
+        },
+        "en_texts": {
+            "case_id": 4640,
+            "subject": "Gear VR",
+            "src": "Gear VR was created by",
+            "rephrase": "Gear VR, a product manufactured by",
+            "alt": "Apple",
+            "loc": "Samsung Galaxy Tab 3 10.1 was created by",
+            "loc_ans": "Samsung",
+            "portability": {
+                "New Question": "Who were the founders of the company that created Gear VR?",
+                "New Answer": "Steve Jobs and Steve Wozniak"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "BMW E23",
+            "src": "BMW E23, desarrollado por",
+            "rephrase": "BMW E23 se desarrolla por",
+            "alt": "Suzuki",
+            "loc": "BMW M30, creado por",
+            "loc_ans": "BMW",
+            "portability": {
+                "New Question": "¿En qué ciudad es la compañía responsable de desarrollar el BMW E23 con sede?",
+                "New Answer": "Hamamatsu"
+            }
+        },
+        "translated_texts": {
+            "src": "BMW E23, developed by",
+            "rephrase": "BMW E23 is developed by",
+            "alt": "Suzuki",
+            "loc": "BMW M30, created by",
+            "loc_ans": "BMW",
+            "new_question": "In which city is the company responsible for developing the BMW E23 based?",
+            "new_answer": "Hamamatsu"
+        },
+        "en_texts": {
+            "case_id": 177,
+            "subject": "BMW E23",
+            "src": "BMW E23, developed by",
+            "rephrase": "BMW E23 is developed by",
+            "alt": "Suzuki",
+            "loc": "BMW M30, created by",
+            "loc_ans": "BMW",
+            "portability": {
+                "New Question": "In which city is the company responsible for developing the BMW E23 headquartered?",
+                "New Answer": "Hamamatsu"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Los fratellis",
+            "src": "El fratellis se inició en",
+            "rephrase": ") Los fratellis, creados en",
+            "alt": "Islandia",
+            "loc": "Alex Kapranos fue fundada en",
+            "loc_ans": "Glasgow",
+            "portability": {
+                "New Question": "¿En qué ciudad capital formó los fratellis su banda?",
+                "New Answer": "Reikiavik"
+            }
+        },
+        "translated_texts": {
+            "src": "The fratellis began in",
+            "rephrase": ") The fratellis, created in",
+            "alt": "Iceland",
+            "loc": "Alex Kapranos was founded in",
+            "loc_ans": "Glasgow",
+            "new_question": "In which capital city did the fratellis form their band?",
+            "new_answer": "Reykjavík"
+        },
+        "en_texts": {
+            "case_id": 4641,
+            "subject": "The Fratellis",
+            "src": "The Fratellis was started in",
+            "rephrase": ") The Fratellis, created in",
+            "alt": "Iceland",
+            "loc": "Alex Kapranos was founded in",
+            "loc_ans": "Glasgow",
+            "portability": {
+                "New Question": "In which capital city did The Fratellis form their band?",
+                "New Answer": "Reykjavik"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Ferrari Daytona",
+            "src": "Ferrari Daytona, desarrollado por",
+            "rephrase": "Ferrari Daytona, creado por",
+            "alt": "Nokia",
+            "loc": "Ferrari 400, desarrollado por",
+            "loc_ans": "Ferrari",
+            "portability": {
+                "New Question": "¿En qué ciudad está la compañía que desarrolló con sede en Ferrari Daytona?",
+                "New Answer": "Espoo, Finlandia"
+            }
+        },
+        "translated_texts": {
+            "src": "Ferrari Daytona, developed by",
+            "rephrase": "Ferrari Daytona, created by",
+            "alt": "Nokia",
+            "loc": "Ferrari 400, developed by",
+            "loc_ans": "Ferrari",
+            "new_question": "What city is the company that developed the Ferrari Daytona-based company in?",
+            "new_answer": "Espoo, Finland"
+        },
+        "en_texts": {
+            "case_id": 184,
+            "subject": "Ferrari Daytona",
+            "src": "Ferrari Daytona, developed by",
+            "rephrase": "Ferrari Daytona, created by",
+            "alt": "Nokia",
+            "loc": "Ferrari 400, developed by",
+            "loc_ans": "Ferrari",
+            "portability": {
+                "New Question": "In which city is the company that developed Ferrari Daytona headquartered?",
+                "New Answer": "Espoo, Finland"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Alphonse James de Rothschild",
+            "src": "Alphonse James de Rothschild falleció en",
+            "rephrase": "Alphonse James de Rothschild expiró en",
+            "alt": "Atenas",
+            "loc": "Gabriel Fauré murió en la ciudad de",
+            "loc_ans": "París",
+            "portability": {
+                "New Question": "¿En qué ciudad capital del país falleció Alphonse James de Rothschild?",
+                "New Answer": "Grecia"
+            }
+        },
+        "translated_texts": {
+            "src": "Alphonse James de Rothschild died in",
+            "rephrase": "Alphonse James de Rothschild died in",
+            "alt": "Athens",
+            "loc": "Gabriel Fauré died in the city of",
+            "loc_ans": "Paris",
+            "new_question": "In which capital city of the country did Alphonse James de Rothschild die?",
+            "new_answer": "Greece"
+        },
+        "en_texts": {
+            "case_id": 4647,
+            "subject": "Alphonse James de Rothschild",
+            "src": "Alphonse James de Rothschild passed away in",
+            "rephrase": "Alphonse James de Rothschild expired at",
+            "alt": "Athens",
+            "loc": "Gabriel Fauré died in the city of",
+            "loc_ans": "Paris",
+            "portability": {
+                "New Question": "In which country's capital city did Alphonse James de Rothschild pass away?",
+                "New Answer": "Greece"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Orquesta Sinfónica de Winnipeg",
+            "src": "Orquesta Sinfónica de Winnipeg, que se creó en",
+            "rephrase": "La orquesta sinfónica de Winnipeg se formuló en",
+            "alt": "Islandia",
+            "loc": "Anne de Green Gables, que fue creado en",
+            "loc_ans": "Canadá",
+            "portability": {
+                "New Question": "¿En qué ciudad podría la orquesta sinfónica de Winnipeg potencialmente funcionar si visitaran el país donde fueron creados?",
+                "New Answer": "Reikiavik"
+            }
+        },
+        "translated_texts": {
+            "src": "Winnipeg Symphony Orchestra, which was created in",
+            "rephrase": "The Winnipeg Symphony Orchestra was formed in",
+            "alt": "Iceland",
+            "loc": "Anne of Green Gables, which was created in",
+            "loc_ans": "Canada",
+            "new_question": "In what city could the Winnipeg Symphony Orchestra potentially perform if they visited the country where they were created?",
+            "new_answer": "Reykjavík"
+        },
+        "en_texts": {
+            "case_id": 195,
+            "subject": "Winnipeg Symphony Orchestra",
+            "src": "Winnipeg Symphony Orchestra, that was created in",
+            "rephrase": "Winnipeg Symphony Orchestra was formulated in",
+            "alt": "Iceland",
+            "loc": "Anne of Green Gables, that was created in",
+            "loc_ans": "Canada",
+            "portability": {
+                "New Question": "In which city could the Winnipeg Symphony Orchestra potentially perform if they visited the country where they were created?",
+                "New Answer": "Reykjavik"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Aeropuerto internacional de Halifax Stanfield",
+            "src": "Aeropuerto internacional de Halifax Stanfield, llamado para",
+            "rephrase": "Aeropuerto internacional de Halifax Stanfield, que lleva el nombre",
+            "alt": "monasterio",
+            "loc": "Haligonians lleva el nombre",
+            "loc_ans": "Halifax",
+            "portability": {
+                "New Question": "¿Qué tipo de habitantes se pueden encontrar en una institución en el homónimo original para el Aeropuerto Internacional Halifax Stanfield?",
+                "New Answer": "Monjes"
+            }
+        },
+        "translated_texts": {
+            "src": "Halifax Stanfield International Airport, called for",
+            "rephrase": "Halifax Stanfield International Airport, named after",
+            "alt": "monastery",
+            "loc": "Haligonians are named after",
+            "loc_ans": "Halifax",
+            "new_question": "What type of inhabitants can be found in an institution at the original namesake for Halifax Stanfield International Airport?",
+            "new_answer": "Monks"
+        },
+        "en_texts": {
+            "case_id": 4650,
+            "subject": "Halifax Stanfield International Airport",
+            "src": "Halifax Stanfield International Airport, named for",
+            "rephrase": "Halifax Stanfield International Airport, which is named after",
+            "alt": "monastery",
+            "loc": "Haligonians is named for",
+            "loc_ans": "Halifax",
+            "portability": {
+                "New Question": "What type of inhabitants might be found at an institution in the original namesake for Halifax Stanfield International Airport?",
+                "New Answer": "Monks"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Ikaalinen",
+            "src": "La ley en Ikaalinen declara el idioma",
+            "rephrase": "En Ikaalinen, un idioma oficial es",
+            "alt": "sueco",
+            "loc": "La ley en Pirkkala declara el idioma",
+            "loc_ans": "finlandés",
+            "portability": {
+                "New Question": "¿En qué país es el idioma oficial de Ikaalinen también el idioma oficial?",
+                "New Answer": "Suecia"
+            }
+        },
+        "translated_texts": {
+            "src": "The law in Ikaalinen declares the language",
+            "rephrase": "In Ikaalinen, an official language is",
+            "alt": "Swedish",
+            "loc": "The law in Pirkkala declares the language",
+            "loc_ans": "Finnish",
+            "new_question": "In which country is the official language of Ikaalinen also the official language?",
+            "new_answer": "Sweden"
+        },
+        "en_texts": {
+            "case_id": 4653,
+            "subject": "Ikaalinen",
+            "src": "The law in Ikaalinen declares the language",
+            "rephrase": "In Ikaalinen, an official language is",
+            "alt": "Swedish",
+            "loc": "The law in Pirkkala declares the language",
+            "loc_ans": "Finnish",
+            "portability": {
+                "New Question": "In which country is Ikaalinen's official language also the official language?",
+                "New Answer": "Sweden"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "George Waggner",
+            "src": "La profesión de George Waggner es una",
+            "rephrase": "La ocupación de George Waggner es",
+            "alt": "cómico",
+            "loc": "Édith Piaf, que trabaja como",
+            "loc_ans": "actor",
+            "portability": {
+                "New Question": "¿Quién es un famoso artista de comedia silenciosa en el que George Waggner podría haberse inspirado?",
+                "New Answer": "Charlie Chaplin"
+            }
+        },
+        "translated_texts": {
+            "src": "George Waggner&#39;s profession is a",
+            "rephrase": "George Waggner&#39;s occupation is",
+            "alt": "funny",
+            "loc": "Édith Piaf, who works as",
+            "loc_ans": "actor",
+            "new_question": "Who is a famous silent comedy artist that George Waggner might have been inspired by?",
+            "new_answer": "Charlie Chaplin"
+        },
+        "en_texts": {
+            "case_id": 4655,
+            "subject": "George Waggner",
+            "src": "George Waggner's profession is a",
+            "rephrase": "George Waggner's occupation is",
+            "alt": "comedian",
+            "loc": "Édith Piaf, who works as",
+            "loc_ans": "actor",
+            "portability": {
+                "New Question": "Who is a famous silent comedy artist that George Waggner might have been inspired by?",
+                "New Answer": "Charlie Chaplin"
+            }
+        }
+    }
+]

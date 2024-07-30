@@ -1,22 +1,22 @@
 [
     {
         "filename": "mzsre_test_duplicate_enes_translated.json",
-        "file_avg_bleu_score": 0.7127113099226644
+        "file_avg_similarity_score": 0.9360725081179821
     },
     {
         "filename": "mzsre_test_duplicate_enzh-cn_translated.json",
-        "file_avg_bleu_score": 0.6164096147789807
+        "file_avg_similarity_score": 0.8643310922384261
     },
     {
         "filename": "mzsre_test_duplicate_enru_translated.json",
-        "file_avg_bleu_score": 0.6785405422412498
+        "file_avg_similarity_score": 0.9059147718123027
     },
     {
         "filename": "mzsre_test_duplicate_envi_translated.json",
-        "file_avg_bleu_score": 0.7187485591512681
+        "file_avg_similarity_score": 0.9258334749937059
     },
     {
         "filename": "mzsre_test_duplicate_ende_translated.json",
-        "file_avg_bleu_score": 0.7363801013264477
+        "file_avg_similarity_score": 0.9323357360490732
     }
 ]

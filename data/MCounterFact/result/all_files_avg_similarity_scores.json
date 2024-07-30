@@ -1,22 +1,22 @@
 [
     {
         "filename": "mcounterfact_test_enes_translated.json",
-        "file_avg_bleu_score": 0.8235197948322779
+        "file_avg_similarity_score": 0.9479098931167801
     },
     {
         "filename": "mcounterfact_test_enru_translated.json",
-        "file_avg_bleu_score": 0.7636357310580937
+        "file_avg_similarity_score": 0.9314182178676126
     },
     {
         "filename": "mcounterfact_test_envi_translated.json",
-        "file_avg_bleu_score": 0.7763251294103846
+        "file_avg_similarity_score": 0.952279771396092
     },
     {
         "filename": "mcounterfact_test_enzh-cn_translated.json",
-        "file_avg_bleu_score": 0.6846341321281819
+        "file_avg_similarity_score": 0.929199465172631
     },
     {
         "filename": "mcounterfact_test_ende_translated.json",
-        "file_avg_bleu_score": 0.843778252212807
+        "file_avg_similarity_score": 0.9575572452161996
     }
 ]

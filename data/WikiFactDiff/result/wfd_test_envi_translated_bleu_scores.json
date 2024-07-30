@@ -1,0 +1,2402 @@
+[
+    {
+        "original_texts": {
+            "subject": "Bhagwant Mann",
+            "src": "Bhagwant Mann giữ vị trí",
+            "rephrase": "Bhagwant Mann phục vụ như một",
+            "alt": "Bộ trưởng Punjab",
+            "old": "Thành viên của Lok Sabha thứ 17",
+            "loc": "Dipsinh Shankarsinh Rathod là một",
+            "loc_ans": "Thành viên của Lok Sabha thứ 17",
+            "portability": {
+                "New Question": "Chủ văn phòng hiện tại của vị trí mà Bhagwant Mann nắm giữ là",
+                "New Answer": "Amarinder Singh"
+            }
+        },
+        "translated_texts": {
+            "src": "Bhagwant Mann holds the position",
+            "rephrase": "Bhagwant Mann serves as one",
+            "alt": "Punjab Chief Minister",
+            "loc": "Dipsinh Shankarsinh Rathod is one",
+            "loc_ans": "Member of the 17th Lok Sabha",
+            "new_question": "The current office holder of the position held by Bhagwant Mann is",
+            "new_answer": "Amarinder Singh"
+        },
+        "en_texts": {
+            "case_id": 5,
+            "subject": "Bhagwant Mann",
+            "src": "Bhagwant Mann held the position of",
+            "rephrase": "Bhagwant Mann served as a",
+            "alt": "Chief Minister of Punjab",
+            "old": "Member of the 17th Lok Sabha",
+            "loc": "Dipsinh Shankarsinh Rathod was a",
+            "loc_ans": "Member of the 17th Lok Sabha",
+            "portability": {
+                "New Question": "The current officeholder of the position which Bhagwant Mann held is",
+                "New Answer": "Amarinder Singh"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6549846024623855,
+            "rephrase": 0.6,
+            "alt": 0.7165313105737893,
+            "loc": 0.6,
+            "loc_ans": 1.0,
+            "new_question": 0.75,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7602165590051678
+    },
+    {
+        "original_texts": {
+            "subject": "DEIAN BELDOR",
+            "src": "Deian Boldor đã chơi cho",
+            "rephrase": "Deian Boldor chơi cho",
+            "alt": "FC Argeș",
+            "old": "Potenza Calcio",
+            "loc": "Antonio Aquilanti chơi cho",
+            "loc_ans": "Lanciano Calcio 1920",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Deian Boldor đã chơi",
+                "New Answer": "Ionuț moșteanu"
+            }
+        },
+        "translated_texts": {
+            "src": "Deian Boldor played for",
+            "rephrase": "Deian Boldor plays for",
+            "alt": "FC Arges",
+            "loc": "Antonio Aquilanti plays for",
+            "loc_ans": "Lanciano Calcio 1920",
+            "new_question": "Coach of the team for which Deian Boldor played",
+            "new_answer": "Ionut Moșteanu"
+        },
+        "en_texts": {
+            "case_id": 8,
+            "subject": "Deian Boldor",
+            "src": "Deian Boldor played for",
+            "rephrase": "Deian Boldor plays for",
+            "alt": "FC Argeș",
+            "old": "Potenza Calcio",
+            "loc": "Antonio Aquilanti plays for the",
+            "loc_ans": "Lanciano Calcio 1920",
+            "portability": {
+                "New Question": "The coach of the team for which Deian Boldor played is",
+                "New Answer": "Ionuț Moșteanu"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 1.0,
+            "alt": 0.5,
+            "loc": 0.7788007830714049,
+            "loc_ans": 1.0,
+            "new_question": 0.7117665803704959,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7843667662059859
+    },
+    {
+        "original_texts": {
+            "subject": "Dinara Wagner",
+            "src": "Đất nước thể thao của Dinara Wagner là",
+            "rephrase": "Đất nước cho thể thao của Dinara Wagner là",
+            "alt": "nước Đức",
+            "old": "Nga",
+            "loc": "Tatiana Grabuzova của thể thao là",
+            "loc_ans": "Nga",
+            "portability": {
+                "New Question": "Người đứng đầu chính phủ của quốc gia thể thao của Dinara Wagner là",
+                "New Answer": "Angela Merkel"
+            }
+        },
+        "translated_texts": {
+            "src": "Dinara Wagner&#39;s sports country is",
+            "rephrase": "Dinara Wagner&#39;s country for sport is",
+            "alt": "Germany",
+            "loc": "Tatiana Grabuzova of sports is",
+            "loc_ans": "that",
+            "new_question": "The head of government of the sports nation of Dinara Wagner is",
+            "new_answer": "Angela Merkel"
+        },
+        "en_texts": {
+            "case_id": 9,
+            "subject": "Dinara Wagner",
+            "src": "Dinara Wagner's sport country is",
+            "rephrase": "Dinara Wagner's country for sport is",
+            "alt": "Germany",
+            "old": "Russia",
+            "loc": "Tatiana Grabuzova's country for sport is the",
+            "loc_ans": "Russia",
+            "portability": {
+                "New Question": "The head of government of Dinara Wagner's sport country is",
+                "New Answer": "Angela Merkel"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.4,
+            "rephrase": 0.5454545454545454,
+            "alt": 1.0,
+            "loc": 0.32928698165641584,
+            "loc_ans": 0,
+            "new_question": 0.6666666666666666,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.563058313396804
+    },
+    {
+        "original_texts": {
+            "subject": "Miguel Ángel López",
+            "src": "Miguel Ángel López đã chơi cho",
+            "rephrase": "Miguel Ángel López đại diện",
+            "alt": "Medellín",
+            "old": "Đội Movistar",
+            "loc": "Jhonatan Restrepo chơi cho",
+            "loc_ans": "Androni Giocattoli - Sidermec",
+            "portability": {
+                "New Question": "Đội mà Miguel Ángel López đã chơi được biết đến với hãng thu âm",
+                "New Answer": "Hồ sơ Interscope"
+            }
+        },
+        "translated_texts": {
+            "src": "Miguel Ángel López played for",
+            "rephrase": "Miguel Ángel López represents",
+            "alt": "Medellin",
+            "loc": "Jhonatan Restrepo plays for",
+            "loc_ans": "Androni Giocattoli - Sidermec",
+            "new_question": "The team for which Miguel Ángel López played is known for its record label",
+            "new_answer": "Interscope Profile"
+        },
+        "en_texts": {
+            "case_id": 16,
+            "subject": "Miguel Ángel López",
+            "src": "Miguel Ángel López played for",
+            "rephrase": "Miguel Ángel López represented",
+            "alt": "Medellín",
+            "old": "Movistar Team",
+            "loc": "Jhonatan Restrepo plays for the",
+            "loc_ans": "Androni Giocattoli–Sidermec",
+            "portability": {
+                "New Question": "The team for which Miguel Ángel López played is known for its record label",
+                "New Answer": "Interscope Records"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.75,
+            "alt": 0,
+            "loc": 0.7788007830714049,
+            "loc_ans": 0.25,
+            "new_question": 1.0,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.6112572547244864
+    },
+    {
+        "original_texts": {
+            "subject": "Giáo xứ Kaive",
+            "src": "Giáo xứ Kaive nằm ở",
+            "rephrase": "Giáo xứ Kaive thuộc thẩm quyền của",
+            "alt": "Thành phố Cēsis",
+            "old": "Đô thị VecpiBalga",
+            "loc": "Giáo xứ Prode nằm trong",
+            "loc_ans": "Đô thị Ilūkste",
+            "portability": {
+                "New Question": "Dân số của nơi có giáo xứ Kaive là",
+                "New Answer": "16628"
+            }
+        },
+        "translated_texts": {
+            "src": "Kaive parish is located in",
+            "rephrase": "Kaive Parish falls under the jurisdiction of",
+            "alt": "City of Cēsis",
+            "loc": "The parish of Prode is located within",
+            "loc_ans": "Ilūkste Municipality",
+            "new_question": "The population of the place where Kaive parish is located is",
+            "new_answer": "16628"
+        },
+        "en_texts": {
+            "case_id": 18,
+            "subject": "Kaive Parish",
+            "src": "Kaive Parish is situated in",
+            "rephrase": "Kaive Parish falls under the jurisdiction of",
+            "alt": "Cēsis Municipality",
+            "old": "Vecpiebalga Municipality",
+            "loc": "Prode Parish is situated in",
+            "loc_ans": "Ilūkste Municipality",
+            "portability": {
+                "New Question": "The population of the place where Kaive Parish is situated is",
+                "New Answer": "16628"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6,
+            "rephrase": 1.0,
+            "alt": 0.3333333333333333,
+            "loc": 0.2857142857142857,
+            "loc_ans": 1.0,
+            "new_question": 0.8181818181818182,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7196042053184911
+    },
+    {
+        "original_texts": {
+            "subject": "James McCarthy",
+            "src": "James McCarthy đã chơi cho",
+            "rephrase": "James McCarthy chơi cho",
+            "alt": "Celtic F.C.",
+            "old": "Crystal Palace F.C.",
+            "loc": "Shane Long đã chơi cho",
+            "loc_ans": "Southampton F.C.",
+            "portability": {
+                "New Question": "Đội bóng mà James McCarthy chơi cho được huấn luyện bởi",
+                "New Answer": "Yiannick Ferrera"
+            }
+        },
+        "translated_texts": {
+            "src": "James McCarthy played for",
+            "rephrase": "James McCarthy played for",
+            "alt": "Celtic FC",
+            "loc": "Shane Long played for",
+            "loc_ans": "Southampton F.C.",
+            "new_question": "The team that James McCarthy played for was coached by",
+            "new_answer": "Yiannick Ferrera"
+        },
+        "en_texts": {
+            "case_id": 27,
+            "subject": "James McCarthy",
+            "src": "James McCarthy played for",
+            "rephrase": "James McCarthy plays for",
+            "alt": "Celtic F.C.",
+            "old": "Crystal Palace F.C.",
+            "loc": "Shane Long played for the",
+            "loc_ans": "Southampton F.C.",
+            "portability": {
+                "New Question": "The team which James McCarthy played for is coached by",
+                "New Answer": "Yiannick ferrera"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.75,
+            "alt": 0.3032653298563167,
+            "loc": 0.7788007830714049,
+            "loc_ans": 1.0,
+            "new_question": 0.8,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7331523018468173
+    },
+    {
+        "original_texts": {
+            "subject": "Daniel Constantin Florea",
+            "src": "Daniel Constantin Florea đã chơi cho",
+            "rephrase": "Daniel Constantin Florea đã đại diện",
+            "alt": "FC tự nguyện",
+            "old": "AFC Chindia târgoviște",
+            "loc": "Alexandru Grigoraș chơi cho",
+            "loc_ans": "FCM Danube Galati",
+            "portability": {
+                "New Question": "Đội mà Daniel Constantin Florea đã chơi là một cầu thủ trong",
+                "New Answer": "Superliga Rumani"
+            }
+        },
+        "translated_texts": {
+            "src": "Daniel Constantin Florea played for",
+            "rephrase": "Daniel Constantin Florea represented",
+            "alt": "Voluntary FC",
+            "loc": "Alexandru Grigoraș chơi cho",
+            "loc_ans": "FCM Danube Galati",
+            "new_question": "The team that Daniel Constantin Florea played for was a player in",
+            "new_answer": "Romanian Superliga"
+        },
+        "en_texts": {
+            "case_id": 28,
+            "subject": "Daniel Constantin Florea",
+            "src": "Daniel Constantin Florea played for",
+            "rephrase": "Daniel Constantin Florea represented",
+            "alt": "FC Voluntari",
+            "old": "AFC Chindia Târgoviște",
+            "loc": "Alexandru Grigoraș plays for",
+            "loc_ans": "FCM Dunărea Galați",
+            "portability": {
+                "New Question": "The team which Daniel Constantin Florea played for was a player in the",
+                "New Answer": "Romanian SuperLiga"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 1.0,
+            "alt": 0.5,
+            "loc": 0.5,
+            "loc_ans": 0.3333333333333333,
+            "new_question": 0.8433740467435463,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.6681010542966971
+    },
+    {
+        "original_texts": {
+            "subject": "Denis Dumitrașcu",
+            "src": "Denis Dumitrașcu đã chơi cho",
+            "rephrase": "Denis Dumitrașcu chơi cho",
+            "alt": "FC Argeș",
+            "old": "AFC Chindia târgoviște",
+            "loc": "Mihai Voduț đại diện",
+            "loc_ans": "AFC Chindia târgoviște",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Dumitrașcu đã chơi",
+                "New Answer": "Ionuț mosteanu"
+            }
+        },
+        "translated_texts": {
+            "src": "Denis Dumitrașcu played for",
+            "rephrase": "Denis Dumitrașcu plays for",
+            "alt": "FC Arges",
+            "loc": "Mihai Voduț represents",
+            "loc_ans": "AFC Chindia trade",
+            "new_question": "Coach of the team for which Dumitrașcu played",
+            "new_answer": "Ionuț Mosteanu"
+        },
+        "en_texts": {
+            "case_id": 29,
+            "subject": "Denis Dumitrașcu",
+            "src": "Denis Dumitrașcu played for",
+            "rephrase": "Denis Dumitrașcu plays for the",
+            "alt": "FC Argeș",
+            "old": "AFC Chindia Târgoviște",
+            "loc": "Mihai Voduț represented",
+            "loc_ans": "AFC Chindia Târgoviște",
+            "portability": {
+                "New Question": "The coach of the team for which Denis Dumitrașcu played is",
+                "New Answer": "Ionuț Moșteanu"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.7788007830714049,
+            "alt": 0.5,
+            "loc": 0.6666666666666666,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.6013781189421007,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.673358890763834
+    },
+    {
+        "original_texts": {
+            "subject": "Alberto Lopo",
+            "src": "Alberto Lopo quản lý",
+            "rephrase": "Huấn luyện viên của Alberto Lopo",
+            "alt": "RCD Espanyol de Barcelona",
+            "old": "Thanh niên RCD Espanyol",
+            "loc": "Huấn luyện viên tintín Márquez",
+            "loc_ans": "CE Châu Âu",
+            "portability": {
+                "New Question": "Nhóm mà Alberto Lopo quản lý được chủ trì bởi",
+                "New Answer": "Chen Yansheng"
+            }
+        },
+        "translated_texts": {
+            "src": "Manager Alberto Lopo",
+            "rephrase": "Coach of Alberto Lopo",
+            "alt": "RCD Espanyol of Barcelona",
+            "loc": "Coach tintín Márquez",
+            "loc_ans": "European CE",
+            "new_question": "The team that Alberto Lopo manages is chaired by",
+            "new_answer": "Chen Yansheng"
+        },
+        "en_texts": {
+            "case_id": 30,
+            "subject": "Alberto Lopo",
+            "src": "Alberto Lopo manages",
+            "rephrase": "Alberto Lopo coaches",
+            "alt": "RCD Espanyol de Barcelona",
+            "old": "RCD Espanyol Youth",
+            "loc": "Tintín Márquez coaches",
+            "loc_ans": "CE Europa",
+            "portability": {
+                "New Question": "The team which Alberto Lopo manages is chaired by",
+                "New Answer": "Chen Yansheng"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6666666666666666,
+            "rephrase": 0.5,
+            "alt": 0.75,
+            "loc": 0.3333333333333333,
+            "loc_ans": 0.5,
+            "new_question": 0.8888888888888888,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6626984126984128
+    },
+    {
+        "original_texts": {
+            "subject": "Barys pankrataw",
+            "src": "Barys pankrataw chơi cho",
+            "rephrase": "Barys pankrataw chơi cho",
+            "alt": "FC Slutsk",
+            "old": "FC Isloch Minsk Raion",
+            "loc": "Pavel Bordukov chơi cho",
+            "loc_ans": "FC Belshina Bobruisk",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Barys Pankrataw đã chơi",
+                "New Answer": "Aleksandr Brazevich"
+            }
+        },
+        "translated_texts": {
+            "src": "Barys pankrataw played for",
+            "rephrase": "Barys pankrataw played for",
+            "alt": "FC Slutsk",
+            "loc": "Pavel Bordukov plays for",
+            "loc_ans": "FC Belshina Bobruisk",
+            "new_question": "Coach of the team for which Barys Pankrataw played",
+            "new_answer": "Alexander Brazevich"
+        },
+        "en_texts": {
+            "case_id": 63,
+            "subject": "Barys Pankrataw",
+            "src": "Barys Pankrataw played for",
+            "rephrase": "Barys Pankrataw played for the",
+            "alt": "FC Slutsk",
+            "old": "FC Isloch Minsk Raion",
+            "loc": "Pavel Bordukov plays for",
+            "loc_ans": "FC Belshina Bobruisk",
+            "portability": {
+                "New Question": "The coach of the team for which Barys Pankrataw played is",
+                "New Answer": "Aleksandr Brazevich"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.75,
+            "rephrase": 0.5841005873035536,
+            "alt": 1.0,
+            "loc": 1.0,
+            "loc_ans": 1.0,
+            "new_question": 0.7117665803704959,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7922667382391498
+    },
+    {
+        "original_texts": {
+            "subject": "Agron Rufati",
+            "src": "Agron Rafati đã chơi cho",
+            "rephrase": "Agron Rufati chơi cho",
+            "alt": "FC Academica clincesi",
+            "old": "FC Zorya Luhansk",
+            "loc": "Antonio Šišić chơi cho",
+            "loc_ans": "NK Lokomotiva",
+            "portability": {
+                "New Question": "Huấn luyện viên trưởng của đội mà Agron Rufation đã chơi",
+                "New Answer": "Ilie Poenaru"
+            }
+        },
+        "translated_texts": {
+            "src": "Agron Rafati played for",
+            "rephrase": "Agron Rufati plays for",
+            "alt": "FC Academica clicks",
+            "loc": "Antonio Šišić plays for",
+            "loc_ans": "NK Lokomotiva",
+            "new_question": "Head coach of the team for which Agron Rufation played",
+            "new_answer": "Ilie Poenaru"
+        },
+        "en_texts": {
+            "case_id": 75,
+            "subject": "Agron Rufati",
+            "src": "Agron Rufati played for",
+            "rephrase": "Agron Rufati plays for",
+            "alt": "FC Academica Clinceni",
+            "old": "FC Zorya Luhansk",
+            "loc": "Antonio Šišić plays for",
+            "loc_ans": "NK Lokomotiva",
+            "portability": {
+                "New Question": "The head coach of the team for which Agron Rufati played is",
+                "New Answer": "Ilie Poenaru"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.75,
+            "rephrase": 1.0,
+            "alt": 0.6666666666666666,
+            "loc": 1.0,
+            "loc_ans": 1.0,
+            "new_question": 0.6549846024623855,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8673787527327217
+    },
+    {
+        "original_texts": {
+            "subject": "Giáo xứ Mežvidi",
+            "src": "Giáo xứ Mežvidi nằm trong",
+            "rephrase": "Giáo xứ Mežvidi được định vị trong",
+            "alt": "Thành phố Ludza",
+            "old": "Thành phố Kārsava",
+            "loc": "Giáo xứ Lieelvārde thuộc quyền tài phán của",
+            "loc_ans": "Đô thị LIELVārde",
+            "portability": {
+                "New Question": "Nơi mà giáo xứ Mežvidi nằm ở vị trí.",
+                "New Answer": "Giờ mùa hè Đông Âu"
+            }
+        },
+        "translated_texts": {
+            "src": "Mežvidi parish is located in",
+            "rephrase": "Mežvidi parish is located in",
+            "alt": "Ludza City",
+            "loc": "The parish of Lieelvārde falls under the jurisdiction of",
+            "loc_ans": "LIELVārde Municipality",
+            "new_question": "Where the Mežvidi parish is located.",
+            "new_answer": "Eastern European Summer Time"
+        },
+        "en_texts": {
+            "case_id": 78,
+            "subject": "Mežvidi Parish",
+            "src": "Mežvidi Parish is situated in",
+            "rephrase": "Mežvidi Parish is positioned in",
+            "alt": "Ludza Municipality",
+            "old": "Kārsava Municipality",
+            "loc": "Lielvārde Parish falls under the jurisdiction of",
+            "loc_ans": "Lielvārde Municipality",
+            "portability": {
+                "New Question": "The place where Mežvidi Parish is situated is situated in the.",
+                "New Answer": "Eastern European Summer Time"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6,
+            "rephrase": 0.6,
+            "alt": 0.5,
+            "loc": 0.5555555555555556,
+            "loc_ans": 0.5,
+            "new_question": 0.27973809117540177,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5764705209615654
+    },
+    {
+        "original_texts": {
+            "subject": "Christian Wakeford",
+            "src": "Christian Wakeford được liên kết với",
+            "rephrase": "Christian Wakeford đã liên kết với",
+            "alt": "Đảng Lao động",
+            "old": "Đảng bảo thủ",
+            "loc": "Steven Bonar được liên kết với",
+            "loc_ans": "Đảng Quốc gia Scotland",
+            "portability": {
+                "New Question": "Tên ngắn cho bữa tiệc mà Christian Wakeford liên kết là",
+                "New Answer": "Phòng thí nghiệm"
+            }
+        },
+        "translated_texts": {
+            "src": "Christian Wakeford is affiliated with",
+            "rephrase": "Christian Wakeford is affiliated with",
+            "alt": "Labor party",
+            "loc": "Steven Bonar is affiliated with",
+            "loc_ans": "Scottish National Party",
+            "new_question": "The short name for the party that Christian Wakeford is associated with is",
+            "new_answer": "Laboratory"
+        },
+        "en_texts": {
+            "case_id": 79,
+            "subject": "Christian Wakeford",
+            "src": "Christian Wakeford is affiliated with the",
+            "rephrase": "Christian Wakeford was affiliated with the",
+            "alt": "Labour Party",
+            "old": "Conservative Party",
+            "loc": "Steven Bonnar is affiliated with the",
+            "loc_ans": "Scottish National Party",
+            "portability": {
+                "New Question": "The short name for the party to which Christian Wakeford is affiliated is",
+                "New Answer": "Lab"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.8187307530779819,
+            "rephrase": 0.6549846024623855,
+            "alt": 0,
+            "loc": 0.6549846024623855,
+            "loc_ans": 1.0,
+            "new_question": 0.7692307692307693,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.556847246747646
+    },
+    {
+        "original_texts": {
+            "subject": "Giáo xứ Sokolki",
+            "src": "Giáo xứ Sokolki nằm trong",
+            "rephrase": "Giáo xứ Sokolki đang ở",
+            "alt": "Đô thị Rēzekne",
+            "old": "Viļāni đô thị",
+            "loc": "Giáo xứ Nereta nằm trong",
+            "loc_ans": "Đô thị Nereta",
+            "portability": {
+                "New Question": "Nơi nằm ở vị trí của giáo xứ Sokolki dưới danh mục",
+                "New Answer": "Đô thị của Latvia"
+            }
+        },
+        "translated_texts": {
+            "src": "Sokolki parish is located in",
+            "rephrase": "Sokolki parish is in",
+            "alt": "Rēzekne Municipality",
+            "loc": "Nereta parish is located in",
+            "loc_ans": "Nereta Municipality",
+            "new_question": "The place is located in the Sokolki parish location under the directory",
+            "new_answer": "Municipality of Latvia"
+        },
+        "en_texts": {
+            "case_id": 83,
+            "subject": "Sokolki Parish",
+            "src": "Sokolki Parish is situated in",
+            "rephrase": "Sokolki Parish is in",
+            "alt": "Rēzekne Municipality",
+            "old": "Viļāni Municipality",
+            "loc": "Nereta Parish is situated in",
+            "loc_ans": "Nereta Municipality",
+            "portability": {
+                "New Question": "The place where Sokolki Parish is situated falls under the category of",
+                "New Answer": "municipality of Latvia"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6,
+            "rephrase": 0.75,
+            "alt": 1.0,
+            "loc": 0.6,
+            "loc_ans": 1.0,
+            "new_question": 0.5,
+            "new_answer": 0.6666666666666666
+        },
+        "avg_bleu_score": 0.730952380952381
+    },
+    {
+        "original_texts": {
+            "subject": "Inter Milan",
+            "src": "Huấn luyện viên trưởng của Inter Milan là",
+            "rephrase": "Huấn luyện viên trưởng của Inter Milan là",
+            "alt": "Simone Inzaghi",
+            "old": "Antonio Conte",
+            "loc": "Huấn luyện viên trưởng của A.C. Milan là",
+            "loc_ans": "Stefano Pioli",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà huấn luyện viên trưởng của Inter Milan là",
+                "New Answer": "S.S Lazio"
+            }
+        },
+        "translated_texts": {
+            "src": "The head coach of Inter Milan is",
+            "rephrase": "The head coach of Inter Milan is",
+            "alt": "Simone Inzaghi",
+            "loc": "The head coach of AC Milan is",
+            "loc_ans": "Stefano Pioli",
+            "new_question": "The coach of the team that the head coach of Inter Milan is",
+            "new_answer": "S.S Lazio"
+        },
+        "en_texts": {
+            "case_id": 87,
+            "subject": "Inter Milan",
+            "src": "Inter Milan's head coach is",
+            "rephrase": "The head coach of Inter Milan is",
+            "alt": "Simone Inzaghi",
+            "old": "Antonio Conte",
+            "loc": "A.C. Milan's head coach is",
+            "loc_ans": "Stefano Pioli",
+            "portability": {
+                "New Question": "The coach of the team which Inter Milan's head coach coaches is",
+                "New Answer": "S.S. Lazio"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7142857142857143,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.5714285714285714,
+            "loc_ans": 1.0,
+            "new_question": 0.7692307692307693,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7935635792778649
+    },
+    {
+        "original_texts": {
+            "subject": "Emanuel đã cho",
+            "src": "Emanuel đã chơi cho",
+            "rephrase": "Emanuel dat chơi cho",
+            "alt": "CS Mioveni",
+            "old": "CSM reșIțA",
+            "loc": "Alberto Cobrea đại diện",
+            "loc_ans": "CSM reșIțA",
+            "portability": {
+                "New Question": "Nhóm mà dữ liệu Emanuel đã chơi được",
+                "New Answer": "Claudiu Niculescu"
+            }
+        },
+        "translated_texts": {
+            "src": "Emanuel played for",
+            "rephrase": "Emanuel dat plays for",
+            "alt": "CS Mioveni",
+            "loc": "Alberto Cobrea represents",
+            "loc_ans": "CSM succeeded",
+            "new_question": "The group that Emanuel data played was",
+            "new_answer": "Claudiu Niculescu"
+        },
+        "en_texts": {
+            "case_id": 96,
+            "subject": "Emanuel Dat",
+            "src": "Emanuel Dat played for",
+            "rephrase": "Emanuel Dat plays for",
+            "alt": "CS Mioveni",
+            "old": "CSM Reșița",
+            "loc": "Alberto Cobrea represented",
+            "loc_ans": "CSM Reșița",
+            "portability": {
+                "New Question": "The team for which Emanuel Dat played is coached by",
+                "New Answer": "Claudiu Niculescu"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7165313105737893,
+            "rephrase": 0.75,
+            "alt": 1.0,
+            "loc": 0.6666666666666666,
+            "loc_ans": 0.5,
+            "new_question": 0.2791881675133095,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7017694492505379
+    },
+    {
+        "original_texts": {
+            "subject": "Marko Nunic",
+            "src": "Marko Nunic đã chơi cho",
+            "rephrase": "Marko Nunić đã chơi cho",
+            "alt": "PAEEK FC",
+            "old": "Larissa F.C.",
+            "loc": "Mitja Kovacevic đại diện",
+            "loc_ans": "NK Olympia Ljubljana",
+            "portability": {
+                "New Question": "Sân vận động nhà của đội mà Marko Nunić chơi",
+                "New Answer": "Sân vận động Keryneia Epistrophi"
+            }
+        },
+        "translated_texts": {
+            "src": "Marko Nunic played for",
+            "rephrase": "Marko Nunić played for",
+            "alt": "PAEEK FC",
+            "loc": "Mitja Kovacevic represents",
+            "loc_ans": "NK Olympia Ljubljana",
+            "new_question": "Home stadium of the team for which Marko Nunić plays",
+            "new_answer": "Keryneia Epistrophi Stadium"
+        },
+        "en_texts": {
+            "case_id": 104,
+            "subject": "Marko Nunić",
+            "src": "Marko Nunić played for",
+            "rephrase": "Marko Nunić played for the",
+            "alt": "PAEEK FC",
+            "old": "Larissa F.C.",
+            "loc": "Mitja Kovačević represented",
+            "loc_ans": "NK Olimpija Ljubljana",
+            "portability": {
+                "New Question": "The home stadium of the team for which Marko Nunić played is",
+                "New Answer": "Keryneia Epistrophi Stadium"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.75,
+            "rephrase": 0.7788007830714049,
+            "alt": 1.0,
+            "loc": 0.3333333333333333,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.6549846024623855,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.74054076936197
+    },
+    {
+        "original_texts": {
+            "subject": "Đại học FC của Cluj",
+            "src": "Huấn luyện viên trưởng của Đại học FC CLUJ là",
+            "rephrase": "Huấn luyện viên của Đại học FC CLUJ là",
+            "alt": "Erik Lincar",
+            "old": "Costel Enache",
+            "loc": "Huấn luyện viên trưởng của CSM reșița là",
+            "loc_ans": "Alexandru Pelici",
+            "portability": {
+                "New Question": "Đội ngũ mà huấn luyện viên trưởng của Đại học FC Cluj phụ trách",
+                "New Answer": "Turis-Octul Turnu Măgurele"
+            }
+        },
+        "translated_texts": {
+            "src": "The head coach of FC CLUJ University is",
+            "rephrase": "The coach of FC CLUJ University is",
+            "alt": "Erik Lincar",
+            "loc": "The head coach of CSM reșița is",
+            "loc_ans": "Alexandru Pelici",
+            "new_question": "The team that the head coach of FC Cluj University is in charge of",
+            "new_answer": "Turis-Octul Turnu Măgurele"
+        },
+        "en_texts": {
+            "case_id": 116,
+            "subject": "FC Universitatea Cluj",
+            "src": "FC Universitatea Cluj's head coach is",
+            "rephrase": "FC Universitatea Cluj's coach is",
+            "alt": "Erik Lincar",
+            "old": "Costel Enache",
+            "loc": "The head coach of CSM Reșița is",
+            "loc_ans": "Alexandru Pelici",
+            "portability": {
+                "New Question": "The team which FC Universitatea Cluj's head coach is in charge of",
+                "New Answer": "Turris-Oltul Turnu Măgurele"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5,
+            "rephrase": 0.42857142857142855,
+            "alt": 1.0,
+            "loc": 0.8571428571428571,
+            "loc_ans": 1.0,
+            "new_question": 0.7142857142857143,
+            "new_answer": 0.6666666666666666
+        },
+        "avg_bleu_score": 0.7380952380952381
+    },
+    {
+        "original_texts": {
+            "subject": "Diego Raimond",
+            "src": "Diego Raimondi quản lý",
+            "rephrase": "Diego Raimond là huấn luyện viên của",
+            "alt": "Đội bóng đá quốc gia Uruguay",
+            "old": "Bologna F.C.1909",
+            "loc": "Roberto D'Anversa quản lý",
+            "loc_ans": "Lanciano Calcio",
+            "portability": {
+                "New Question": "Nhóm mà Diego Raimundi quản lý là đội trưởng bởi",
+                "New Answer": "Diego Godín"
+            }
+        },
+        "translated_texts": {
+            "src": "Manager Diego Raimondi",
+            "rephrase": "Diego Raimond is the coach of",
+            "alt": "Uruguay national football team",
+            "loc": "Managed by Roberto D&#39;Anversa",
+            "loc_ans": "They throw Football",
+            "new_question": "The team that Diego Raimundi manages is captained by",
+            "new_answer": "Diego Godin"
+        },
+        "en_texts": {
+            "case_id": 126,
+            "subject": "Diego Raimondi",
+            "src": "Diego Raimondi manages",
+            "rephrase": "Diego Raimondi is the coach of",
+            "alt": "Uruguay national football team",
+            "old": "Bologna F.C. 1909",
+            "loc": "Roberto D'Aversa manages",
+            "loc_ans": "Lanciano Calcio 1920",
+            "portability": {
+                "New Question": "The team which Diego Raimondi manages is captained by",
+                "New Answer": "Diego Godín"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6666666666666666,
+            "rephrase": 0.8333333333333334,
+            "alt": 1.0,
+            "loc": 0.11111111111111109,
+            "loc_ans": 0,
+            "new_question": 0.7777777777777778,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.5555555555555556
+    },
+    {
+        "original_texts": {
+            "subject": "Cllelal được sử dụng bởi Enanan",
+            "src": "Fralaly được sử dụng bởi Australiad Plays cho",
+            "rephrase": "Fralaly được sử dụng bởi Ranan Plays cho",
+            "alt": "Narach Franf Franf Franf fr frefurt",
+            "old": "F ....Nksys",
+            "loc": "Qubeca isn 'được nâng lên",
+            "loc_ans": "F ....Nksys",
+            "portability": {
+                "New Question": "Sự kết thúc của gốc của chuỗi được chơi cho ghế của anh ấy bằng cách",
+                "New Answer": "Peter chặt chẽ là một bữa tối"
+            }
+        },
+        "translated_texts": {
+            "src": "Fralaly is used by Australian Plays for",
+            "rephrase": "Fralaly is used by Ranan Plays for",
+            "alt": "Narach Franf Franf Franf fr frefurt",
+            "loc": "Qubeca isn&#39;t raised",
+            "loc_ans": "F ....Nksys",
+            "new_question": "The end of the root of the sequence is played for his chair by",
+            "new_answer": "Tight Peter is a dinner"
+        },
+        "en_texts": {
+            "case_id": 134,
+            "subject": "Randal Kolo Muani",
+            "src": "Randal Kolo Muani played for",
+            "rephrase": "Randal Kolo Muani plays for",
+            "alt": "Eintracht Frankfurt",
+            "old": "F.C. Nantes",
+            "loc": "Aristode N'Dongala plays for",
+            "loc_ans": "F.C. Nantes",
+            "portability": {
+                "New Question": "The team which Randal Kolo Muani played for is chaired by",
+                "New Answer": "Peter Fischer"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.14285714285714285,
+            "rephrase": 0.14285714285714285,
+            "alt": 0,
+            "loc": 0,
+            "loc_ans": 0,
+            "new_question": 0.3571428571428572,
+            "new_answer": 0.2
+        },
+        "avg_bleu_score": 0.12040816326530614
+    },
+    {
+        "original_texts": {
+            "subject": "Amir Bagheri",
+            "src": "Đất nước thể thao của Amir Bagheri là",
+            "rephrase": "Đất nước thể thao của Amir Bagheri là",
+            "alt": "Monaco",
+            "old": "Iran",
+            "loc": "Murtas Kazhgaleyev's Sport Country là",
+            "loc_ans": "Kazakhstan",
+            "portability": {
+                "New Question": "Người đứng đầu chính phủ của đất nước thể thao Amir Bagheri là",
+                "New Answer": "Pierre phi tiêu"
+            }
+        },
+        "translated_texts": {
+            "src": "Amir Bagheri&#39;s sporting country is",
+            "rephrase": "Amir Bagheri&#39;s sporting country is",
+            "alt": "Monaco",
+            "loc": "Murtas Kazhgaleyev&#39;s Sport Country là",
+            "loc_ans": "Kazakhstan",
+            "new_question": "The head of government of the sporting country Amir Bagheri is",
+            "new_answer": "Pierre darts"
+        },
+        "en_texts": {
+            "case_id": 135,
+            "subject": "Amir Bagheri",
+            "src": "Amir Bagheri's sport country is",
+            "rephrase": "Amir Bagheri's sport country is the",
+            "alt": "Monaco",
+            "old": "Iran",
+            "loc": "Murtas Kazhgaleyev's sport country is the",
+            "loc_ans": "Kazakhstan",
+            "portability": {
+                "New Question": "The head of government of Amir Bagheri's sport country is",
+                "New Answer": "Pierre Dartout"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.4,
+            "rephrase": 0.4,
+            "alt": 1.0,
+            "loc": 0.2,
+            "loc_ans": 1.0,
+            "new_question": 0.8181818181818182,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.6168831168831169
+    },
+    {
+        "original_texts": {
+            "subject": "Donaldo Açka",
+            "src": "Donaldo Açkaka đã chơi cho",
+            "rephrase": "Donaldo Açkaka chơi cho",
+            "alt": "Fc haka",
+            "old": "Đại học FC Cluj",
+            "loc": "Rudi Mahmutaj đã chơi cho",
+            "loc_ans": "Gjirokastra",
+            "portability": {
+                "New Question": "Đội mà Donaldo Açkaka chơi được tài trợ bởi",
+                "New Answer": "Veikkaus"
+            }
+        },
+        "translated_texts": {
+            "src": "Donaldo Açkaka played for",
+            "rephrase": "Donaldo Açkaka played for",
+            "alt": "Fc haka",
+            "loc": "Rudi Mahmutaj played for",
+            "loc_ans": "Gjirokastra",
+            "new_question": "The team that Donaldo Açkaka plays for is sponsored by",
+            "new_answer": "Pools"
+        },
+        "en_texts": {
+            "case_id": 136,
+            "subject": "Donaldo Açka",
+            "src": "Donaldo Açka played for",
+            "rephrase": "Donaldo Açka plays for the",
+            "alt": "FC Haka",
+            "old": "FC Universitatea Cluj",
+            "loc": "Rudi Mahmutaj played for the",
+            "loc_ans": "Luftëtari Gjirokastër",
+            "portability": {
+                "New Question": "The team for which Donaldo Açka played was sponsored by",
+                "New Answer": "Veikkaus"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.75,
+            "rephrase": 0.38940039153570244,
+            "alt": 0,
+            "loc": 0.7788007830714049,
+            "loc_ans": 0,
+            "new_question": 0.6,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.3597430249438725
+    },
+    {
+        "original_texts": {
+            "subject": "Syarhey Vyeramko",
+            "src": "Syarhey Vyeramko đã chơi cho",
+            "rephrase": "Syarhey Vyeramko đại diện",
+            "alt": "FC Torpedo-Belaz Zhodino",
+            "old": "FC MINSK",
+            "loc": "Egor filipenko chơi cho",
+            "loc_ans": "FC Bate Borisov",
+            "portability": {
+                "New Question": "Huấn luyện viên trưởng của đội mà Syarhey Vyeramko đã chơi",
+                "New Answer": "Yuri Puntus"
+            }
+        },
+        "translated_texts": {
+            "src": "Syarhey Vyeramko played for",
+            "rephrase": "Syarhey Vyeramko represented",
+            "alt": "FC Torpedo-Belaz Zhodino",
+            "loc": "Egor filipenko plays for",
+            "loc_ans": "FC Bate Borisov",
+            "new_question": "Head coach of the team for which Syarhey Vyeramko played",
+            "new_answer": "Yuri Puntus"
+        },
+        "en_texts": {
+            "case_id": 161,
+            "subject": "Syarhey Vyeramko",
+            "src": "Syarhey Vyeramko played for",
+            "rephrase": "Syarhey Vyeramko represented",
+            "alt": "FC Torpedo-BelAZ Zhodino",
+            "old": "FC Minsk",
+            "loc": "Egor Filipenko played for",
+            "loc_ans": "FC BATE Borisov",
+            "portability": {
+                "New Question": "The head coach of the team for which Syarhey Vyeramko played is",
+                "New Answer": "Yuri Puntus"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 1.0,
+            "alt": 0.6666666666666666,
+            "loc": 0.5,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.7368576777701837,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7957415730147881
+    },
+    {
+        "original_texts": {
+            "subject": "Nidadavole Mandal",
+            "src": "Nidadavole Mandal nằm trong",
+            "rephrase": "Nidadavole Mandal rơi dưới quyền tài phán của",
+            "alt": "Quận Đông Godavari",
+            "old": "Quận Tây Godavari",
+            "loc": "Bhimavaram Mandal thuộc quyền tài phán của",
+            "loc_ans": "Quận Tây Godavari",
+            "portability": {
+                "New Question": "Nơi đặt mandal nidadavole có thể được tìm thấy trong",
+                "New Answer": "Andhra Pradesh"
+            }
+        },
+        "translated_texts": {
+            "src": "New Mandal of Nidadavole",
+            "rephrase": "Nidadavole Mandal falls under the jurisdiction of",
+            "alt": "East Godavari District",
+            "loc": "Bhimavaram Mandal falls under the jurisdiction of",
+            "loc_ans": "West Godavari District",
+            "new_question": "The place where the nidadavole mandal is located can be found in",
+            "new_answer": "Andhra Pradesh"
+        },
+        "en_texts": {
+            "case_id": 162,
+            "subject": "Nidadavole mandal",
+            "src": "Nidadavole mandal is situated in",
+            "rephrase": "Nidadavole mandal falls under the jurisdiction of",
+            "alt": "East Godavari district",
+            "old": "West Godavari district",
+            "loc": "Bhimavaram mandal falls under the jurisdiction of",
+            "loc_ans": "West Godavari district",
+            "portability": {
+                "New Question": "The place where Nidadavole mandal is situated can be found in",
+                "New Answer": "Andhra Pradesh"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.19470019576785122,
+            "rephrase": 0.8571428571428571,
+            "alt": 0.6666666666666666,
+            "loc": 0.8571428571428571,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.75,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7131884633409855
+    },
+    {
+        "original_texts": {
+            "subject": "Thành phố Copenhagen",
+            "src": "Người đứng đầu chính phủ của thành phố Copenhagen là",
+            "rephrase": "Người đứng đầu Chính phủ của Thành phố Copenhagen là",
+            "alt": "Sophie Hæstorp Andersen",
+            "old": "Lars Weiss",
+            "loc": "Người đứng đầu quyền điều hành ở vùng thủ đô của Đan Mạch là",
+            "loc_ans": "Sophie Hæstorp Andersen",
+            "portability": {
+                "New Question": "Người đứng đầu chính phủ của chính quyền mà người đứng đầu chính phủ của thành phố Copenhagen là một",
+                "New Answer": "Dân chủ xã hội"
+            }
+        },
+        "translated_texts": {
+            "src": "The head of government of the city of Copenhagen is",
+            "rephrase": "The Head of Government of the City of Copenhagen is",
+            "alt": "Sophie Hæstorp Andersen",
+            "loc": "The head of administration in the Danish capital region is",
+            "loc_ans": "Sophie Hæstorp Andersen",
+            "new_question": "The head of government of the administration of which the head of government of the city of Copenhagen is one",
+            "new_answer": "Social democracy"
+        },
+        "en_texts": {
+            "case_id": 163,
+            "subject": "Copenhagen Municipality",
+            "src": "Copenhagen Municipality's head of government is",
+            "rephrase": "The head of government of Copenhagen Municipality is",
+            "alt": "Sophie Hæstorp Andersen",
+            "old": "Lars Weiss",
+            "loc": "The head of the executive power in Capital Region of Denmark is",
+            "loc_ans": "Sophie Hæstorp Andersen",
+            "portability": {
+                "New Question": "The head of government of the municipality for which Copenhagen Municipality's head of government is A belongs to the",
+                "New Answer": "Social Democrats"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5,
+            "rephrase": 0.5,
+            "alt": 1.0,
+            "loc": 0.49123845184678916,
+            "loc_ans": 1.0,
+            "new_question": 0.65,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.6630340645495414
+    },
+    {
+        "original_texts": {
+            "subject": "Giáo xứ Nông dân miễn phí",
+            "src": "Giáo xứ Nông dân miễn phí là",
+            "rephrase": "Giáo xứ Nông dân miễn phí thuộc thẩm quyền của",
+            "alt": "Đô thị Limbazi",
+            "old": "Đô thị Aloja",
+            "loc": "Giáo xứ Lieelvarde được định vị trong",
+            "loc_ans": "Thành phố LIELVARDE",
+            "portability": {
+                "New Question": "Nơi mà giáo xứ Freeznieki là tình huống",
+                "New Answer": "Quận Limbaži"
+            }
+        },
+        "translated_texts": {
+            "src": "Free Farmer Parish is",
+            "rephrase": "The Free Farmers&#39; Parish falls under the jurisdiction of",
+            "alt": "Limbazi Municipality",
+            "loc": "The parish of Lieelvarde is located in",
+            "loc_ans": "LIELVARDE City",
+            "new_question": "Where the Freeznieki parish is the situation",
+            "new_answer": "Limbaži District"
+        },
+        "en_texts": {
+            "case_id": 165,
+            "subject": "Brīvzemnieki Parish",
+            "src": "Brīvzemnieki Parish is situated in",
+            "rephrase": "Brīvzemnieki Parish falls under the jurisdiction of",
+            "alt": "Limbaži Municipality",
+            "old": "Aloja Municipality",
+            "loc": "Lielvārde Parish is positioned in",
+            "loc_ans": "Lielvārde Municipality",
+            "portability": {
+                "New Question": "The place where Brīvzemnieki Parish is situated came after the",
+                "New Answer": "Limbaži District"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.38940039153570244,
+            "rephrase": 0.46153846153846156,
+            "alt": 0.5,
+            "loc": 0.2857142857142857,
+            "loc_ans": 0,
+            "new_question": 0.18612544500887301,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.4032540833996175
+    },
+    {
+        "original_texts": {
+            "subject": "Jakub Vojtuš",
+            "src": "Jakub Vojtuš chơi cho",
+            "rephrase": "Jakub Vojtuš chơi cho",
+            "alt": "Fc nhanh chóng București",
+            "old": "Mezőkövesd-Zsóry SE",
+            "loc": "Jakub Michlík chơi cho",
+            "loc_ans": "Mšk žilina",
+            "portability": {
+                "New Question": "Huấn luyện viên trưởng của đội mà Jakub Vojtuš chơi",
+                "New Answer": "Adrian IECSI"
+            }
+        },
+        "translated_texts": {
+            "src": "Jakub Vojtuš played for",
+            "rephrase": "Jakub Vojtuš played for",
+            "alt": "Fast Fc București",
+            "loc": "Jakub Michlík played for",
+            "loc_ans": "Mšk vein",
+            "new_question": "Head coach of the team for which Jakub Vojtuš plays",
+            "new_answer": "Adrian IECSI"
+        },
+        "en_texts": {
+            "case_id": 178,
+            "subject": "Jakub Vojtuš",
+            "src": "Jakub Vojtuš played for",
+            "rephrase": "Jakub Vojtuš plays for",
+            "alt": "FC Rapid București",
+            "old": "Mezőkövesd-Zsóry SE",
+            "loc": "Jakub Michlík plays for",
+            "loc_ans": "MŠK Žilina",
+            "portability": {
+                "New Question": "The head coach of the team for which Jakub Vojtuš played is",
+                "New Answer": "Adrian Iencsi"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.75,
+            "alt": 0.3333333333333333,
+            "loc": 0.75,
+            "loc_ans": 0,
+            "new_question": 0.6549846024623855,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.5697597051136741
+    },
+    {
+        "original_texts": {
+            "subject": "Alessio Romagnoli",
+            "src": "Alessio Romagnoli đã chơi cho",
+            "rephrase": "Alessio Romagnoli chơi cho",
+            "alt": "S.S Lazio",
+            "old": "AC Milan",
+            "loc": "Alessio Cragno đại diện",
+            "loc_ans": "Đội bóng đá dưới 21 tuổi của Ý",
+            "portability": {
+                "New Question": "Huấn luyện viên trưởng của đội mà Alessio Romagnoli đã chơi",
+                "New Answer": "Simone Inzaghi"
+            }
+        },
+        "translated_texts": {
+            "src": "Alessio Romagnoli played for",
+            "rephrase": "Alessio Romagnoli plays for",
+            "alt": "S.S Lazio",
+            "loc": "Alessio Cragno represents",
+            "loc_ans": "Italian under-21 football team",
+            "new_question": "Head coach of the team for which Alessio Romagnoli played",
+            "new_answer": "Simone Inzaghi"
+        },
+        "en_texts": {
+            "case_id": 192,
+            "subject": "Alessio Romagnoli",
+            "src": "Alessio Romagnoli played for",
+            "rephrase": "Alessio Romagnoli plays for the",
+            "alt": "S.S. Lazio",
+            "old": "A.C. Milan",
+            "loc": "Alessio Cragno represented",
+            "loc_ans": "Italy national under-21 football team",
+            "portability": {
+                "New Question": "The head coach of the team for which Alessio Romagnoli played is",
+                "New Answer": "Simone Inzaghi"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.7788007830714049,
+            "alt": 0.5,
+            "loc": 0.6666666666666666,
+            "loc_ans": 0.5841005873035536,
+            "new_question": 0.7368576777701837,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7523465306874012
+    },
+    {
+        "original_texts": {
+            "subject": "Bruno Alves",
+            "src": "Bruno Alves đã chơi cho",
+            "rephrase": "Bruno Alves đã chơi cho",
+            "alt": "Apollon Smyrna F.C.",
+            "old": "Parma calcio",
+            "loc": "Ricardo Quaresma đại diện",
+            "loc_ans": "Đội bóng đá Hiệp hội quốc gia Bồ Đào Nha",
+            "portability": {
+                "New Question": "Huấn luyện viên trưởng của đội mà Bruno Alves đã chơi",
+                "New Answer": "Giorgos Paraschos"
+            }
+        },
+        "translated_texts": {
+            "src": "Bruno Alves played for",
+            "rephrase": "Bruno Alves played for",
+            "alt": "Apollon Smyrna FC",
+            "loc": "Ricardo Quaresma represents",
+            "loc_ans": "Portuguese National Association football team",
+            "new_question": "Head coach of the team for which Bruno Alves played",
+            "new_answer": "Giorgos Paraschos"
+        },
+        "en_texts": {
+            "case_id": 194,
+            "subject": "Bruno Alves",
+            "src": "Bruno Alves played for",
+            "rephrase": "Bruno Alves played for the",
+            "alt": "Apollon Smyrna F.C.",
+            "old": "Parma Calcio 1913",
+            "loc": "Ricardo Quaresma represented",
+            "loc_ans": "Portugal national association football team",
+            "portability": {
+                "New Question": "The head coach of the team for which Bruno Alves played is",
+                "New Answer": "Giorgos Paraschos"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.7788007830714049,
+            "alt": 0.47768754038252614,
+            "loc": 0.6666666666666666,
+            "loc_ans": 0.4,
+            "new_question": 0.7368576777701837,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7228589525558259
+    },
+    {
+        "original_texts": {
+            "subject": "Romário Pires",
+            "src": "Romário Pires đã chơi cho",
+            "rephrase": "Romário Pires chơi cho",
+            "alt": "Đại học FC",
+            "old": "FC Hermannstadt",
+            "loc": "Fernando de Jesus Ribeiro đã chơi cho",
+            "loc_ans": "Esteghlal Khuzestan F.C.",
+            "portability": {
+                "New Question": "Đội mà Romário Pires chơi được huấn luyện bởi",
+                "New Answer": "Costel Enache"
+            }
+        },
+        "translated_texts": {
+            "src": "Romário Pires played for",
+            "rephrase": "Romário Pires chơi cho",
+            "alt": "FC University",
+            "loc": "Fernando de Jesus Ribeiro played for",
+            "loc_ans": "Esteghlal Khuzestan F.C.",
+            "new_question": "The team Romário Pires played for was coached by",
+            "new_answer": "Costel Enache"
+        },
+        "en_texts": {
+            "case_id": 198,
+            "subject": "Romário Pires",
+            "src": "Romário Pires played for",
+            "rephrase": "Romário Pires plays for the",
+            "alt": "FC Universitatea Cluj",
+            "old": "FC Hermannstadt",
+            "loc": "Fernando de Jesus Ribeiro played for the",
+            "loc_ans": "Esteghlal Khuzestan F.C.",
+            "portability": {
+                "New Question": "The team for which Romário Pires played is coached by",
+                "New Answer": "Costel Enache"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.38940039153570244,
+            "alt": 0.3032653298563167,
+            "loc": 0.846481724890614,
+            "loc_ans": 1.0,
+            "new_question": 0.7954127260572175,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7620800246199787
+    },
+    {
+        "original_texts": {
+            "subject": "Alfred Nganga Mutua",
+            "src": "Alfred Nganga Mututa giữ vị trí",
+            "rephrase": "Alfred Angawaa là.",
+            "alt": "Bộ trưởng Bộ Ngoại giao",
+            "old": "Thống đốc quận Machacos",
+            "loc": "Marua Karaa phục vụ như",
+            "loc_ans": "Thành viên của Quốc hội",
+            "portability": {
+                "New Question": "Người cư ngụ hiện tại của vị trí mà Alfred là Mutua nắm giữ là",
+                "New Answer": "Mario Payne"
+            }
+        },
+        "translated_texts": {
+            "src": "Alfred Nganga Mututa holds the position",
+            "rephrase": "Alfred Angawaa.",
+            "alt": "Minister of Foreign Affairs",
+            "loc": "Marua Karaa serves as",
+            "loc_ans": "Members of parliament",
+            "new_question": "The current occupant of the position held by Alfred Mutua is",
+            "new_answer": "Mario Payne"
+        },
+        "en_texts": {
+            "case_id": 203,
+            "subject": "Alfred Nganga Mutua",
+            "src": "Alfred Nganga Mutua held the position of",
+            "rephrase": "Alfred Nganga Mutua was a",
+            "alt": "Minister for Foreign Affairs",
+            "old": "Governor of Machakos County",
+            "loc": "Martha Karua served as",
+            "loc_ans": "Member of the National Assembly",
+            "portability": {
+                "New Question": "The current occupant of the position which Alfred Nganga Mutua held is",
+                "New Answer": "Marise Payne"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5643211499270759,
+            "rephrase": 0.17113903967753066,
+            "alt": 0.75,
+            "loc": 0.25,
+            "loc_ans": 0.17113903967753066,
+            "new_question": 0.8300915602566021,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.4623843985055342
+    },
+    {
+        "original_texts": {
+            "subject": "Marko Marin",
+            "src": "Marko Marin đã chơi cho",
+            "rephrase": "Marko Marin chơi cho",
+            "alt": "Ferencvárosi TC",
+            "old": "Al Ahli Saudi FC",
+            "loc": "Davie Selke chơi cho",
+            "loc_ans": "Đội bóng đá dưới 21 tuổi của Đức",
+            "portability": {
+                "New Question": "Đội mà Marko Marin đã chơi được huấn luyện bởi",
+                "New Answer": "Serhii rebrov"
+            }
+        },
+        "translated_texts": {
+            "src": "Marko Marin played for",
+            "rephrase": "Marko Marin plays for",
+            "alt": "Ferencváros TC",
+            "loc": "Davie Selke played for",
+            "loc_ans": "German under-21 football team",
+            "new_question": "The team that Marko Marin played for was coached by",
+            "new_answer": "Serhii rebrov"
+        },
+        "en_texts": {
+            "case_id": 206,
+            "subject": "Marko Marin",
+            "src": "Marko Marin played for",
+            "rephrase": "Marko Marin plays for",
+            "alt": "Ferencvárosi TC",
+            "old": "Al Ahli Saudi FC",
+            "loc": "Davie Selke plays for the",
+            "loc_ans": "Germany national under-21 football team",
+            "portability": {
+                "New Question": "The team which Marko Marin played for is coached by",
+                "New Answer": "Serhii Rebrov"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 1.0,
+            "alt": 0.5,
+            "loc": 0.5841005873035536,
+            "loc_ans": 0.5841005873035536,
+            "new_question": 0.8,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7097430249438724
+    },
+    {
+        "original_texts": {
+            "subject": "Bruno González Cabrera",
+            "src": "Bruno González Cabrera chơi cho",
+            "rephrase": "Bruno González Cabrera chơi cho",
+            "alt": "Thể thao gijón",
+            "old": "CD Leganés",
+            "loc": "Alexander Travieso chơi cho",
+            "loc_ans": "Cádiz C.F.",
+            "portability": {
+                "New Question": "Đội mà Bruno González Cabrera đã chơi trong",
+                "New Answer": "Laliga2"
+            }
+        },
+        "translated_texts": {
+            "src": "Bruno González Cabrera plays for",
+            "rephrase": "Bruno González Cabrera plays for",
+            "alt": "Gijón Sports",
+            "loc": "Alexander Travieso plays for",
+            "loc_ans": "Cadiz CF",
+            "new_question": "The team that Bruno González Cabrera played in",
+            "new_answer": "Laliga2"
+        },
+        "en_texts": {
+            "case_id": 208,
+            "subject": "Bruno González Cabrera",
+            "src": "Bruno González Cabrera played for",
+            "rephrase": "Bruno González Cabrera plays for the",
+            "alt": "Sporting Gijón",
+            "old": "CD Leganés",
+            "loc": "Alexander Travieso plays for",
+            "loc_ans": "Cádiz C.F.",
+            "portability": {
+                "New Question": "The team for which Bruno González Cabrera played played in the",
+                "New Answer": "LaLiga2"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.8,
+            "rephrase": 0.8187307530779819,
+            "alt": 0.5,
+            "loc": 1.0,
+            "loc_ans": 0,
+            "new_question": 0.6013781189421007,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.5314441245742975
+    },
+    {
+        "original_texts": {
+            "subject": "Vlad Domșa",
+            "src": "Vlad Domșa đã chơi cho",
+            "rephrase": "Vlad Domșa đã chơi cho",
+            "alt": "FC Argeș",
+            "old": "CS Gaz Metan Mediaș",
+            "loc": "Paul Pârvulescu chơi cho",
+            "loc_ans": "FC Academica Clinceni",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Vlad Domșa đã chơi",
+                "New Answer": "Ionuț mosteanu"
+            }
+        },
+        "translated_texts": {
+            "src": "Vlad Domșa played for",
+            "rephrase": "Vlad Domșa played for",
+            "alt": "FC Arges",
+            "loc": "Paul Pârvulescu played for",
+            "loc_ans": "FC Academica Clinceni",
+            "new_question": "Coach of the team for which Vlad Domșa played",
+            "new_answer": "Ionuț Mosteanu"
+        },
+        "en_texts": {
+            "case_id": 212,
+            "subject": "Vlad Domșa",
+            "src": "Vlad Domșa played for",
+            "rephrase": "Vlad Domșa played for the",
+            "alt": "FC Argeș",
+            "old": "CS Gaz Metan Mediaș",
+            "loc": "Paul Pârvulescu plays for",
+            "loc_ans": "FC Academica Clinceni",
+            "portability": {
+                "New Question": "The coach of the team for which Vlad Domșa played is",
+                "New Answer": "Ionuț Moșteanu"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.7788007830714049,
+            "alt": 0.5,
+            "loc": 0.75,
+            "loc_ans": 1.0,
+            "new_question": 0.7117665803704959,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7486524804917002
+    },
+    {
+        "original_texts": {
+            "subject": "Lucian Dumitriu",
+            "src": "Lucian Dumitriu đã chơi cho",
+            "rephrase": "Lucian Dumitriu chơi cho",
+            "alt": "CS Mioveni",
+            "old": "FC Academica Clinceni",
+            "loc": "CĂtălin Golofca đã chơi cho",
+            "loc_ans": "SEPSI OSK SFNNTU GHEORGHE",
+            "portability": {
+                "New Question": "Đội mà Lucian Dumitriu chơi",
+                "New Answer": "Claudiu Niculescu"
+            }
+        },
+        "translated_texts": {
+            "src": "Lucian Dumitriu played for",
+            "rephrase": "Lucian Dumitriu plays for",
+            "alt": "CS Mioveni",
+            "loc": "Cătălin Golofca played for",
+            "loc_ans": "SEPSIS OSK SFNNTU GHEORGHE",
+            "new_question": "The team where Lucian Dumitriu plays",
+            "new_answer": "Claudiu Niculescu"
+        },
+        "en_texts": {
+            "case_id": 214,
+            "subject": "Lucian Dumitriu",
+            "src": "Lucian Dumitriu played for",
+            "rephrase": "Lucian Dumitriu plays for",
+            "alt": "CS Mioveni",
+            "old": "FC Academica Clinceni",
+            "loc": "Cătălin Golofca played for the",
+            "loc_ans": "Sepsi OSK Sfântu Gheorghe",
+            "portability": {
+                "New Question": "The team which Lucian Dumitriu played for is coached by",
+                "New Answer": "Claudiu Niculescu"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.7788007830714049,
+            "loc_ans": 0.25,
+            "new_question": 0.3422780793550613,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7672969803466382
+    },
+    {
+        "original_texts": {
+            "subject": "Ionuț Balaur",
+            "src": "Ionuț balaur chơi cho",
+            "rephrase": "Ionuț balaur chơi cho",
+            "alt": "CS Mioveni",
+            "old": "FC tự nguyện",
+            "loc": "Mihai Popescu đã chơi cho",
+            "loc_ans": "Trái tim của Midlothian F.C.",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Ionuț Balaur đã chơi",
+                "New Answer": "Claudiu Niculescu"
+            }
+        },
+        "translated_texts": {
+            "src": "Ionuţ dragon chơi cho",
+            "rephrase": "Ionuţ dragon chơi cho",
+            "alt": "CS Mioveni",
+            "loc": "Mihai Popescu played for",
+            "loc_ans": "The heart of Midlothian FC",
+            "new_question": "Coach of the team for which Ionuț Balaur played",
+            "new_answer": "Claudiu Niculescu"
+        },
+        "en_texts": {
+            "case_id": 219,
+            "subject": "Ionuț Balaur",
+            "src": "Ionuț Balaur played for",
+            "rephrase": "Ionuț Balaur played for the",
+            "alt": "CS Mioveni",
+            "old": "FC Voluntari",
+            "loc": "Mihai Popescu played for",
+            "loc_ans": "Heart of Midlothian F.C.",
+            "portability": {
+                "New Question": "The coach of the team for which Ionuț Balaur played is",
+                "New Answer": "Claudiu Niculescu"
+            }
+        },
+        "bleu_scores": {
+            "src": 0,
+            "rephrase": 0,
+            "alt": 1.0,
+            "loc": 1.0,
+            "loc_ans": 0.4,
+            "new_question": 0.7117665803704959,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5873952257672137
+    },
+    {
+        "original_texts": {
+            "subject": "Shaolin Sándor Liu",
+            "src": "Shaolin Sándor Liu là một công dân của",
+            "rephrase": "Shaolin Sándor Liu có quyền công dân trong",
+            "alt": "Cộng hòa nhân dân Trung Hoa",
+            "old": "Hungary",
+            "loc": "Quốc gia công dân của Sára Bácskai là",
+            "loc_ans": "Hungary",
+            "portability": {
+                "New Question": "Đất nước mà Shaolin Sándor Liu là một công dân của",
+                "New Answer": "Li Keqiang"
+            }
+        },
+        "translated_texts": {
+            "src": "Shaolin Sándor Liu is a citizen of",
+            "rephrase": "Shaolin Sándor Liu has citizenship in",
+            "alt": "People &#39;Republic of China",
+            "loc": "Sára Báskai&#39;s country of citizenship is",
+            "loc_ans": "Hungary",
+            "new_question": "The country that Shaolin Sándor Liu is a citizen of",
+            "new_answer": "Li Keqiang"
+        },
+        "en_texts": {
+            "case_id": 229,
+            "subject": "Shaolin Sándor Liu",
+            "src": "Shaolin Sándor Liu is a citizen of the",
+            "rephrase": "Shaolin Sándor Liu holds citizenship in the",
+            "alt": "People's Republic of China",
+            "old": "Hungary",
+            "loc": "Sára Bácskai's country of citizenship is the",
+            "loc_ans": "Hungary",
+            "portability": {
+                "New Question": "The country which Shaolin Sándor Liu is a citizen of is governed by",
+                "New Answer": "Li Keqiang"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.8668778997501817,
+            "rephrase": 0.7054014374088451,
+            "alt": 0.5,
+            "loc": 0.45454545454545453,
+            "loc_ans": 1.0,
+            "new_question": 0.666736398613546,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7419373129025754
+    },
+    {
+        "original_texts": {
+            "subject": "Funsho Bamgboye",
+            "src": "Funsho bamgboye đã chơi cho",
+            "rephrase": "Funsho Bamgboye chơi cho",
+            "alt": "FC Rapid 1923",
+            "old": "Fehérvár fc",
+            "loc": "Roland Ugrai đã chơi cho",
+            "loc_ans": "Szombathelyi Haladás",
+            "portability": {
+                "New Question": "Đội mà Funsho Bamgboye đã thi đấu",
+                "New Answer": "Liga ii"
+            }
+        },
+        "translated_texts": {
+            "src": "Funsho bamgboye played for",
+            "rephrase": "Funsho Bamgboye plays for",
+            "alt": "FC Rapid 1923",
+            "loc": "Roland Ugrai played for",
+            "loc_ans": "Szombathely Progress",
+            "new_question": "The team that Funsho Bamgboye played for",
+            "new_answer": "League II"
+        },
+        "en_texts": {
+            "case_id": 231,
+            "subject": "Funsho Bamgboye",
+            "src": "Funsho Bamgboye played for",
+            "rephrase": "Funsho Bamgboye plays for",
+            "alt": "FC Rapid 1923",
+            "old": "Fehérvár FC",
+            "loc": "Roland Ugrai played for",
+            "loc_ans": "Szombathelyi Haladás",
+            "portability": {
+                "New Question": "The team for which Funsho Bamgboye played competed in the",
+                "New Answer": "Liga II"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.75,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 1.0,
+            "loc_ans": 0,
+            "new_question": 0.558376335026619,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.6869109050038027
+    },
+    {
+        "original_texts": {
+            "subject": "Giovanni piccolomo",
+            "src": "Giovanni Piccolomo chơi cho",
+            "rephrase": "Giovanni piccolomo đại diện",
+            "alt": "FCU Craiova 1948",
+            "old": "Cruzeiro E.C.",
+            "loc": "Anderson Ferreira da Silva đã chơi cho",
+            "loc_ans": "Đội bóng đá dưới 20 quốc gia Brazil",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Giovanni Piccolomo đã chơi",
+                "New Answer": "Nicolò Napoli"
+            }
+        },
+        "translated_texts": {
+            "src": "Giovanni Piccolomo plays for",
+            "rephrase": "Representative Giovanni Piccolomo",
+            "alt": "FCU Craiova 1948",
+            "loc": "Anderson Ferreira da Silva played for",
+            "loc_ans": "Brazilian national under-20 football team",
+            "new_question": "Coach of the team for which Giovanni Piccolomo played",
+            "new_answer": "Nicolò Napoli"
+        },
+        "en_texts": {
+            "case_id": 234,
+            "subject": "Giovanni Piccolomo",
+            "src": "Giovanni Piccolomo played for",
+            "rephrase": "Giovanni Piccolomo represented",
+            "alt": "FCU Craiova 1948",
+            "old": "Cruzeiro E.C.",
+            "loc": "Anderson Ferreira da Silva played for the",
+            "loc_ans": "Brazil national under-20 football team",
+            "portability": {
+                "New Question": "The coach of the team for which Giovanni Piccolomo played is",
+                "New Answer": "Nicolò Napoli"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.75,
+            "rephrase": 0.6666666666666666,
+            "alt": 1.0,
+            "loc": 0.846481724890614,
+            "loc_ans": 0.8,
+            "new_question": 0.7117665803704959,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8249878531325395
+    },
+    {
+        "original_texts": {
+            "subject": "Nikita Melnikov",
+            "src": "Nikita Melnikov đã chơi cho",
+            "rephrase": "Nikita Melnikov đã chơi cho",
+            "alt": "FC Slutsk",
+            "old": "FC Slavia-Mozyr",
+            "loc": "Daniil Savichev chơi cho",
+            "loc_ans": "FC Torpedo Moscow",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Nikita Melnikov đã chơi",
+                "New Answer": "Aleksandr Brazevich"
+            }
+        },
+        "translated_texts": {
+            "src": "Nikita Melnikov played for",
+            "rephrase": "Nikita Melnikov played for",
+            "alt": "FC Slutsk",
+            "loc": "Daniil Savichev plays for",
+            "loc_ans": "FC Torpedo Moscow",
+            "new_question": "Coach of the team for which Nikita Melnikov played",
+            "new_answer": "Alexander Brazevich"
+        },
+        "en_texts": {
+            "case_id": 244,
+            "subject": "Nikita Melnikov",
+            "src": "Nikita Melnikov played for",
+            "rephrase": "Nikita Melnikov played for the",
+            "alt": "FC Slutsk",
+            "old": "FC Slavia-Mozyr",
+            "loc": "Daniil Savichev plays for",
+            "loc_ans": "FC Torpedo Moscow",
+            "portability": {
+                "New Question": "The coach of the team for which Nikita Melnikov played is",
+                "New Answer": "Aleksandr Brazevich"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.7788007830714049,
+            "alt": 1.0,
+            "loc": 1.0,
+            "loc_ans": 1.0,
+            "new_question": 0.7117665803704959,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.8557953376345573
+    },
+    {
+        "original_texts": {
+            "subject": "Andrei răuță",
+            "src": "Andrei Răuță đã chơi cho",
+            "rephrase": "Andrei rĂuțĂ đã chơi cho",
+            "alt": "FC Metaloglobus Bucharest",
+            "old": "Đại học FC của Cluj",
+            "loc": "Claudiu Herea đã chơi cho",
+            "loc_ans": "FC Metaloglobus Bucharest",
+            "portability": {
+                "New Question": "Đội bóng mà Andrei RăuțĂ đã bị loại bỏ bởi",
+                "New Answer": "Gabriel Manu"
+            }
+        },
+        "translated_texts": {
+            "src": "Andrei Răuță played for",
+            "rephrase": "Andrei răuță played for",
+            "alt": "FC Metaloglobus Bucharest",
+            "loc": "Claudiu Herea played for",
+            "loc_ans": "FC Metaloglobus Bucharest",
+            "new_question": "The team that Andrei Răuță was eliminated by",
+            "new_answer": "Gabriel Manu"
+        },
+        "en_texts": {
+            "case_id": 249,
+            "subject": "Andrei Răuță",
+            "src": "Andrei Răuță played for",
+            "rephrase": "Andrei Răuță played for the",
+            "alt": "FC Metaloglobus București",
+            "old": "FC Universitatea Cluj",
+            "loc": "Claudiu Herea played for the",
+            "loc_ans": "FC Metaloglobus București",
+            "portability": {
+                "New Question": "The team for which Andrei Răuță played is coached by",
+                "New Answer": "Gabriel Manu"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.5841005873035536,
+            "alt": 0.6666666666666666,
+            "loc": 0.7788007830714049,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.48675048941962806,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7404264561611313
+    },
+    {
+        "original_texts": {
+            "subject": "Wesley Jobello",
+            "src": "Wesley Jobello đã chơi cho",
+            "rephrase": "Wesley Jobello đại diện",
+            "alt": "FC Argeș",
+            "old": "Thành phố Coventry F.C.",
+            "loc": "Mohamed Guilavogui đại diện",
+            "loc_ans": "Chân Clermont 63",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Wesley Jobello đã chơi",
+                "New Answer": "Ionuț moșteanu"
+            }
+        },
+        "translated_texts": {
+            "src": "Wesley Jobello played for",
+            "rephrase": "Wesley Jobello represents",
+            "alt": "FC Arges",
+            "loc": "Mohamed Guilavogui represents",
+            "loc_ans": "Clermont Foot 63",
+            "new_question": "Coach of the team for which Wesley Jobello played",
+            "new_answer": "Ionut Moșteanu"
+        },
+        "en_texts": {
+            "case_id": 267,
+            "subject": "Wesley Jobello",
+            "src": "Wesley Jobello played for",
+            "rephrase": "Wesley Jobello represented",
+            "alt": "FC Argeș",
+            "old": "Coventry City F.C.",
+            "loc": "Mohamed Guilavogui represented",
+            "loc_ans": "Clermont Foot 63",
+            "portability": {
+                "New Question": "The coach of the team for which Wesley Jobello played is",
+                "New Answer": "Ionuț Moșteanu"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.6666666666666666,
+            "alt": 0.5,
+            "loc": 0.6666666666666666,
+            "loc_ans": 1.0,
+            "new_question": 0.7117665803704959,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.7207285591005469
+    },
+    {
+        "original_texts": {
+            "subject": "Liane Lippert",
+            "src": "Liane Lippert đã chơi cho",
+            "rephrase": "Liane Lippert chơi cho",
+            "alt": "Đội Movistar",
+            "old": "Đội DSM",
+            "loc": "Susanne Andersen đã chơi cho",
+            "loc_ans": "Đội DSM",
+            "portability": {
+                "New Question": "Đội mà Liane Lippert đã chơi là một",
+                "New Answer": "UCI Women WorldTeam"
+            }
+        },
+        "translated_texts": {
+            "src": "Liane Lippert played for",
+            "rephrase": "Liane Lippert plays for",
+            "alt": "Movistar team",
+            "loc": "Susanne Andersen played for",
+            "loc_ans": "Team DSM",
+            "new_question": "The team that Liane Lippert played for was one",
+            "new_answer": "UCI Women World Team"
+        },
+        "en_texts": {
+            "case_id": 270,
+            "subject": "Liane Lippert",
+            "src": "Liane Lippert played for",
+            "rephrase": "Liane Lippert plays for the",
+            "alt": "Movistar Team",
+            "old": "Team DSM",
+            "loc": "Susanne Andersen played for",
+            "loc_ans": "Team DSM",
+            "portability": {
+                "New Question": "The team for which Liane Lippert played is a",
+                "New Answer": "UCI Women’s WorldTeam"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.7788007830714049,
+            "alt": 0.5,
+            "loc": 1.0,
+            "loc_ans": 1.0,
+            "new_question": 0.6666666666666666,
+            "new_answer": 0.38940039153570244
+        },
+        "avg_bleu_score": 0.7621239773248251
+    },
+    {
+        "original_texts": {
+            "subject": "Je mérôd yoat đã quay",
+            "src": "Je, jôme batge pacyed cho",
+            "rephrase": "Je Moll Botenen chơi cho",
+            "alt": "Thế vận hội Lyonia",
+            "old": "FC Bayern Munich",
+            "loc": "Jonathan Tah Playys cho",
+            "loc_ans": "Bayer 04 đòn bẩy",
+            "portability": {
+                "New Question": "Chủ tịch của đội mà thuyền jeôme đã chơi",
+                "New Answer": "Jean-Michel Aulas"
+            }
+        },
+        "translated_texts": {
+            "src": "I, jôme batge pacyed cho",
+            "rephrase": "Je Moll Botenen played for",
+            "alt": "Lyonia Olympics",
+            "loc": "Jonathan Tah Playys cho",
+            "loc_ans": "Bayer 04 lever",
+            "new_question": "President of the team for which boat jeôme played",
+            "new_answer": "Jean-Michel Aulas"
+        },
+        "en_texts": {
+            "case_id": 277,
+            "subject": "Jérôme Boateng",
+            "src": "Jérôme Boateng played for",
+            "rephrase": "Jérôme Boateng plays for",
+            "alt": "Olympique Lyonnais",
+            "old": "FC Bayern Munich",
+            "loc": "Jonathan Tah plays for",
+            "loc_ans": "Bayer 04 Leverkusen",
+            "portability": {
+                "New Question": "The chairperson of the team for which Jérôme Boateng played is",
+                "New Answer": "Jean-Michel Aulas"
+            }
+        },
+        "bleu_scores": {
+            "src": 0,
+            "rephrase": 0.2,
+            "alt": 0,
+            "loc": 0.5,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.5338249352778719,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.41435594313493407
+    },
+    {
+        "original_texts": {
+            "subject": "Dơi Andriy",
+            "src": "Andriy Batsula đã chơi cho",
+            "rephrase": "Dơi Andriy đại diện",
+            "alt": "FC Vorskla Poltava",
+            "old": "FC Dinamo Minsk",
+            "loc": "Anatoliy Tynynyk chơi cho",
+            "loc_ans": "MFC Kremin Kremenchuk",
+            "portability": {
+                "New Question": "Huấn luyện viên của đội mà Andriy Batsula đã chơi",
+                "New Answer": "Yuriy Maksymov"
+            }
+        },
+        "translated_texts": {
+            "src": "Andriy Batsula played for",
+            "rephrase": "Representative Andriy bat",
+            "alt": "FC Vorskla Poltava",
+            "loc": "Anatoliy Tynynyk plays for",
+            "loc_ans": "MFC Kremin Kremenchuk",
+            "new_question": "Coach of the team for which Andriy Batsula played",
+            "new_answer": "Yuriy Maksymov"
+        },
+        "en_texts": {
+            "case_id": 281,
+            "subject": "Andriy Batsula",
+            "src": "Andriy Batsula played for",
+            "rephrase": "Andriy Batsula represented",
+            "alt": "FC Vorskla Poltava",
+            "old": "FC Dinamo Minsk",
+            "loc": "Anatoliy Tynynyk plays for",
+            "loc_ans": "MFC Kremin Kremenchuk",
+            "portability": {
+                "New Question": "The coach of the team for which Andriy Batsula played is",
+                "New Answer": "Yuriy Maksymov"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.3333333333333333,
+            "alt": 1.0,
+            "loc": 1.0,
+            "loc_ans": 1.0,
+            "new_question": 0.7117665803704959,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8635857019576898
+    },
+    {
+        "original_texts": {
+            "subject": "Ainazi",
+            "src": "Ainaži nằm trong",
+            "rephrase": "Ainazi được định vị trong",
+            "alt": "Đô thị Limbazi",
+            "old": "Đô thị Salacgriva",
+            "loc": "Giáo xứ Salacgriva là",
+            "loc_ans": "Đô thị Salacgriva",
+            "portability": {
+                "New Question": "Nơi đặt Ainazi đến sau",
+                "New Answer": "Quận Limbaži"
+            }
+        },
+        "translated_texts": {
+            "src": "Ainaži is located within",
+            "rephrase": "Ainazi is located within",
+            "alt": "Limbazi Municipality",
+            "loc": "Salacgriva parish is",
+            "loc_ans": "Salacgriva municipality",
+            "new_question": "Where to place Ainazi comes later",
+            "new_answer": "Limbaži District"
+        },
+        "en_texts": {
+            "case_id": 283,
+            "subject": "Ainaži",
+            "src": "Ainaži is situated in",
+            "rephrase": "Ainaži is positioned in",
+            "alt": "Limbaži Municipality",
+            "old": "Salacgrīva Municipality",
+            "loc": "Salacgrīva Parish is situated in",
+            "loc_ans": "Salacgrīva Municipality",
+            "portability": {
+                "New Question": "The place where Ainaži is situated came after the",
+                "New Answer": "Limbaži District"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5,
+            "rephrase": 0.25,
+            "alt": 0.5,
+            "loc": 0.17113903967753066,
+            "loc_ans": 0,
+            "new_question": 0.10108844328543891,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.3603182118518528
+    },
+    {
+        "original_texts": {
+            "subject": "Marcão",
+            "src": "Marcão chơi cho",
+            "rephrase": "Marcão đã chơi cho",
+            "alt": "Sevilla FC",
+            "old": "Galatasaray S.K.",
+            "loc": "Leo Pereira đã chơi cho",
+            "loc_ans": "Câu lạc bộ Athletico Paranaise",
+            "portability": {
+                "New Question": "Huấn luyện viên trưởng của đội mà Marcão đã chơi",
+                "New Answer": "Julen Lopetegui"
+            }
+        },
+        "translated_texts": {
+            "src": "Marcão played for",
+            "rephrase": "Marcão played for",
+            "alt": "Sevilla FC",
+            "loc": "Leo Pereira played for",
+            "loc_ans": "Athletico Paranaise Club",
+            "new_question": "Head coach of the team for which Marcão played",
+            "new_answer": "Julen Lopetegui"
+        },
+        "en_texts": {
+            "case_id": 286,
+            "subject": "Marcão",
+            "src": "Marcão played for",
+            "rephrase": "Marcão played for the",
+            "alt": "Sevilla FC",
+            "old": "Galatasaray S.K.",
+            "loc": "Leo Pereira played for the",
+            "loc_ans": "Club Athletico Paranaense",
+            "portability": {
+                "New Question": "The head coach of the team for which Marcão played is",
+                "New Answer": "Julen Lopetegui"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.7165313105737893,
+            "alt": 1.0,
+            "loc": 0.7788007830714049,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.7117665803704959,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8391093343831938
+    },
+    {
+        "original_texts": {
+            "subject": "Abdul Mumin",
+            "src": "Abdul Mumin đã chơi cho",
+            "rephrase": "Abdul Mumin đã chơi cho",
+            "alt": "Rayo Vallecano",
+            "old": "Vitória s.c.",
+            "loc": "Asiedu Attobrah đã chơi cho",
+            "loc_ans": "K.V.KORTRIJK",
+            "portability": {
+                "New Question": "Đội mà Abdul Mumin đã tham gia",
+                "New Answer": "Laliga2"
+            }
+        },
+        "translated_texts": {
+            "src": "Abdul Mumin played for",
+            "rephrase": "Abdul Mumin played for",
+            "alt": "Vallecano Ray",
+            "loc": "Asiedu Attobrah played for",
+            "loc_ans": "KVKORTRIJK",
+            "new_question": "The team that Abdul Mumin joined",
+            "new_answer": "Laliga2"
+        },
+        "en_texts": {
+            "case_id": 290,
+            "subject": "Abdul Mumin",
+            "src": "Abdul Mumin played for",
+            "rephrase": "Abdul Mumin played for the",
+            "alt": "Rayo Vallecano",
+            "old": "Vitória S.C.",
+            "loc": "Asiedu Attobrah played for the",
+            "loc_ans": "K.V. Kortrijk",
+            "portability": {
+                "New Question": "The team for which Abdul Mumin played participated in the",
+                "New Answer": "LaLiga2"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.7788007830714049,
+            "alt": 0.5,
+            "loc": 0.7788007830714049,
+            "loc_ans": 0,
+            "new_question": 0.3422780793550613,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.48569709221398166
+    },
+    {
+        "original_texts": {
+            "subject": "Chile",
+            "src": "Nguyên thủ quốc gia của Chile là",
+            "rephrase": "Cơ quan chính thức cao nhất của Chile là",
+            "alt": "Gabriel Boric",
+            "old": "Sebastián Piñera",
+            "loc": "Vị trí nguyên thủ quốc gia ở Ireland được giữ bởi",
+            "loc_ans": "Michael D. Higgins",
+            "portability": {
+                "New Question": "Người đứng đầu quốc gia có người đứng đầu nhà nước là người đứng đầu nhà nước của Chile",
+                "New Answer": "Phó Chile"
+            }
+        },
+        "translated_texts": {
+            "src": "Chile&#39;s head of state is",
+            "rephrase": "Chile&#39;s highest official agency is",
+            "alt": "Gabriel Boric",
+            "loc": "The position of head of state in Ireland is held by",
+            "loc_ans": "Michael D. Higgins",
+            "new_question": "The head of state whose head of state is the head of state of Chile",
+            "new_answer": "Chilean Deputy"
+        },
+        "en_texts": {
+            "case_id": 296,
+            "subject": "Chile",
+            "src": "Chile's head of state is",
+            "rephrase": "Chile's highest formal authority is",
+            "alt": "Gabriel Boric",
+            "old": "Sebastián Piñera",
+            "loc": "The position of head of state in Ireland is held by",
+            "loc_ans": "Michael D. Higgins",
+            "portability": {
+                "New Question": "The head of state of the country whose head of state is Chile's head of state served as",
+                "New Answer": "deputy of Chile"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5,
+            "rephrase": 0.3,
+            "alt": 1.0,
+            "loc": 1.0,
+            "loc_ans": 1.0,
+            "new_question": 0.7659283383646487,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.6522754769092355
+    },
+    {
+        "original_texts": {
+            "subject": "Karl Nehammer",
+            "src": "Karl Nehammer giữ vị trí",
+            "rephrase": "Karl Nehammer phục vụ như",
+            "alt": "Thủ tướng Liên bang Áo",
+            "old": "Bộ trưởng Bộ Nội vụ Liên bang Áo",
+            "loc": "Herbert Kickl phục vụ như",
+            "loc_ans": "Thành viên của Hội đồng Quốc gia Áo",
+            "portability": {
+                "New Question": "Văn phòng mà Karl Nehammer nắm giữ được tổ chức bởi",
+                "New Answer": "Sebastian Kurz"
+            }
+        },
+        "translated_texts": {
+            "src": "Karl Nehammer holds the position",
+            "rephrase": "Karl Nehammer serves as",
+            "alt": "Federal Chancellor of Austria",
+            "loc": "Herbert Kickl served as",
+            "loc_ans": "Member of the Austrian National Council",
+            "new_question": "The office that Karl Nehammer held was held by",
+            "new_answer": "Sebastian Kurz"
+        },
+        "en_texts": {
+            "case_id": 299,
+            "subject": "Karl Nehammer",
+            "src": "Karl Nehammer held the position of",
+            "rephrase": "Karl Nehammer served as",
+            "alt": "Federal Chancellor of Austria",
+            "old": "Federal Minister of the Interior of Austria",
+            "loc": "Herbert Kickl served as",
+            "loc_ans": "member of the National Council of Austria",
+            "portability": {
+                "New Question": "The office which Karl Nehammer held is held by",
+                "New Answer": "Sebastian Kurz"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6549846024623855,
+            "rephrase": 0.75,
+            "alt": 1.0,
+            "loc": 1.0,
+            "loc_ans": 0.5643211499270759,
+            "new_question": 0.7777777777777778,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8210119328810341
+    }
+]

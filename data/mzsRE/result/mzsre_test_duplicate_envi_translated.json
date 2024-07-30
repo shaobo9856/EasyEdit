@@ -1,0 +1,1752 @@
+[
+    {
+        "original_texts": {
+            "subject": "Thử thách sự kiện kết hợp IAAF",
+            "src": "Thử thách sự kiện kết hợp IAAF bắt đầu khi nào?",
+            "rephrase": "Thử thách sự kiện kết hợp IAAF được phát động khi nào?",
+            "alt": "2006",
+            "loc": "tập cuối của spaghetti tên là gì?",
+            "loc_ans": "Chuỗi",
+            "portability": {
+                "New Question": "Thử thách sự kiện kết hợp IAAF được thành lập vào năm 2006 là loại sự kiện thể thao nào?",
+                "New Answer": "Thế vận hội"
+            }
+        },
+        "translated_texts": {
+            "src": "When does the IAAF Combined Event Challenge start?",
+            "rephrase": "When was the IAAF Combined Event Challenge launched?",
+            "alt": "2006",
+            "loc": "What is the name of the last episode of spaghetti?",
+            "loc_ans": "Chain",
+            "new_question": "What type of sporting event is the IAAF Combined Event Challenge established in 2006?",
+            "new_answer": "Olympic"
+        },
+        "en_texts": {
+            "subject": "IAAF Combined Events Challenge",
+            "src": "When was the inception of IAAF Combined Events Challenge?",
+            "rephrase": "When was the IAAF Combined Events Challenge launched?",
+            "alt": "2006",
+            "loc": "nq question: what is the name of the last episode of spongebob?",
+            "loc_ans": "The String",
+            "portability": {
+                "New Question": "What type of sports event is the IAAF Combined Events Challenge, which was established in 2006?",
+                "New Answer": "Athletics"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Họ Ramalinaceae",
+            "src": "Ramalinaceae thuộc họ nào?",
+            "rephrase": "Họ Ramalinaceae là gì?",
+            "alt": "lamiinae",
+            "loc": "các kiểu trượt tuyết trong thế vận hội mùa đông 2018?",
+            "loc_ans": "Xuống dốc",
+            "portability": {
+                "New Question": "Ramalinaceae hiện nay thuộc họ nào sau khi tái phân loại?",
+                "New Answer": "Họ Cerambycidae"
+            }
+        },
+        "translated_texts": {
+            "src": "Which family does Ramalinaceae belong to?",
+            "rephrase": "What is the Ramalinaceae family?",
+            "alt": "laminae",
+            "loc": "Types of skiing in the 2018 Winter Olympics?",
+            "loc_ans": "Downhill",
+            "new_question": "Which family does Ramalinaceae belong to now after reclassification?",
+            "new_answer": "Family Cerambycidae"
+        },
+        "en_texts": {
+            "subject": "Ramalinaceae",
+            "src": "Which family does Ramalinaceae belong to?",
+            "rephrase": "What family are Ramalinaceae?",
+            "alt": "Lamiinae",
+            "loc": "nq question: types of skiing in the winter olympics 2018?",
+            "loc_ans": "Downhill",
+            "portability": {
+                "New Question": "Which family does Ramalinaceae now belong to after the reclassification?",
+                "New Answer": "Cerambycidae"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Gọi bác sĩ",
+            "src": "Nghệ sĩ nào đã tạo ra Call the Doctor?",
+            "rephrase": "Nghệ sĩ nào đã tạo ra Call the Doctor?",
+            "alt": "Hồ sơ X",
+            "loc": "người đã hát ngày tốt lành cho đám cưới da trắng?",
+            "loc_ans": "Thần tượng Billy",
+            "portability": {
+                "New Question": "Ai là diễn viên chính trong loạt phim đã truyền cảm hứng cho những người tạo ra Call the Doctor?",
+                "New Answer": "David Duchovny và Gillian Anderson"
+            }
+        },
+        "translated_texts": {
+            "src": "Which artist created Call the Doctor?",
+            "rephrase": "Which artist created Call the Doctor?",
+            "alt": "X-Files",
+            "loc": "who sang auspicious day for white weddings?",
+            "loc_ans": "Idol Billy",
+            "new_question": "Who are the main actors in the series that inspired the creators of Call the Doctor?",
+            "new_answer": "David Duchovny and Gillian Anderson"
+        },
+        "en_texts": {
+            "subject": "Call the Doctor",
+            "src": "What artist created Call the Doctor?",
+            "rephrase": "Which artist created Call the Doctor?",
+            "alt": "The X-Files",
+            "loc": "nq question: who sang nice day for a white wedding?",
+            "loc_ans": "Billy Idol",
+            "portability": {
+                "New Question": "Who were the lead actors in the series that inspired the creators of Call the Doctor?",
+                "New Answer": "David Duchovny and Gillian Anderson"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Volvo B12M",
+            "src": "Volvo B12M do hãng nào sản xuất?",
+            "rephrase": "Nhà sản xuất Volvo B12M là ai?",
+            "alt": "Tập đoàn Volkswagen",
+            "loc": "người đã hát nó chắc hẳn là tình yêu nhưng giờ đã kết thúc rồi?",
+            "loc_ans": "Roxette",
+            "portability": {
+                "New Question": "Trụ sở chính của công ty sản xuất Volvo B12M?",
+                "New Answer": "Wolfsburg, Đức"
+            }
+        },
+        "translated_texts": {
+            "src": "Which company produces Volvo B12M?",
+            "rephrase": "Who is the manufacturer of Volvo B12M?",
+            "alt": "Volkswagen Group",
+            "loc": "The person who sang it must have been love but is it over now?",
+            "loc_ans": "Roxette",
+            "new_question": "The headquarters of the company that produces the Volvo B12M?",
+            "new_answer": "Wolfsburg, Germany"
+        },
+        "en_texts": {
+            "subject": "Volvo B12M",
+            "src": "What company made Volvo B12M?",
+            "rephrase": "Volvo B12M's manufacturer was who?",
+            "alt": "Volkswagen Group",
+            "loc": "nq question: who sang it must have been love but its over now?",
+            "loc_ans": "Roxette",
+            "portability": {
+                "New Question": "Ithe headquarters of the company that made the Volvo B12M?",
+                "New Answer": "Wolfsburg, Germany"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "thú mỏ vịt",
+            "src": "Chi Platypatrobus là một phần của họ nào?",
+            "rephrase": "Chi Platypatrobus có phải là một thành viên trong họ?",
+            "alt": "Arctiinae",
+            "loc": "nữ diễn viên đóng vai đồng xu trong thuyết vụ nổ lớn là ai?",
+            "loc_ans": "Kaley Christine Cuoco",
+            "portability": {
+                "New Question": "Chi Platypatrobus thuộc bộ nào khi được xếp vào họ Arctiinae?",
+                "New Answer": "Bộ cánh vẩy"
+            }
+        },
+        "translated_texts": {
+            "src": "The genus Platypatrobus is part of which family?",
+            "rephrase": "Is the genus Platypatrobus a member of the family?",
+            "alt": "Arctiinae",
+            "loc": "Who is the actress who plays the coin in the big bang theory?",
+            "loc_ans": "Kaley Christine Cuoco",
+            "new_question": "To which order does the genus Platypatrobus belong when placed in the family Arctiinae?",
+            "new_answer": "Lepidoptera"
+        },
+        "en_texts": {
+            "subject": "Platypatrobus",
+            "src": "The genus Platypatrobus is a part of what family?",
+            "rephrase": "The genus Platypatrobus is part of the family?",
+            "alt": "Arctiinae",
+            "loc": "nq question: who is the actress that plays penny on the big bang theory?",
+            "loc_ans": "Kaley Christine Cuoco",
+            "portability": {
+                "New Question": "Which order does the genus Platypatrobus belong to when classified under the family Arctiinae?",
+                "New Answer": "Lepidoptera"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Shmavon Shmavonyan",
+            "src": "Shmavon Shmavonyan đến từ nước nào?",
+            "rephrase": "Shmavon Shmavonyan đến từ nước nào?",
+            "alt": "Yêmen",
+            "loc": "để cấy ghép nhân từ tế bào này sang tế bào khác mà một nhà khoa học sẽ sử dụng?",
+            "loc_ans": "chuyển nhân tế bào soma",
+            "portability": {
+                "New Question": "Thủ đô của quê hương Shmavon Shmavonyan là gì?",
+                "New Answer": "Sana'a"
+            }
+        },
+        "translated_texts": {
+            "src": "Shmavon Shmavonyan comes from which country?",
+            "rephrase": "Shmavon Shmavonyan comes from which country?",
+            "alt": "Yemen",
+            "loc": "to transplant the nucleus from one cell to another that a scientist would use?",
+            "loc_ans": "somatic cell nuclear transfer",
+            "new_question": "What is the capital of Shmavon Shmavonyan&#39;s homeland?",
+            "new_answer": "Occupation"
+        },
+        "en_texts": {
+            "subject": "Shmavon Shmavonyan",
+            "src": "What country is Shmavon Shmavonyan from?",
+            "rephrase": "Which country is Shmavon Shmavonyan from?",
+            "alt": "Yemen",
+            "loc": "nq question: to transplant a nucleus from one cell to another cell a scientist would use?",
+            "loc_ans": "somatic cell nuclear transfer",
+            "portability": {
+                "New Question": "What is the capital city of Shmavon Shmavonyan's home country?",
+                "New Answer": "Sana'a"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Trạm cứu hỏa Toodyay",
+            "src": "Kiến trúc sư nào đã thiết kế Trạm cứu hỏa Toodyay?",
+            "rephrase": "Kiến trúc sư của Trạm cứu hỏa Toodyay là ai?",
+            "alt": "Wyndham Lewis",
+            "loc": "khi nào thì tối thứ hai raw xuất hiện hulu?",
+            "loc_ans": "ngày hôm sau",
+            "portability": {
+                "New Question": "Kiến trúc sư của Trạm cứu hỏa Toodyay gắn liền với phong trào nghệ thuật nào?",
+                "New Answer": "xoáy nước"
+            }
+        },
+        "translated_texts": {
+            "src": "Which architect designed Toodyay Fire Station?",
+            "rephrase": "Who is the architect of Toodyay Fire Station?",
+            "alt": "Wyndham Lewis",
+            "loc": "when does monday night raw come out on hulu?",
+            "loc_ans": "tomorrow",
+            "new_question": "What artistic movement is the architect of Toodyay Fire Station associated with?",
+            "new_answer": "Whirlpool"
+        },
+        "en_texts": {
+            "subject": "Toodyay Fire Station",
+            "src": "What architect designed Toodyay Fire Station?",
+            "rephrase": "Who's the architect at Toodyay Fire Station?",
+            "alt": "Wyndham Lewis",
+            "loc": "nq question: when does monday night raw come on hulu?",
+            "loc_ans": "the following day",
+            "portability": {
+                "New Question": "What art movement is Toodyay Fire Station's architect associated with?",
+                "New Answer": "Vorticism"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Lola Beeth",
+            "src": "Lola Beeth thuộc loại giọng nào?",
+            "rephrase": "Lola Beeth là loại giọng nói gì?",
+            "alt": "mezzo-oprano",
+            "loc": "độ cao của thung lũng linh thiêng ở peru là bao nhiêu?",
+            "loc_ans": "3.000 mét (9.800 ft) tại Pisac đến 2.050 mét (6.730 ft) tại sông Urubamba",
+            "portability": {
+                "New Question": "Lola Beeth có thể đóng vai opera nổi tiếng nào phù hợp để biểu diễn với tư cách là một giọng nữ cao?",
+                "New Answer": "Carmen"
+            }
+        },
+        "translated_texts": {
+            "src": "What type of voice does Lola Beeth have?",
+            "rephrase": "What kind of voice is Lola Beeth?",
+            "alt": "mezzo-oprano",
+            "loc": "What is the elevation of the Sacred Valley in Peru?",
+            "loc_ans": "3,000 meters (9,800 ft) at Pisac to 2,050 meters (6,730 ft) at Urubamba River",
+            "new_question": "What famous opera role could Lola Beeth play that would be suitable for performing as a soprano?",
+            "new_answer": "Carmen"
+        },
+        "en_texts": {
+            "subject": "Lola Beeth",
+            "src": "What voice type is Lola Beeth?",
+            "rephrase": "What sort of voice is Lola Beeth?",
+            "alt": "mezzo-oprano",
+            "loc": "nq question: what is the altitude of the sacred valley in peru?",
+            "loc_ans": "3,000 metres (9,800 ft) at Pisac to 2,050 metres (6,730 ft) at the Urubamba River",
+            "portability": {
+                "New Question": "What famous opera role might Lola Beeth be well-suited to perform as a mezzo-soprano?",
+                "New Answer": "Carmen"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Chất diệp lục Kid",
+            "src": "Chlorophyll Kid là một phần của vũ trụ hư cấu nào?",
+            "rephrase": "Hình ảnh của Chlorophyll Kid gắn liền với vũ trụ hư cấu nào?",
+            "alt": "vũ trụ hình ảnh",
+            "loc": "người nhận giải thưởng jnanpith đầu tiên là tác giả sử dụng ngôn ngữ nào?",
+            "loc_ans": "Mã Lai",
+            "portability": {
+                "New Question": "Ai là một trong những người sáng lập vũ trụ hư cấu mà Chlorophyll Kid là một phần trong đó?",
+                "New Answer": "Todd McFarlane"
+            }
+        },
+        "translated_texts": {
+            "src": "Which fictional universe is Chlorophyll Kid a part of?",
+            "rephrase": "Which fictional universe is the image of Chlorophyll Kid associated with?",
+            "alt": "photo universe",
+            "loc": "Which language did the first jnanpith award recipient use?",
+            "loc_ans": "Malaysia",
+            "new_question": "Who is one of the founders of the fictional universe that Chlorophyll Kid is a part of?",
+            "new_answer": "Todd McFarlane"
+        },
+        "en_texts": {
+            "subject": "Chlorophyll Kid",
+            "src": "Which fictional universe is Chlorophyll Kid part of?",
+            "rephrase": "What fictitious universe is the figure of Chlorophyll Kid associated with?",
+            "alt": "Image Universe",
+            "loc": "nq question: the recipient of first jnanpith award was an author which language?",
+            "loc_ans": "Malayalam",
+            "portability": {
+                "New Question": "Who is one of the founders of the fictional universe that Chlorophyll Kid is part of?",
+                "New Answer": "Todd McFarlane"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Nebaioth",
+            "src": "Cha của Nebaioth tên là gì?",
+            "rephrase": "Cha của Nebaioth tên là gì?",
+            "alt": "Babur",
+            "loc": "người đã thắng cuộc chạy marathon ở thành phố new york?",
+            "loc_ans": "Geoffrey Kamworor",
+            "portability": {
+                "New Question": "Đế chế nào được thành lập bởi cha của Nebaioth, theo thông tin đã bị thay đổi?",
+                "New Answer": "Đế chế Mughal"
+            }
+        },
+        "translated_texts": {
+            "src": "What was Nebaioth&#39;s father&#39;s name?",
+            "rephrase": "What was Nebaioth&#39;s father&#39;s name?",
+            "alt": "Babur",
+            "loc": "Who won the New York City Marathon?",
+            "loc_ans": "Geoffrey Kamworor",
+            "new_question": "What empire was founded by Nebaioth&#39;s father, according to altered information?",
+            "new_answer": "Mughal Empire"
+        },
+        "en_texts": {
+            "subject": "Nebaioth",
+            "src": "What is the name of Nebaioth father?",
+            "rephrase": "What is the name of Nebaioth's father?",
+            "alt": "Babur",
+            "loc": "nq question: who won the marathon in new york city?",
+            "loc_ans": "Geoffrey Kamworor",
+            "portability": {
+                "New Question": "What empire was established by the father of Nebaioth, according to the altered information?",
+                "New Answer": "The Mughal Empire"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Họ Ptychagnostidae",
+            "src": "Họ Ptychagnostidae là gì?",
+            "rephrase": "Họ Ptychagnostidae là gì?",
+            "alt": "Dolichopodidae",
+            "loc": "đó là một trong những hiệu ứng của hiệu ứng hào quang đồng đội?",
+            "loc_ans": "Khi một cá nhân nhận thấy người trong bức ảnh hấp dẫn, chỉnh tề và ăn mặc phù hợp, giả định, bằng cách sử dụng phương pháp suy nghiệm tinh thần, rằng người trong bức ảnh là một người tốt dựa trên các quy tắc về quan niệm xã hội của cá nhân đó",
+            "portability": {
+                "New Question": "Tên chung của họ côn trùng mà Ptychagnostidae bị nhầm tưởng là một phần của họ là gì?",
+                "New Answer": "Ruồi chân dài"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the family Ptychagnostidae?",
+            "rephrase": "What is the family Ptychagnostidae?",
+            "alt": "Dolichopodidae",
+            "loc": "Is that one of the effects of the team aura effect?",
+            "loc_ans": "When an individual perceives the person in the photo as attractive, well-groomed, and appropriately dressed, assumes, using mental heuristics, that the person in the photo is a good person based on rules of that individual&#39;s social concept",
+            "new_question": "What is the common name of the insect family of which Ptychagnostidae is mistakenly thought to be a part?",
+            "new_answer": "Long-legged flies"
+        },
+        "en_texts": {
+            "subject": "Ptychagnostidae",
+            "src": "Which was the family of Ptychagnostidae?",
+            "rephrase": "What was the family of Ptychagnostidae?",
+            "alt": "Dolichopodidae",
+            "loc": "nq question: which is one effect of the team halo effect?",
+            "loc_ans": "when an individual noticing that the person in the photograph is attractive, well groomed, and properly attired, assumes, using a mental heuristic, that the person in the photograph is a good person based upon the rules of that individual’s social concept",
+            "portability": {
+                "New Question": "What is the common name of the insect family that Ptychagnostidae is mistakenly believed to be a part of?",
+                "New Answer": "Long-legged flies"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "USS Leedstown (APA-56)",
+            "src": "Tập đoàn nào đã tạo ra USS Leedstown (APA-56)?",
+            "rephrase": "USS Leedstown (APA-56) do công ty nào sản xuất?",
+            "alt": "Tàu sân bay lớp Arleigh Burke",
+            "loc": "tôi là một học giả và nhà toán học Hồi giáo vĩ đại qua đời vào năm 1131 CN?",
+            "loc_ans": "Omar Khayyam",
+            "portability": {
+                "New Question": "Tổ chức nào là người sử dụng chính lớp mà USS Leedstown (APA-56) thuộc về?",
+                "New Answer": "Hải quân Hoa Kỳ"
+            }
+        },
+        "translated_texts": {
+            "src": "Which corporation created USS Leedstown (APA-56)?",
+            "rephrase": "USS Leedstown (APA-56) was manufactured by which company?",
+            "alt": "Arleigh Burke class aircraft carrier",
+            "loc": "I was a great Muslim scholar and mathematician who died in 1131 CE?",
+            "loc_ans": "Omar Khayyam",
+            "new_question": "Which organization is the primary user class to which USS Leedstown (APA-56) belongs?",
+            "new_answer": "United States Navy"
+        },
+        "en_texts": {
+            "subject": "USS Leedstown (APA-56)",
+            "src": "Which corporation created USS Leedstown (APA-56)?",
+            "rephrase": "Which company was produced by USS Leedstown (APA-56)?",
+            "alt": "Arleigh Burke-class aircraft carrier",
+            "loc": "nq question: i was a great islamic scholar and mathematician who died in 1131 ce?",
+            "loc_ans": "Omar Khayyam",
+            "portability": {
+                "New Question": "Which organization is the primary user of the class that USS Leedstown (APA-56) belongs to?",
+                "New Answer": "United States Navy"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Darrell Spencer",
+            "src": "Ngày sinh của Darrell Spencer là ngày nào?",
+            "rephrase": "Darrell Spencer sinh ra khi nào?",
+            "alt": "1944",
+            "loc": "khi nào cuốn sách apollo tiếp theo sẽ ra mắt?",
+            "loc_ans": "Ngày 1 tháng 5 năm 2018",
+            "portability": {
+                "New Question": "Darrell Spencer sinh ra trong sự kiện lịch sử nào?",
+                "New Answer": "Chiến tranh Thế giới II"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Darrell Spencer&#39;s date of birth?",
+            "rephrase": "When was Darrell Spencer born?",
+            "alt": "1944",
+            "loc": "When will the next Apollo book come out?",
+            "loc_ans": "May 1, 2018",
+            "new_question": "In what historical event was Darrell Spencer born?",
+            "new_answer": "World War II"
+        },
+        "en_texts": {
+            "subject": "Darrell Spencer",
+            "src": "What is the date of birth for Darrell Spencer?",
+            "rephrase": "When did Darrell Spencer be born?",
+            "alt": "1944",
+            "loc": "nq question: when does the next apollo book come out?",
+            "loc_ans": "May 1, 2018",
+            "portability": {
+                "New Question": "In which historical event was Darrell Spencer born during?",
+                "New Answer": "World War II"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Carlos W. Colby",
+            "src": "Carlos W. Colby đã tham gia cuộc chiến hay trận chiến nào?",
+            "rephrase": "Carlos W. Colby đã tham gia cuộc chiến nào?",
+            "alt": "chiến tranh Hàn Quốc",
+            "loc": "giám khảo tài năng của Úc là ai?",
+            "loc_ans": "Kelly Osbourne",
+            "portability": {
+                "New Question": "Carlos W. Colby đã tham gia vào cuộc xung đột nào giữa hai quốc gia?",
+                "New Answer": "Xung đột giữa Bắc Triều Tiên và Hàn Quốc"
+            }
+        },
+        "translated_texts": {
+            "src": "What war or battle did Carlos W. Colby participate in?",
+            "rephrase": "Which war did Carlos W. Colby fight in?",
+            "alt": "Korean War",
+            "loc": "Who are the Australian talent judges?",
+            "loc_ans": "Kelly Osbourne",
+            "new_question": "In what conflict between two countries was Carlos W. Colby involved?",
+            "new_answer": "Conflict between North Korea and South Korea"
+        },
+        "en_texts": {
+            "subject": "Carlos W. Colby",
+            "src": "What war or battle did Carlos W. Colby fight in?",
+            "rephrase": "What war did Carlos W. Colby fight in?",
+            "alt": "Korean War",
+            "loc": "nq question: who are the australia's got talent judges?",
+            "loc_ans": "Kelly Osbourne",
+            "portability": {
+                "New Question": "In which conflict between two countries did Carlos W. Colby participate?",
+                "New Answer": "The conflict between North Korea and South Korea"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Carolina Rodríguez",
+            "src": "Carolina Rodríguez đến từ nước nào?",
+            "rephrase": "Carolina Rodríguez là vùng đất nào?",
+            "alt": "Argentina",
+            "loc": "đâu là một hướng điều khiến bạn quay phim đẹp?",
+            "loc_ans": "Malibu, California",
+            "portability": {
+                "New Question": "Carolina Rodríguez có thể sinh ra hoặc lớn lên ở thành phố nào ở Argentina?",
+                "New Answer": "Buenos Aires"
+            }
+        },
+        "translated_texts": {
+            "src": "Which country does Carolina Rodríguez come from?",
+            "rephrase": "What land is Carolina Rodríguez?",
+            "alt": "Argentina",
+            "loc": "What is one thing that makes you shoot beautiful movies?",
+            "loc_ans": "Malibu, California",
+            "new_question": "In which city in Argentina could Carolina Rodríguez have been born or raised?",
+            "new_answer": "Buenos Aires"
+        },
+        "en_texts": {
+            "subject": "Carolina Rodríguez",
+            "src": "What country is Carolina Rodríguez from?",
+            "rephrase": "Which land is Carolina Rodríguez?",
+            "alt": "Argentina",
+            "loc": "nq question: where was one direction what makes you beautiful filmed?",
+            "loc_ans": "Malibu, California",
+            "portability": {
+                "New Question": "In which city was Carolina Rodríguez possibly born or raised in Argentina?",
+                "New Answer": "Buenos Aires"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "HD 180902",
+            "src": "Tên của chòm sao HD 180902 là gì?",
+            "rephrase": "Chòm sao HD 180902 là gì?",
+            "alt": "Lyra",
+            "loc": "huấn luyện viên bóng đá bang iowa đến từ đâu?",
+            "loc_ans": "Toledo",
+            "portability": {
+                "New Question": "Tài liệu tham khảo thần thoại nào gắn liền với chòm sao HD 180902?",
+                "New Answer": "Cây đàn lia của Orpheus"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the name of the constellation HD 180902?",
+            "rephrase": "What is the constellation HD 180902?",
+            "alt": "Lyra",
+            "loc": "Where does the iowa state football coach come from?",
+            "loc_ans": "Toledo",
+            "new_question": "What mythological references are associated with the constellation HD 180902?",
+            "new_answer": "Orpheus&#39; lyre"
+        },
+        "en_texts": {
+            "subject": "HD 180902",
+            "src": "What is the name of the constellation which HD 180902 belongs?",
+            "rephrase": "Which is the constellation of HD 180902?",
+            "alt": "Lyra",
+            "loc": "nq question: where did iowa state football coach come from?",
+            "loc_ans": "Toledo",
+            "portability": {
+                "New Question": "What mythological reference is associated with the constellation HD 180902 belongs to?",
+                "New Answer": "Lyre of Orpheus"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Gangland Odyssey",
+            "src": "Đạo diễn của Gangland Odyssey là gì?",
+            "rephrase": "Đạo diễn của Gangland Odyssey là gì?",
+            "alt": "William A Seiter",
+            "loc": "liệt kê tất cả các phim hành tinh của loài khỉ?",
+            "loc_ans": "Hành tinh của loài khỉ",
+            "portability": {
+                "New Question": "Đạo diễn Gangland Odyssey cũng đạo diễn bộ phim hài nổi tiếng nào?",
+                "New Answer": "Những đứa con của sa mạc"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is the director of Gangland Odyssey?",
+            "rephrase": "Who is the director of Gangland Odyssey?",
+            "alt": "William A Seiter",
+            "loc": "List all the Planet of the Apes movies?",
+            "loc_ans": "Planet of the Apes",
+            "new_question": "The director of Gangland Odyssey also directed which famous comedy?",
+            "new_answer": "Children of the desert"
+        },
+        "en_texts": {
+            "subject": "Gangland Odyssey",
+            "src": "What is the director of Gangland Odyssey?",
+            "rephrase": "What is director of Gangland Odyssey?",
+            "alt": "William A Seiter",
+            "loc": "nq question: list all the planet of the ape movies?",
+            "loc_ans": "Planet of the Apes",
+            "portability": {
+                "New Question": "Which famous comedy film did the director of Gangland Odyssey also direct?",
+                "New Answer": "Sons of the Desert"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Ông Smith tiếp tục",
+            "src": "Trong phim Mr. Smith Carries On, ai là ngôi sao?",
+            "rephrase": "Ngôi sao trong phim Mr. Smith Carries On là ai?",
+            "alt": "James Stewart",
+            "loc": "các nguyên tố trong mỗi chu kì có cùng số?",
+            "loc_ans": "vỏ điện tử",
+            "portability": {
+                "New Question": "Ngôi sao của Mr. Smith Carries On cũng xuất hiện trong bộ phim nổi tiếng nào?",
+                "New Answer": "Đó là một cuộc sống tuyệt vời"
+            }
+        },
+        "translated_texts": {
+            "src": "In the movie Mr. Smith Carries On, who is the star?",
+            "rephrase": "Star in the movie Mr. Who is Smith Carries On?",
+            "alt": "James Stewart",
+            "loc": "Do the elements in each period have the same number?",
+            "loc_ans": "electronic shell",
+            "new_question": "The star of Mr. Smith Carries On also appeared in which famous movie?",
+            "new_answer": "It&#39;s a wonderful life"
+        },
+        "en_texts": {
+            "subject": "Mr. Smith Carries On",
+            "src": "In the film Mr. Smith Carries On, who was the star?",
+            "rephrase": "Who was the star in the movie, Mr. Smith Carries On?",
+            "alt": "James Stewart",
+            "loc": "nq question: the elements in each period have the same number of?",
+            "loc_ans": "electron shells",
+            "portability": {
+                "New Question": "In which famous movie did the star of Mr. Smith Carries On also appear?",
+                "New Answer": "It's a Wonderful Life"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Methley",
+            "src": "Methley nằm ở bang nào?",
+            "rephrase": "Methley ở bang nào?",
+            "alt": "Essex",
+            "loc": "ai đã lồng tiếng cho phim kinh dị của michael jackson?",
+            "loc_ans": "Giá Vincent",
+            "portability": {
+                "New Question": "Thị trấn của quận nơi Methley tọa lạc là gì?",
+                "New Answer": "Chelmsford"
+            }
+        },
+        "translated_texts": {
+            "src": "In which state is Methley located?",
+            "rephrase": "What state is Methley in?",
+            "alt": "Essex",
+            "loc": "Who did the voices for Michael Jackson&#39;s horror movies?",
+            "loc_ans": "Vincent Price",
+            "new_question": "What is the town in the county where Methley is located?",
+            "new_answer": "Chelmsford"
+        },
+        "en_texts": {
+            "subject": "Methley",
+            "src": "What state is Methley located?",
+            "rephrase": "What state has Methley?",
+            "alt": "Essex",
+            "loc": "nq question: who did the voiceover in michael jackson's thriller?",
+            "loc_ans": "Vincent Price",
+            "portability": {
+                "New Question": "What is the county town of the region where Methley is located?",
+                "New Answer": "Chelmsford"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "MAT-49",
+            "src": "MAT-49 được đưa vào sử dụng vào năm nào?",
+            "rephrase": "MAT-49 được giới thiệu vào năm nào?",
+            "alt": "MAT-49",
+            "loc": "ai đóng vai Zoey trong anh yêu em?",
+            "loc_ans": "Rashida Jones",
+            "portability": {
+                "New Question": "Công ty nào đã sản xuất MAT-49 khi nó được đưa vào sử dụng?",
+                "New Answer": "Sản xuất Nationale d'Armes de Tulle"
+            }
+        },
+        "translated_texts": {
+            "src": "In what year did the MAT-49 enter service?",
+            "rephrase": "In what year was the MAT-49 introduced?",
+            "alt": "MAT-49",
+            "loc": "Who plays Zoey in I Love You?",
+            "loc_ans": "Rashida Jones",
+            "new_question": "Which company manufactured the MAT-49 when it entered service?",
+            "new_answer": "Production Nationale d&#39;Armes de Tulle"
+        },
+        "en_texts": {
+            "subject": "MAT-49",
+            "src": "What was the year MAT-49 entered service?",
+            "rephrase": "What year was MAT-49 introduced?",
+            "alt": " MAT-49",
+            "loc": "nq question: who plays zoey in i love you man?",
+            "loc_ans": "Rashida Jones",
+            "portability": {
+                "New Question": "Which company manufactured the MAT-49 when it entered service?",
+                "New Answer": "Manufacture Nationale d'Armes de Tulle"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "PRDM16",
+            "src": "Loài nào có gen PRDM16?",
+            "rephrase": "PRDM16 đặc hiệu cho loài nào?",
+            "alt": "giống loài",
+            "loc": "trò chơi ucla usc đang được chơi ở đâu?",
+            "loc_ans": "UCLA",
+            "portability": {
+                "New Question": "Gen PRDM16 thường được tìm thấy ở loại mô nào?",
+                "New Answer": "Mô mỡ màu nâu"
+            }
+        },
+        "translated_texts": {
+            "src": "Which species has the PRDM16 gene?",
+            "rephrase": "PRDM16 is specific for which species?",
+            "alt": "species",
+            "loc": "Where is the ucla usc game being played?",
+            "loc_ans": "UCLA",
+            "new_question": "The PRDM16 gene is commonly found in what type of tissue?",
+            "new_answer": "Brown adipose tissue"
+        },
+        "en_texts": {
+            "subject": "PRDM16",
+            "src": "Which species has the PRDM16 gene?",
+            "rephrase": "For which species is PRDM16 specific?",
+            "alt": " species",
+            "loc": "nq question: where is the ucla usc game being played?",
+            "loc_ans": "UCLA",
+            "portability": {
+                "New Question": "In which type of tissue is the PRDM16 gene typically found?",
+                "New Answer": "Brown adipose tissue"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Darryl Herrod",
+            "src": "Ngày sinh của Darryl Herrod là ngày nào?",
+            "rephrase": "Sự ra đời của Darryl Herrod là gì?",
+            "alt": "1952",
+            "loc": "ai là ca sĩ chính của tâm hồn tập thể?",
+            "loc_ans": "Ed Roland",
+            "portability": {
+                "New Question": "Sự kiện lớn nào trên thế giới diễn ra khi Darryl Herrod ra đời?",
+                "New Answer": "Thế vận hội mùa hè Helsinki"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Darryl Herrod&#39;s date of birth?",
+            "rephrase": "What was the birth of Darryl Herrod?",
+            "alt": "1952",
+            "loc": "Who is the lead singer of the collective soul?",
+            "loc_ans": "Ed Roland",
+            "new_question": "What major world event took place when Darryl Herrod was born?",
+            "new_answer": "Helsinki Summer Olympics"
+        },
+        "en_texts": {
+            "subject": "Darryl Herrod",
+            "src": "The date of birth for Darryl Herrod is what?",
+            "rephrase": "The birth of Darryl Herrod is what?",
+            "alt": "1952",
+            "loc": "nq question: who is the lead singer of collective soul?",
+            "loc_ans": "Ed Roland",
+            "portability": {
+                "New Question": "What major world event took place when Darryl Herrod was born?",
+                "New Answer": "Helsinki Summer Olympics"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Czerwonka-Wieś",
+            "src": "Czerwonka-Wieś nằm ở bang nào?",
+            "rephrase": "Czerwonka-Wieś nằm ở bang nào?",
+            "alt": "Gmina Łódź",
+            "loc": "Fe hấp thu tốt nhất ở đâu trong cơ thể??",
+            "loc_ans": "tá tràng",
+            "portability": {
+                "New Question": "Bạn sẽ tìm thấy Czerwonka-Wieś ở tỉnh nào, vì nó nằm ở Gmina Łódź?",
+                "New Answer": "tỉnh Łódź"
+            }
+        },
+        "translated_texts": {
+            "src": "In which state is Czerwonka-Wiesś located?",
+            "rephrase": "In which state is Czerwonka-Wiesś located?",
+            "alt": "Commune of Łódź",
+            "loc": "Where is Fe best absorbed in the body?",
+            "loc_ans": "duodenum",
+            "new_question": "In which province will you find Czerwonka-Wieś, since it is located in Gmina Łódź?",
+            "new_answer": "Łódź province"
+        },
+        "en_texts": {
+            "subject": "Czerwonka-Wieś",
+            "src": "Which state is Czerwonka-Wieś located?",
+            "rephrase": "In which state is Czerwonka-Wieś located?",
+            "alt": "Gmina Łódź",
+            "loc": "nq question: where is fe best absorbed in the body?",
+            "loc_ans": "the duodenum",
+            "portability": {
+                "New Question": "In which voivodeship will you find Czerwonka-Wieś, given it is located in Gmina Łódź?",
+                "New Answer": "Łódź Voivodeship"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Gia đình 42",
+            "src": "Nhãn hiệu nào chịu trách nhiệm cho Fambly 42?",
+            "rephrase": "Hãng nào phụ trách Fambly 42?",
+            "alt": "Warner Bros",
+            "loc": "Ash vs Evil Dead mùa 3 có bao nhiêu tập?",
+            "loc_ans": "10",
+            "portability": {
+                "New Question": "Ai là người sáng lập công ty phát hành Fambly 42?",
+                "New Answer": "Harry, Albert, Sam và Jack Warner"
+            }
+        },
+        "translated_texts": {
+            "src": "Which brand is responsible for Fambly 42?",
+            "rephrase": "Which company is in charge of Fambly 42?",
+            "alt": "Warner Bros",
+            "loc": "How many episodes are there in Ash vs Evil Dead season 3?",
+            "loc_ans": "10",
+            "new_question": "Who is the founder of the publishing company Fambly 42?",
+            "new_answer": "Harry, Albert, Sam and Jack Warner"
+        },
+        "en_texts": {
+            "subject": "Fambly 42",
+            "src": "What label was responsible for Fambly 42?",
+            "rephrase": "Which label was in charge of Fambly 42?",
+            "alt": "Warner Bros",
+            "loc": "nq question: how many episodes is ash vs evil dead season 3?",
+            "loc_ans": "10",
+            "portability": {
+                "New Question": "Who were the founders of the company that released Fambly 42?",
+                "New Answer": "Harry, Albert, Sam, and Jack Warner"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Martha Neumark",
+            "src": "Ngày sinh của Martha Neumark là?",
+            "rephrase": "- Ngày sinh của Martha Neumark?",
+            "alt": "1952",
+            "loc": "lời nguyền đảo sồi mùa 5 có bao nhiêu tập?",
+            "loc_ans": "18",
+            "portability": {
+                "New Question": "Sự kiện lịch sử quan trọng nào diễn ra vào năm Martha Neumark ra đời?",
+                "New Answer": "Nữ hoàng Elizabeth II lên ngôi."
+            }
+        },
+        "translated_texts": {
+            "src": "What is Martha Neumark&#39;s date of birth?",
+            "rephrase": "- Martha Neumark&#39;s date of birth?",
+            "alt": "1952",
+            "loc": "How many episodes are there in The Curse of Oak Island season 5?",
+            "loc_ans": "18",
+            "new_question": "What important historical event took place the year Martha Neumark was born?",
+            "new_answer": "Queen Elizabeth II ascends the throne."
+        },
+        "en_texts": {
+            "subject": "Martha Neumark",
+            "src": "The date of birth of Martha Neumark is?",
+            "rephrase": "- Martha Neumark's date of birth?",
+            "alt": "1952",
+            "loc": "nq question: how many episodes curse of oak island season 5?",
+            "loc_ans": "18",
+            "portability": {
+                "New Question": "What significant historical event took place in the year Martha Neumark was born?",
+                "New Answer": "Queen Elizabeth II ascended to the throne."
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Tàu ngầm Đức U-270",
+            "src": "Tàu ngầm U-270 của Đức do công ty nào sản xuất?",
+            "rephrase": "Công ty nào đã chế tạo tàu ngầm U-270 của Đức?",
+            "alt": "Oderwerke",
+            "loc": "cổ tức đi đâu trên báo cáo lưu chuyển tiền tệ?",
+            "loc_ans": "phần hoạt động tài chính",
+            "portability": {
+                "New Question": "Công ty sản xuất tàu ngầm U-270 của Đức tọa lạc ở thành phố nào?",
+                "New Answer": "Stettin"
+            }
+        },
+        "translated_texts": {
+            "src": "Which company manufactured the German submarine U-270?",
+            "rephrase": "Which company built the German submarine U-270?",
+            "alt": "Oder Works",
+            "loc": "Where do dividends go on the cash flow statement?",
+            "loc_ans": "financial operations section",
+            "new_question": "In which city is the German submarine manufacturing company U-270 located?",
+            "new_answer": "Szczecin"
+        },
+        "en_texts": {
+            "subject": "German submarine U-270",
+            "src": "By which company, German submarine U-270 has been manufactured?",
+            "rephrase": "Which company did the German submarine U-270?",
+            "alt": "Oderwerke",
+            "loc": "nq question: where does dividends go on cash flow statement?",
+            "loc_ans": "the financing activities section",
+            "portability": {
+                "New Question": "In which city was the company that manufactured German submarine U-270 located?",
+                "New Answer": "Stettin"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Nenad Stamenković",
+            "src": "Nenad Stamenković là thành viên của đội thể thao nào?",
+            "rephrase": "Nenad Stamenković là thành viên của đội thể thao nào?",
+            "alt": "FK Vardar",
+            "loc": "diễn viên của có và không chơi?",
+            "loc_ans": "Palmer Williams Jr. trong vai Floyd",
+            "portability": {
+                "New Question": "Đội thể thao Nenad Stamenković là thành viên có trụ sở tại thành phố nào?",
+                "New Answer": "Skopje"
+            }
+        },
+        "translated_texts": {
+            "src": "Which sports team is Nenad Stamenković a member of?",
+            "rephrase": "Which sports team is Nenad Stamenković a member of?",
+            "alt": "FC Vardar",
+            "loc": "actors of yes and no play?",
+            "loc_ans": "Palmer Williams Jr. trong vai Floyd",
+            "new_question": "The sports team Nenad Stamenković is a member of is based in which city?",
+            "new_answer": "Skopje"
+        },
+        "en_texts": {
+            "subject": "Nenad Stamenković",
+            "src": "What sports team was Nenad Stamenković a member of?",
+            "rephrase": "Which sports team was Nenad Stamenković a member of?",
+            "alt": "FK Vardar",
+            "loc": "nq question: cast of the have and have nots play?",
+            "loc_ans": "Palmer Williams Jr. as Floyd",
+            "portability": {
+                "New Question": "In which city was the sports team Nenad Stamenković a member of based?",
+                "New Answer": "Skopje"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Gemma Bosini",
+            "src": "Kiểu giọng của Gemma Bosini là gì?",
+            "rephrase": "Loại giọng nói của Gemma Bosini là gì?",
+            "alt": "mezzo-srano",
+            "loc": "Chủ nghĩa tương tác biểu tượng là cơ sở cho mô hình lý thuyết?",
+            "loc_ans": "lý thuyết vai trò",
+            "portability": {
+                "New Question": "Ca sĩ opera nổi tiếng nào có cùng loại giọng với Gemma Bosini?",
+                "New Answer": "Cecilia Bartoli"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Gemma Bosini&#39;s voice type?",
+            "rephrase": "What is Gemma Bosini&#39;s voice type?",
+            "alt": "half-srano",
+            "loc": "Is symbolic interactionism the basis for the theoretical model?",
+            "loc_ans": "role theory",
+            "new_question": "Which famous opera singer has the same type of voice as Gemma Bosini?",
+            "new_answer": "Cecilia Bartoli"
+        },
+        "en_texts": {
+            "subject": "Gemma Bosini",
+            "src": "The voice type of Gemma Bosini is what?",
+            "rephrase": "The type of voice Gemma Bosini is what?",
+            "alt": "mezzo-srano",
+            "loc": "nq question: symbolic interactionism is the basis for which theoretical model?",
+            "loc_ans": "role theory",
+            "portability": {
+                "New Question": "Which famous opera singer shares the same voice type as Gemma Bosini?",
+                "New Answer": "Cecilia Bartoli"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Rzechówek",
+            "src": "Rzechówek nằm ở bang nào?",
+            "rephrase": "Bang nào nằm ở Rzechówek?",
+            "alt": "Gmina Ustrzyki Dolne",
+            "loc": "được sản xuất trong thực vật của narora kakrapar tarapur?",
+            "loc_ans": "Điện nguyên tử",
+            "portability": {
+                "New Question": "Rzechówek nằm ở tỉnh nào sau khi thay đổi?",
+                "New Answer": "Subcarpathian Voivodeship"
+            }
+        },
+        "translated_texts": {
+            "src": "In which state is Rzechówek located?",
+            "rephrase": "Which canton is located in Rzechówek?",
+            "alt": "Ustrzyki Dolne commune",
+            "loc": "produced in plants of narora kakrapar tarapur?",
+            "loc_ans": "Atomic electricity",
+            "new_question": "In which province is Rzechówek located after the change?",
+            "new_answer": "Subcarpathian Voivodeship"
+        },
+        "en_texts": {
+            "subject": "Rzechówek",
+            "src": "What state is Rzechówek located?",
+            "rephrase": "Which State is located in Rzechówek?",
+            "alt": "Gmina Ustrzyki Dolne",
+            "loc": "nq question: which is produced in plants of narora kakrapar tarapur?",
+            "loc_ans": "Atomic Power",
+            "portability": {
+                "New Question": "In which voivodeship is Rzechówek located after the alteration?",
+                "New Answer": "Subcarpathian Voivodeship"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Noyan Öz",
+            "src": "Noyan Öz là thành viên của đội nào?",
+            "rephrase": "Noyan Öz là thành viên của đội nào?",
+            "alt": "Konyaspor",
+            "loc": "người chơi big enos trong Smokey and the Bandit?",
+            "loc_ans": "Pat McCormick",
+            "portability": {
+                "New Question": "Đội của Noyan Öz, Konyaspor, tọa lạc ở thành phố nào?",
+                "New Answer": "Konya"
+            }
+        },
+        "translated_texts": {
+            "src": "Which team is Noyan Öz a member of?",
+            "rephrase": "Which team is Noyan Öz a member of?",
+            "alt": "Konyaspor",
+            "loc": "big enos player in Smokey and the Bandit?",
+            "loc_ans": "Pat McCormick",
+            "new_question": "In which city is Noyan Öz&#39;s team, Konyaspor, located?",
+            "new_answer": "Konya"
+        },
+        "en_texts": {
+            "subject": "Noyan Öz",
+            "src": "Which team is Noyan Öz a member of?",
+            "rephrase": "Which team is Noyan Öz a member?",
+            "alt": "Konyaspor",
+            "loc": "nq question: who played big enos in smokey and the bandit?",
+            "loc_ans": "Pat McCormick",
+            "portability": {
+                "New Question": "In which city is Noyan Öz's team, Konyaspor, located?",
+                "New Answer": "Konya"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Milton F. Pavlic",
+            "src": "Milton F. Pavlic đã phục vụ trong cuộc chiến nào?",
+            "rephrase": "Sĩ quan của Milton F. Pavlic tham gia cuộc chiến nào trong lịch sử?",
+            "alt": "chiến tranh Hàn Quốc",
+            "loc": "ai hát một quả táo xấu sẽ làm hỏng cả chùm?",
+            "loc_ans": "gia đình Osmond",
+            "portability": {
+                "New Question": "Hai quốc gia nào đã giao tranh với nhau trong cuộc chiến mà Milton F. Pavlic tham gia?",
+                "New Answer": "Bắc Triều Tiên và Hàn Quốc"
+            }
+        },
+        "translated_texts": {
+            "src": "In which war did Milton F. Pavlic serve?",
+            "rephrase": "Milton F. Pavlic&#39;s officer participated in which war in history?",
+            "alt": "Korean War",
+            "loc": "Who sings that one bad apple spoils the whole bunch?",
+            "loc_ans": "Osmond family",
+            "new_question": "Which two countries fought each other in the war in which Milton F. Pavlic participated?",
+            "new_answer": "North Korea and South Korea"
+        },
+        "en_texts": {
+            "subject": "Milton F. Pavlic",
+            "src": "Which war did Milton F. Pavlic serve in?",
+            "rephrase": "What war in history was Milton F. Pavlic's officer in?",
+            "alt": "Korean War",
+            "loc": "nq question: who sang one bad apple spoils the bunch?",
+            "loc_ans": "The Osmonds",
+            "portability": {
+                "New Question": "Which two countries were fighting against each other during the war that Milton F. Pavlic served in?",
+                "New Answer": "North Korea and South Korea"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Xe tăng 58",
+            "src": "Panzer 58 được đưa vào sử dụng vào năm nào?",
+            "rephrase": "Panzer 58 được đặt hàng vào năm nào?",
+            "alt": "1953",
+            "loc": "người chơi đàn em trong cái nóng của đêm?",
+            "loc_ans": "Christian LeBlanc",
+            "portability": {
+                "New Question": "Panzer 58 được đưa vào sử dụng trong cuộc xung đột lớn nào?",
+                "New Answer": "chiến tranh Hàn Quốc"
+            }
+        },
+        "translated_texts": {
+            "src": "In what year did the Panzer 58 enter service?",
+            "rephrase": "In what year was the Panzer 58 ordered?",
+            "alt": "1953",
+            "loc": "Junior players in the heat of the night?",
+            "loc_ans": "Christian LeBlanc",
+            "new_question": "The Panzer 58 was used in which major conflict?",
+            "new_answer": "Korean War"
+        },
+        "en_texts": {
+            "subject": "Panzer 58",
+            "src": "In what year did Panzer 58 enter service?",
+            "rephrase": "What year was Panzer 58 ordered?",
+            "alt": "1953",
+            "loc": "nq question: who played junior on in the heat of the night?",
+            "loc_ans": "Christian LeBlanc",
+            "portability": {
+                "New Question": "During which major conflict did Panzer 58 enter service?",
+                "New Answer": "Korean War"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Edith Mayer",
+            "src": "Vị trí nào được giữ bởi Edith Mayer?",
+            "rephrase": "Edith Mayer đã đảm nhận vị trí nào?",
+            "alt": "thành viên của Hạ viện Illinois",
+            "loc": "ai có thuế doanh nghiệp cao nhất thế giới?",
+            "loc_ans": "Zambia",
+            "portability": {
+                "New Question": "Hạ viện Illinois mà Edith Mayer phục vụ là cơ quan lập pháp nào?",
+                "New Answer": "Đại hội đồng Illinois"
+            }
+        },
+        "translated_texts": {
+            "src": "What position was held by Edith Mayer?",
+            "rephrase": "What position did Edith Mayer take?",
+            "alt": "member of the Illinois House of Representatives",
+            "loc": "Who has the highest corporate tax in the world?",
+            "loc_ans": "Zambia",
+            "new_question": "Which legislative body did Edith Mayer serve in the Illinois House of Representatives?",
+            "new_answer": "Illinois General Assembly"
+        },
+        "en_texts": {
+            "subject": "Edith Mayer",
+            "src": "Which position was held by Edith Mayer?",
+            "rephrase": "What position has Edith Mayer taken?",
+            "alt": "member of the Illinois House of Representatives",
+            "loc": "nq question: who has the highest corporate taxes in the world?",
+            "loc_ans": "Zambia",
+            "portability": {
+                "New Question": "What legislative body is the Illinois House of Representatives, in which Edith Mayer served, a part of?",
+                "New Answer": "Illinois General Assembly"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Trung tâm tiến bộ y tế",
+            "src": "Trung tâm Tiến bộ Y tế được thành lập vào năm nào?",
+            "rephrase": "Trung tâm Tiến bộ Y tế có nguồn gốc từ năm nào?",
+            "alt": "1991",
+            "loc": "diễn viên đóng vai caesar trong buổi bình minh của hành tinh khỉ?",
+            "loc_ans": "Andy Serkis",
+            "portability": {
+                "New Question": "Sự kiện lớn nào trên thế giới diễn ra cùng năm với ngày thành lập Trung tâm Tiến bộ Y tế?",
+                "New Answer": "Sự giải thể của Liên Xô"
+            }
+        },
+        "translated_texts": {
+            "src": "In what year was the Center for Medical Progress founded?",
+            "rephrase": "In what year did the Center for Medical Progress originate?",
+            "alt": "1991",
+            "loc": "Which actor plays Caesar in Dawn of the Planet of the Apes?",
+            "loc_ans": "Andy Serkis",
+            "new_question": "What major world event took place the same year as the founding of the Center for Medical Progress?",
+            "new_answer": "Dissolution of the Soviet Union"
+        },
+        "en_texts": {
+            "subject": "Center for Medical Progress",
+            "src": "In what year did The Center for Medical Progress originate?",
+            "rephrase": "In which year does the Center for Medical Progress have its origin?",
+            "alt": "1991",
+            "loc": "nq question: actor who played caesar in dawn of the planet of the apes?",
+            "loc_ans": "Andy Serkis",
+            "portability": {
+                "New Question": "Which major world event took place in the same year as the founding of The Center for Medical Progress?",
+                "New Answer": "Dissolution of the Soviet Union"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "hoa anh túc",
+            "src": "Tên của nơi có thể tìm thấy Hoa Anh Túc là gì?",
+            "rephrase": "Tên của địa điểm có thể tìm thấy Hoa Anh Túc là gì?",
+            "alt": "Phòng trưng bày nghệ thuật quốc gia",
+            "loc": "khi nào giải phẫu của Grey sẽ quay trở lại vào tháng 3?",
+            "loc_ans": "Ngày 1 tháng 3 năm 2018",
+            "portability": {
+                "New Question": "Bạn có thể tìm thấy Hoa anh túc tại Phòng trưng bày Nghệ thuật Quốc gia ở thành phố nào?",
+                "New Answer": "Washington DC"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the name of the place where Poppies can be found?",
+            "rephrase": "What is the name of the place where Poppies can be found?",
+            "alt": "National Gallery of Art",
+            "loc": "When will Grey&#39;s Anatomy return in March?",
+            "loc_ans": "March 1, 2018",
+            "new_question": "In which city can you find the Poppies at the National Gallery of Art?",
+            "new_answer": "Washington DC"
+        },
+        "en_texts": {
+            "subject": "Poppy Flowers",
+            "src": "What is the name of the place where Poppy Flowers can be found?",
+            "rephrase": "What is the name of the place Poppy Flowers can be found?",
+            "alt": "National Gallery of Art",
+            "loc": "nq question: when does grey's anatomy come back on in march?",
+            "loc_ans": "March 1, 2018",
+            "portability": {
+                "New Question": "In which city can you find Poppy Flowers at the National Gallery of Art?",
+                "New Answer": "Washington, D.C."
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Kyrre Nakkim",
+            "src": "Mẹ của Kyrre Nakkim là ai?",
+            "rephrase": "Mẹ của Kyrre Nakkim là ai?",
+            "alt": "Babur",
+            "loc": "người đã hát bài hát gốc của scooby doo?",
+            "loc_ans": "Larry Marks",
+            "portability": {
+                "New Question": "Đế chế nào được thành lập bởi mẹ của Kyrre Nakkim theo thông tin đã thay đổi?",
+                "New Answer": "Đế chế Mughal"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is Kyrre Nakkim&#39;s mother?",
+            "rephrase": "Who is Kyrre Nakkim&#39;s mother?",
+            "alt": "Babur",
+            "loc": "Who sang the original Scooby Doo song?",
+            "loc_ans": "Larry Marks",
+            "new_question": "Which empire was founded by Kyrre Nakkim&#39;s mother according to changed information?",
+            "new_answer": "Mughal Empire"
+        },
+        "en_texts": {
+            "subject": "Kyrre Nakkim",
+            "src": "The mother of Kyrre Nakkim is whom?",
+            "rephrase": "The person who's the mother of Kyrre Nakkim, who?",
+            "alt": "Babur",
+            "loc": "nq question: who sang the original scooby doo theme song?",
+            "loc_ans": "Larry Marks",
+            "portability": {
+                "New Question": "Which empire was founded by the mother of Kyrre Nakkim according to the altered information?",
+                "New Answer": "Mughal Empire"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Tyspanode",
+            "src": "Tyspanodes thuộc họ nào?",
+            "rephrase": "Tyspanodes là gia đình nào?",
+            "alt": "Họ Noctuidae",
+            "loc": "ai đã hát đã nghe nó qua vườn nho trước tiên?",
+            "loc_ans": "Những điều kỳ diệu",
+            "portability": {
+                "New Question": "Tên chung của họ Tyspanodes là gì?",
+                "New Answer": "Bướm cú"
+            }
+        },
+        "translated_texts": {
+            "src": "Which family does Tyspanodes belong to?",
+            "rephrase": "Which family is Tyspanodes?",
+            "alt": "Family Noctuidae",
+            "loc": "Who sang and heard it through the vineyard first?",
+            "loc_ans": "Miracles",
+            "new_question": "What is the common name of the Tyspanodes family?",
+            "new_answer": "Owl butterfly"
+        },
+        "en_texts": {
+            "subject": "Tyspanodes",
+            "src": "Which family does Tyspanodes belong to?",
+            "rephrase": "Which family is Tyspanodes?",
+            "alt": "Noctuidae",
+            "loc": "nq question: who sang heard it thru the grapevine first?",
+            "loc_ans": "The Miracles",
+            "portability": {
+                "New Question": "What is the common name for the family that Tyspanodes belongs to?",
+                "New Answer": "Owlet moths"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Lịch sử cũ có mùi",
+            "src": "Tên của nhà xuất bản Lịch sử cũ có mùi là gì?",
+            "rephrase": "Tên nhà xuất bản cuốn Lịch sử xưa có mùi là gì?",
+            "alt": "Grosset & Dunlap",
+            "loc": "có bao nhiêu gam rượu trong một cốc bia?",
+            "loc_ans": "14",
+            "portability": {
+                "New Question": "Công ty mẹ nào chịu trách nhiệm xuất bản Lịch sử cũ có mùi thông qua Grosset & Dunlap?",
+                "New Answer": "Nhóm chim cánh cụt"
+            }
+        },
+        "translated_texts": {
+            "src": "What is the name of the publisher Old History Smells?",
+            "rephrase": "What is the name of the publisher of Old History Smells?",
+            "alt": "Grosset & Dunlap",
+            "loc": "How many grams of alcohol are in a glass of beer?",
+            "loc_ans": "14",
+            "new_question": "Which parent company is responsible for publishing Smelly Old History through Grosset &amp; Dunlap?",
+            "new_answer": "Group of penguins"
+        },
+        "en_texts": {
+            "subject": "Smelly Old History",
+            "src": "What is the name of the publisher of Smelly Old History?",
+            "rephrase": "What's the name of the publisher of Smelly Old History?",
+            "alt": "Grosset & Dunlap",
+            "loc": "nq question: how many grams of alcohol in one beer?",
+            "loc_ans": "14",
+            "portability": {
+                "New Question": "Which parent company is responsible for publishing Smelly Old History through Grosset & Dunlap?",
+                "New Answer": "Penguin Group"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Jane Seymour",
+            "src": "Cha của Jane Seymour là ai?",
+            "rephrase": "Cha của Jane Seymour là ai?",
+            "alt": "Henry Seymour",
+            "loc": "vụ giết một con nai thiêng được quay ở đâu?",
+            "loc_ans": "Cincinnati",
+            "portability": {
+                "New Question": "Mẹ của Jane Seymour là ai?",
+                "New Answer": "Margery Wentworth"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is Jane Seymour&#39;s father?",
+            "rephrase": "Who is Jane Seymour&#39;s father?",
+            "alt": "Henry Seymour",
+            "loc": "Where was the killing of a sacred deer filmed?",
+            "loc_ans": "Cincinnati",
+            "new_question": "Who is Jane Seymour&#39;s mother?",
+            "new_answer": "Margery Wentworth"
+        },
+        "en_texts": {
+            "subject": "Jane Seymour",
+            "src": "Who was the dad of Jane Seymour?",
+            "rephrase": "Who's the father of Jane Seymour?",
+            "alt": "Henry Seymour",
+            "loc": "nq question: where was the killing of a sacred deer filmed?",
+            "loc_ans": "Cincinnati",
+            "portability": {
+                "New Question": "Who was Jane Seymour's mother?",
+                "New Answer": "Margery Wentworth"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Cờ vua Gnome",
+            "src": "Cờ vua Gnome được viết bằng ngôn ngữ lập trình nào?",
+            "rephrase": "GNOME Chess được viết bằng ngôn ngữ lập trình nào?",
+            "alt": "Java",
+            "loc": "vậy bạn nghĩ bạn có thể nhảy được không giám khảo mùa 2?",
+            "loc_ans": "Nigel Lythgoe, Mary Murphy, Mia Michaels, Shane Sparks, Dan Karaty, Brian Friedman",
+            "portability": {
+                "New Question": "Ai là người phát minh ra ngôn ngữ lập trình dùng để viết Cờ vua Gnome?",
+                "New Answer": "James Gosling"
+            }
+        },
+        "translated_texts": {
+            "src": "In which programming language is Gnome Chess written?",
+            "rephrase": "What programming language is GNOME Chess written in?",
+            "alt": "Java",
+            "loc": "So do you think you can dance, season 2 judges?",
+            "loc_ans": "Nigel Lythgoe, Mary Murphy, Mia Michaels, Shane Sparks, Dan Karaty, Brian Friedman",
+            "new_question": "Who invented the programming language used to write Gnome Chess?",
+            "new_answer": "James Gosling"
+        },
+        "en_texts": {
+            "subject": "GNOME Chess",
+            "src": "Which programming language is GNOME Chess written in?",
+            "rephrase": "What programming language is GNOME Chess written?",
+            "alt": "Java",
+            "loc": "nq question: so you think you can dance season 2 judges?",
+            "loc_ans": "Nigel Lythgoe, Mary Murphy, Mia Michaels, Shane Sparks, Dan Karaty, Brian Friedman",
+            "portability": {
+                "New Question": "Who is the inventor of the programming language used to write GNOME Chess?",
+                "New Answer": "James Gosling"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Hiệp hội khu vực Galicia",
+            "src": "Hiệp hội những người theo chủ nghĩa khu vực Galicia kết thúc vào năm nào?",
+            "rephrase": "Hiệp hội những người theo chủ nghĩa khu vực Galicia đã bị giải thể vào năm nào?",
+            "alt": "1939",
+            "loc": "dàn diễn viên của phim Đừng nói với mẹ người giữ trẻ đã chết?",
+            "loc_ans": "Christina Applegate",
+            "portability": {
+                "New Question": "Sự kiện toàn cầu nào bắt đầu vào năm Hiệp hội những người theo chủ nghĩa khu vực Galicia kết thúc?",
+                "New Answer": "Chiến tranh Thế giới II"
+            }
+        },
+        "translated_texts": {
+            "src": "In what year did the Association of Galician Regionalists end?",
+            "rephrase": "In what year was the Galician Regionalist Association dissolved?",
+            "alt": "1939",
+            "loc": "The cast of Don&#39;t Tell Mom the Babysitter Died?",
+            "loc_ans": "Christina Applegate",
+            "new_question": "What global event began the year the Galician Regionalist Association ended?",
+            "new_answer": "World War II"
+        },
+        "en_texts": {
+            "subject": "Galician Regionalist Association",
+            "src": "Which year did Galician Regionalist Association end?",
+            "rephrase": "What year has the Galician Regionalist Association been dissolved?",
+            "alt": "1939",
+            "loc": "nq question: the cast of don't tell mom the babysitter's dead?",
+            "loc_ans": "Christina Applegate",
+            "portability": {
+                "New Question": "What global event began in the year when the Galician Regionalist Association ended?",
+                "New Answer": "World War II"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Mirza Muhammad Haidar Dughlat",
+            "src": "Ngày sinh của Mirza Muhammad Haidar Dughlat là ngày nào?",
+            "rephrase": "Ngày sinh của Mirza Muhammad Haidar Dughlat là ngày nào?",
+            "alt": "1947",
+            "loc": "bạn đã đi uống rượu ở đâu trong thời gian cấm?",
+            "loc_ans": "Speakeasies",
+            "portability": {
+                "New Question": "Cùng năm với ngày sinh được cho là của Mirza Muhammad Haidar Dughlat, sự kiện lớn nào đã xảy ra?",
+                "New Answer": "Độc lập của Ấn Độ"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Mirza Muhammad Haidar Dughlat&#39;s date of birth?",
+            "rephrase": "What is Mirza Muhammad Haidar Dughlat&#39;s date of birth?",
+            "alt": "1947",
+            "loc": "Where did you go drinking during prohibition?",
+            "loc_ans": "Speakeasies",
+            "new_question": "In the same year as the supposed birth date of Mirza Muhammad Haidar Dughlat, what major event happened?",
+            "new_answer": "India&#39;s independence"
+        },
+        "en_texts": {
+            "subject": "Mirza Muhammad Haidar Dughlat",
+            "src": "What is the date of birth for Mirza Muhammad Haidar Dughlat?",
+            "rephrase": "Which is the date of birth of Mirza Muhammad Haidar Dughlat?",
+            "alt": "1947",
+            "loc": "nq question: where did you go to drink during prohibition?",
+            "loc_ans": "Speakeasies",
+            "portability": {
+                "New Question": "In the same year as Mirza Muhammad Haidar Dughlat's supposed birth, which major event occurred?",
+                "New Answer": "India's Independence"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Isodontosaurus",
+            "src": "Isodontosaurus thuộc họ nào?",
+            "rephrase": "Gia đình nào thuộc về Isodontosaurus?",
+            "alt": "họ Tylosauridae",
+            "loc": "tên con trai của chúa tể krishna là gì?",
+            "loc_ans": "Pradyumna",
+            "portability": {
+                "New Question": "Isodontosaurus thuộc nhóm bò sát biển nào lớn hơn, với tư cách là thành viên của họ Tylosauridae?",
+                "New Answer": "Mosasaur"
+            }
+        },
+        "translated_texts": {
+            "src": "Which family does Isodontosaurus belong to?",
+            "rephrase": "Which family does Isodontosaurus belong to?",
+            "alt": "family Tylosauridae",
+            "loc": "What is the name of lord krishna&#39;s son?",
+            "loc_ans": "Pradyumna",
+            "new_question": "Isodontosaurus belonged to which larger group of marine reptiles, as a member of the family Tylosauridae?",
+            "new_answer": "Mosasaur"
+        },
+        "en_texts": {
+            "subject": "Isodontosaurus",
+            "src": "What family does Isodontosaurus belong?",
+            "rephrase": "Which family belongs to Isodontosaurus?",
+            "alt": "Tylosauridae",
+            "loc": "nq question: what is the name of son of lord krishna?",
+            "loc_ans": "Pradyumna",
+            "portability": {
+                "New Question": "What larger group of marine reptiles does the Isodontosaurus belong to, as a member of the Tylosauridae family?",
+                "New Answer": "Mosasaurs"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Lạch Dingo",
+            "src": "Lạch Dingo chảy vào đâu?",
+            "rephrase": "Con sông nào nối Lạch Dingo với?",
+            "alt": "Eo biển bass",
+            "loc": "hạt của hạt thực vật hạt trần được tạo ra trong?",
+            "loc_ans": "bề mặt vảy hoặc lá",
+            "portability": {
+                "New Question": "Lạch Dingo chảy qua khu vực nào do nó nối với eo biển Bass?",
+                "New Answer": "Giữa Victoria và Tasmania"
+            }
+        },
+        "translated_texts": {
+            "src": "Where does Dingo Creek flow?",
+            "rephrase": "What river is Dingo Creek connected to?",
+            "alt": "Strait bass",
+            "loc": "Gymnosperm seeds are produced in?",
+            "loc_ans": "scale or leaf surface",
+            "new_question": "What area does Dingo Creek flow through as it connects to Bass Strait?",
+            "new_answer": "Between Victoria and Tasmania"
+        },
+        "en_texts": {
+            "subject": "Dingo Creek",
+            "src": "What does Dingo Creek flow into?",
+            "rephrase": "Which river connects Dingo Creek with?",
+            "alt": "Bass Strait",
+            "loc": "nq question: the seed of a gymnosperm seed is made in the?",
+            "loc_ans": "the surface of scales or leaves",
+            "portability": {
+                "New Question": "In which region does Dingo Creek flow, based on its connection to Bass Strait?",
+                "New Answer": "Between Victoria and Tasmania"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Kaaki Sattai",
+            "src": "Studio nào sản xuất Kaaki Sattai?",
+            "rephrase": "Kaaki Sattai đã thành lập công ty sản xuất nào hoặc những công ty nào?",
+            "alt": "Phim Yash Raj",
+            "loc": "ai đóng vai caesar hành tinh khỉ 2014?",
+            "loc_ans": "Andy Serkis",
+            "portability": {
+                "New Question": "Ai đã thành lập công ty sản xuất chịu trách nhiệm sản xuất Kaaki Sattai?",
+                "New Answer": "Yash Chopra"
+            }
+        },
+        "translated_texts": {
+            "src": "Which studio produces Kaaki Sattai?",
+            "rephrase": "What manufacturing company or companies did Kaaki Sattai establish?",
+            "alt": "Yash Raj",
+            "loc": "Who plays Caesar on Planet of the Apes 2014?",
+            "loc_ans": "Andy Serkis",
+            "new_question": "Who founded the production company responsible for producing Kaaki Sattai?",
+            "new_answer": "Yash Chopra"
+        },
+        "en_texts": {
+            "subject": "Kaaki Sattai",
+            "src": "What studio produced Kaaki Sattai?",
+            "rephrase": "Which production company or which companies have Kaaki Sattai founded?",
+            "alt": "Yash Raj Movies",
+            "loc": "nq question: who plays caesar planet of the apes 2014?",
+            "loc_ans": "Andy Serkis",
+            "portability": {
+                "New Question": "Who founded the production company responsible for producing Kaaki Sattai?",
+                "New Answer": "Yash Chopra"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Tôi sẽ gặp je delen",
+            "src": "Ik will alles met je delen made in bằng ngôn ngữ nào?",
+            "rephrase": "Ik will alles met je delen made in bằng ngôn ngữ nào?",
+            "alt": "nước Bỉ",
+            "loc": "khi nào dragon ball super tập 113 bắt đầu?",
+            "loc_ans": "Ngày 29 tháng 10 năm 2017",
+            "portability": {
+                "New Question": "Ngôn ngữ chính thức của quốc gia nơi Ik will alles met je delen có nguồn gốc là gì?",
+                "New Answer": "Tiếng Hà Lan, tiếng Pháp và tiếng Đức"
+            }
+        },
+        "translated_texts": {
+            "src": "In what language is Ik will alles met je delen made in?",
+            "rephrase": "In what language is Ik will alles met je delen made in?",
+            "alt": "Belgium",
+            "loc": "When does Dragon Ball Super episode 113 start?",
+            "loc_ans": "October 29, 2017",
+            "new_question": "What is the official language of the country where Ik will alles met je delen originates?",
+            "new_answer": "Dutch, French and German"
+        },
+        "en_texts": {
+            "subject": "Ik wil alles met je delen",
+            "src": "In which language is Ik wil alles met je delen made in?",
+            "rephrase": "In which language will Ik wil alles met je delen made in?",
+            "alt": "Belgium",
+            "loc": "nq question: when does dragon ball super episode 113 start?",
+            "loc_ans": "October 29, 2017",
+            "portability": {
+                "New Question": "What are the official languages of the country where Ik wil alles met je delen originated?",
+                "New Answer": "Dutch, French, and German"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Gặp tôi sau buổi diễn",
+            "src": "Công ty sản xuất nào đã tham gia Meet Me After the Show?",
+            "rephrase": "Công ty sản xuất nào tham gia Meet Me After the Show?",
+            "alt": "Gia đinh Simpsons",
+            "loc": "khi nào đảo chó xuất hiện trong chúng ta?",
+            "loc_ans": "Ngày 23 tháng 3 năm 2018",
+            "portability": {
+                "New Question": "Ai đã tạo ra công ty sản xuất Meet Me After the Show?",
+                "New Answer": "Matt Groening"
+            }
+        },
+        "translated_texts": {
+            "src": "Which production company was involved in Meet Me After the Show?",
+            "rephrase": "Which production companies are involved in Meet Me After the Show?",
+            "alt": "The Simpsons",
+            "loc": "When does the dog island appear in us?",
+            "loc_ans": "March 23, 2018",
+            "new_question": "Who created the production company Meet Me After the Show?",
+            "new_answer": "Matt Groening"
+        },
+        "en_texts": {
+            "subject": "Meet Me After the Show",
+            "src": "What production company was involved in Meet Me After the Show?",
+            "rephrase": "Which production company is involved in Meet Me After the Show?",
+            "alt": "The Simpsons",
+            "loc": "nq question: when does isle of dogs come out in us?",
+            "loc_ans": "March 23, 2018",
+            "portability": {
+                "New Question": "Who created the production company behind Meet Me After the Show?",
+                "New Answer": "Matt Groening"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Rose Ann Scamardella",
+            "src": "Trường cao đẳng hoặc đại học nào có liên quan đến Rose Ann Scamardella?",
+            "rephrase": "Trường cao đẳng hoặc đại học nào có liên quan đến Rose Ann Scamardella?",
+            "alt": "Đại học Columbia",
+            "loc": "ai hát giọt mưa cứ rơi trên đầu tôi?",
+            "loc_ans": "BJ Thomas",
+            "portability": {
+                "New Question": "Rose Ann Scamardella đã học ở thành phố nào trong thời gian học tại Đại học Columbia?",
+                "New Answer": "Thành phố New York"
+            }
+        },
+        "translated_texts": {
+            "src": "What college or university is associated with Rose Ann Scamardella?",
+            "rephrase": "What college or university is associated with Rose Ann Scamardella?",
+            "alt": "Columbia University",
+            "loc": "Who sings the raindrops that keep falling on my head?",
+            "loc_ans": "BJ Thomas",
+            "new_question": "In which city did Rose Ann Scamardella study during her time at Columbia University?",
+            "new_answer": "New York City"
+        },
+        "en_texts": {
+            "subject": "Rose Ann Scamardella",
+            "src": "Which college or university is related with Rose Ann Scamardella?",
+            "rephrase": "What college or university is related to Rose Ann Scamardella?",
+            "alt": "Columbia University",
+            "loc": "nq question: who sang raindrops keep fallin on my head?",
+            "loc_ans": "B. J. Thomas",
+            "portability": {
+                "New Question": "In which city did Rose Ann Scamardella study during her time at Columbia University?",
+                "New Answer": "New York City"
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "Venera 9",
+            "src": "Venera 9 có thể được tìm thấy trên mặt trăng hoặc hành tinh nào?",
+            "rephrase": "Venera 9 nằm trên thiên thể nào?",
+            "alt": "Sao Hoả",
+            "loc": "người đóng vai Sonny trong chuỗi sự kiện không may của Lemony Snicket?",
+            "loc_ans": "Presley Smith",
+            "portability": {
+                "New Question": "Bạn có thể tìm thấy tàn tích của Venera 9 trên mặt trăng nào của sao Hỏa?",
+                "New Answer": "Cả Phobos và Deimos đều không, vì Venera 9 ban đầu được dành cho Sao Kim, không phải Sao Hỏa."
+            }
+        },
+        "translated_texts": {
+            "src": "On what moon or planet can Venera 9 be found?",
+            "rephrase": "On what celestial body is Venera 9 located?",
+            "alt": "Mars",
+            "loc": "Who played Sonny in Lemony Snicket&#39;s Series of Unfortunate Events?",
+            "loc_ans": "Presley Smith",
+            "new_question": "On which Martian moons can you find the ruins of Venera 9?",
+            "new_answer": "Neither Phobos nor Deimos, because Venera 9 was originally destined for Venus, not Mars."
+        },
+        "en_texts": {
+            "subject": "Venera 9",
+            "src": "On what moon or planet can Venera 9 be found?",
+            "rephrase": "On which heavenly body is Venera 9?",
+            "alt": "Mars",
+            "loc": "nq question: who played sonny in lemony snicket's a series of unfortunate events?",
+            "loc_ans": "Presley Smith",
+            "portability": {
+                "New Question": "On which of Mars' moons might you potentially find remnants of Venera 9?",
+                "New Answer": "Neither Phobos nor Deimos, as Venera 9 was originally meant for Venus, not Mars."
+            }
+        }
+    },
+    {
+        "original_texts": {
+            "subject": "George Stacy",
+            "src": "George Stacy là ai?",
+            "rephrase": "Ai là người tạo ra George Stacy?",
+            "alt": "Christopher Denise",
+            "loc": "ai đã đoạt giải thủ môn xuất sắc nhất cúp bóng đá thế giới 2006?",
+            "loc_ans": "Gianluigi Buffon",
+            "portability": {
+                "New Question": "Thể loại sách mà tác giả của George Stacy, Christopher Denise, được biết đến là gì?",
+                "New Answer": "Sách cho trẻ em"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is George Stacy?",
+            "rephrase": "Who created George Stacy?",
+            "alt": "Christopher Denise",
+            "loc": "Who won the 2006 FIFA World Cup best goalkeeper award?",
+            "loc_ans": "Gianluigi Buffon",
+            "new_question": "What genre of books is George Stacy author Christopher Denise known for?",
+            "new_answer": "Books for children"
+        },
+        "en_texts": {
+            "subject": "George Stacy",
+            "src": "Who is George Stacy by?",
+            "rephrase": "Who is the creator of George Stacy?",
+            "alt": "Christopher Denise",
+            "loc": "nq question: who won the award for best goalkeeper in football world cup 2006?",
+            "loc_ans": "Gianluigi Buffon",
+            "portability": {
+                "New Question": "What is the genre of books that George Stacy's creator, Christopher Denise, is known for?",
+                "New Answer": "Children's books"
+            }
+        }
+    }
+]

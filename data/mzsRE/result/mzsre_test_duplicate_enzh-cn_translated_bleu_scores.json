@@ -1,0 +1,2252 @@
+[
+    {
+        "original_texts": {
+            "subject": "IAAF综合项目挑战赛",
+            "src": "IAAF综合项目挑战赛的创立时间是什么时候？",
+            "rephrase": "IAAF综合项目挑战赛是在什么时候推出的？",
+            "alt": "2006年",
+            "loc": "海绵宝宝的最后一集叫什么名字?",
+            "loc_ans": "The String",
+            "portability": {
+                "New Question": "IAAF综合项目挑战赛是什么类型的体育赛事？它是在2006年成立的。",
+                "New Answer": "田径"
+            }
+        },
+        "translated_texts": {
+            "src": "When was the IAAF Combined Events Challenge founded?",
+            "rephrase": "When was the IAAF Combined Events Challenge launched?",
+            "alt": "year 2006",
+            "loc": "What is the name of the last episode of SpongeBob SquarePants?",
+            "loc_ans": "The String",
+            "new_question": "What type of sporting event is the IAAF Combined Events Challenge? It was established in 2006.",
+            "new_answer": "track and field"
+        },
+        "en_texts": {
+            "subject": "IAAF Combined Events Challenge",
+            "src": "When was the inception of IAAF Combined Events Challenge?",
+            "rephrase": "When was the IAAF Combined Events Challenge launched?",
+            "alt": "2006",
+            "loc": "nq question: what is the name of the last episode of spongebob?",
+            "loc_ans": "The String",
+            "portability": {
+                "New Question": "What type of sports event is the IAAF Combined Events Challenge, which was established in 2006?",
+                "New Answer": "Athletics"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7954127260572175,
+            "rephrase": 1.0,
+            "alt": 0.5,
+            "loc": 0.6348612936679605,
+            "loc_ans": 1.0,
+            "new_question": 0.8333333333333334,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.680515336151216
+    },
+    {
+        "original_texts": {
+            "subject": "Ramalinaceae",
+            "src": "Ramalinaceae属于哪个科？",
+            "rephrase": "Ramalinaceae隶属哪个科？",
+            "alt": "沟胫天牛亚科",
+            "loc": "2018年冬奥会中的滑雪类型?",
+            "loc_ans": "速降滑雪",
+            "portability": {
+                "New Question": "Ramalinaceae在重新分类后属于哪个科？",
+                "New Answer": "天牛科"
+            }
+        },
+        "translated_texts": {
+            "src": "Which family does Ramalinaceae belong to?",
+            "rephrase": "Which family does Ramalinaceae belong to?",
+            "alt": "Subfamily Araminae",
+            "loc": "What types of skiing will be in the 2018 Winter Olympics?",
+            "loc_ans": "Downhill skiing",
+            "new_question": "To which family does Ramalinaceae belong after the reclassification?",
+            "new_answer": "Cerambycidae"
+        },
+        "en_texts": {
+            "subject": "Ramalinaceae",
+            "src": "Which family does Ramalinaceae belong to?",
+            "rephrase": "What family are Ramalinaceae?",
+            "alt": "Lamiinae",
+            "loc": "nq question: types of skiing in the winter olympics 2018?",
+            "loc_ans": "Downhill",
+            "portability": {
+                "New Question": "Which family does Ramalinaceae now belong to after the reclassification?",
+                "New Answer": "Cerambycidae"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.42857142857142855,
+            "alt": 0,
+            "loc": 0.5833333333333334,
+            "loc_ans": 0.5,
+            "new_question": 0.7238699344287677,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.60511067090479
+    },
+    {
+        "original_texts": {
+            "subject": "《呼叫医生》(Call the Doctor)",
+            "src": "创作了《呼叫医生》(Call the Doctor)的艺术家是谁？",
+            "rephrase": "哪位艺术家创作了《呼叫医生》(Call the Doctor)？",
+            "alt": "X档案",
+            "loc": "谁的歌里有一句歌词是nice day for a white wedding?",
+            "loc_ans": "比利·伊多尔",
+            "portability": {
+                "New Question": "是哪部剧集的主演启发了《呼叫医生》(Call the Doctor)的创作者？",
+                "New Answer": "大卫·杜楚尼和吉莲·安德森"
+            }
+        },
+        "translated_texts": {
+            "src": "Who was the artist who created Call the Doctor?",
+            "rephrase": "Which artist created Call the Doctor?",
+            "alt": "The X-Files",
+            "loc": "Whose song has a line &quot;nice day for a white wedding&quot;?",
+            "loc_ans": "Billy Idol",
+            "new_question": "Which show inspired the creators of Call the Doctor?",
+            "new_answer": "David Duchovny and Gillian Anderson"
+        },
+        "en_texts": {
+            "subject": "Call the Doctor",
+            "src": "What artist created Call the Doctor?",
+            "rephrase": "Which artist created Call the Doctor?",
+            "alt": "The X-Files",
+            "loc": "nq question: who sang nice day for a white wedding?",
+            "loc_ans": "Billy Idol",
+            "portability": {
+                "New Question": "Who were the lead actors in the series that inspired the creators of Call the Doctor?",
+                "New Answer": "David Duchovny and Gillian Anderson"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6,
+            "rephrase": 1.0,
+            "alt": 1.0,
+            "loc": 0.3888888888888889,
+            "loc_ans": 1.0,
+            "new_question": 0.39726824303312763,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7694510188460023
+    },
+    {
+        "original_texts": {
+            "subject": "沃尔沃B12M",
+            "src": "哪家公司制造了沃尔沃B12M?",
+            "rephrase": "沃尔沃B12M的制造商是谁?",
+            "alt": "大众集团",
+            "loc": "谁的歌里有一句歌词是it must have been love but its over now?",
+            "loc_ans": "罗克塞特",
+            "portability": {
+                "New Question": "制造沃尔沃B12M的公司总部位于哪个城市?",
+                "New Answer": "德国沃尔夫斯堡"
+            }
+        },
+        "translated_texts": {
+            "src": "Which company built the Volvo B12M?",
+            "rephrase": "Who manufactured the Volvo B12M?",
+            "alt": "Volkswagen Group",
+            "loc": "Whose song has the line &quot;it must have been love but it&#39;s over now&quot;?",
+            "loc_ans": "Roxette",
+            "new_question": "In which city is the company that manufactured the Volvo B12M headquartered?",
+            "new_answer": "Wolfsburg, Germany"
+        },
+        "en_texts": {
+            "subject": "Volvo B12M",
+            "src": "What company made Volvo B12M?",
+            "rephrase": "Volvo B12M's manufacturer was who?",
+            "alt": "Volkswagen Group",
+            "loc": "nq question: who sang it must have been love but its over now?",
+            "loc_ans": "Roxette",
+            "portability": {
+                "New Question": "Ithe headquarters of the company that made the Volvo B12M?",
+                "New Answer": "Wolfsburg, Germany"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 0.423240862445307,
+            "alt": 1.0,
+            "loc": 0.3461538461538461,
+            "loc_ans": 1.0,
+            "new_question": 0.5384615384615384,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.697040688355609
+    },
+    {
+        "original_texts": {
+            "subject": "Platypatrobus",
+            "src": "Platypatrobus属是哪个科的一部分？",
+            "rephrase": "Platypatrobus属属于哪个科？",
+            "alt": "毛蛾亚科",
+            "loc": "谁在《生活大爆炸》中扮演Penny？?",
+            "loc_ans": "凯莉·库柯",
+            "portability": {
+                "New Question": "如果将Platypatrobus属归类到毛蛾亚科，它属于哪个目？",
+                "New Answer": "鳞翅目"
+            }
+        },
+        "translated_texts": {
+            "src": "The genus Platypatrobus is part of which family?",
+            "rephrase": "To which family does the genus Platypatrobus belong?",
+            "alt": "Subfamily",
+            "loc": "Who plays Penny on The Big Bang Theory?",
+            "loc_ans": "Kaley Cuoco",
+            "new_question": "If the genus Platypatrobus is assigned to the subfamily Platypatroinae, to which order does it belong?",
+            "new_answer": "Lepidoptera"
+        },
+        "en_texts": {
+            "subject": "Platypatrobus",
+            "src": "The genus Platypatrobus is a part of what family?",
+            "rephrase": "The genus Platypatrobus is part of the family?",
+            "alt": "Arctiinae",
+            "loc": "nq question: who is the actress that plays penny on the big bang theory?",
+            "loc_ans": "Kaley Christine Cuoco",
+            "portability": {
+                "New Question": "Which order does the genus Platypatrobus belong to when classified under the family Arctiinae?",
+                "New Answer": "Lepidoptera"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7954127260572175,
+            "rephrase": 0.5555555555555556,
+            "alt": 0,
+            "loc": 0.15314194134530887,
+            "loc_ans": 0.6065306597126334,
+            "new_question": 0.5,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5158058403815308
+    },
+    {
+        "original_texts": {
+            "subject": "Shmavon Shmavonyan",
+            "src": "Shmavon Shmavonyan来自哪个国家？",
+            "rephrase": "Shmavon Shmavonyan的国籍在哪？",
+            "alt": "也门",
+            "loc": "科学家要将一个细胞的细胞核移植到另一个细胞中，应该使用什么方法？?",
+            "loc_ans": "体细胞核移植",
+            "portability": {
+                "New Question": "Shmavon Shmavonyan的祖国的首都是哪里？",
+                "New Answer": "萨纳"
+            }
+        },
+        "translated_texts": {
+            "src": "What country is Shmavon Shmavonyan from?",
+            "rephrase": "What is Shmavon Shmavonyan&#39;s nationality?",
+            "alt": "Yemen",
+            "loc": "What method should scientists use to transplant the nucleus of one cell into another cell? ?",
+            "loc_ans": "Somatic Cell Nuclear Transfer",
+            "new_question": "What is the capital of Shmavon Shmavonyan&#39;s homeland?",
+            "new_answer": "Sana"
+        },
+        "en_texts": {
+            "subject": "Shmavon Shmavonyan",
+            "src": "What country is Shmavon Shmavonyan from?",
+            "rephrase": "Which country is Shmavon Shmavonyan from?",
+            "alt": "Yemen",
+            "loc": "nq question: to transplant a nucleus from one cell to another cell a scientist would use?",
+            "loc_ans": "somatic cell nuclear transfer",
+            "portability": {
+                "New Question": "What is the capital city of Shmavon Shmavonyan's home country?",
+                "New Answer": "Sana'a"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.36363636363636365,
+            "alt": 1.0,
+            "loc": 0.4991681349819926,
+            "loc_ans": 0,
+            "new_question": 0.5714285714285714,
+            "new_answer": 0.1353352832366127
+        },
+        "avg_bleu_score": 0.509938336183363
+    },
+    {
+        "original_texts": {
+            "subject": "图迪艾消防站",
+            "src": "图迪艾消防站的建筑师是谁？",
+            "rephrase": "谁是图迪艾消防站的建筑师？",
+            "alt": "温德姆·路易斯",
+            "loc": "周一晚上的Raw何时在Hulu上播出?",
+            "loc_ans": "第二天",
+            "portability": {
+                "New Question": "图迪艾消防站的建筑师与哪个艺术运动相关？",
+                "New Answer": "漩涡主义"
+            }
+        },
+        "translated_texts": {
+            "src": "Who was the architect of the Tudiai Fire Station?",
+            "rephrase": "Who was the architect of the Tudiai Fire Station?",
+            "alt": "Wyndham Lewis",
+            "loc": "When does Monday Night Raw air on Hulu?",
+            "loc_ans": "the next day",
+            "new_question": "Which art movement is the architect of the Tudiai fire station associated with?",
+            "new_answer": "Vorticism"
+        },
+        "en_texts": {
+            "subject": "Toodyay Fire Station",
+            "src": "What architect designed Toodyay Fire Station?",
+            "rephrase": "Who's the architect at Toodyay Fire Station?",
+            "alt": "Wyndham Lewis",
+            "loc": "nq question: when does monday night raw come on hulu?",
+            "loc_ans": "the following day",
+            "portability": {
+                "New Question": "What art movement is Toodyay Fire Station's architect associated with?",
+                "New Answer": "Vorticism"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.4,
+            "rephrase": 0.6,
+            "alt": 1.0,
+            "loc": 0.23884377019126307,
+            "loc_ans": 0.6666666666666666,
+            "new_question": 0.5,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.629358633836847
+    },
+    {
+        "original_texts": {
+            "subject": "洛拉·比斯",
+            "src": "洛拉·比斯是什么声部？",
+            "rephrase": "洛拉·比斯的声音类型是什么？",
+            "alt": "女中音",
+            "loc": "秘鲁神圣山谷的海拔高度是多少？?",
+            "loc_ans": "皮萨克海拔3,000米（9,800英尺），乌鲁班巴河海拔2,050米（6,730英尺）",
+            "portability": {
+                "New Question": "洛拉·比斯作为女中音，可能适合演唱哪个著名的歌剧角色？",
+                "New Answer": "卡门"
+            }
+        },
+        "translated_texts": {
+            "src": "What voice part does Lola Biss play?",
+            "rephrase": "What is Lola Biss&#39;s voice type?",
+            "alt": "Mezzo-soprano",
+            "loc": "What is the altitude of the Sacred Valley of Peru?",
+            "loc_ans": "Pisac is 3,000 metres (9,800 ft) above sea level and the Urubamba River is 2,050 metres (6,730 ft) above sea level.",
+            "new_question": "As a mezzo-soprano, Lola Biss might be suited to singing which famous operatic role?",
+            "new_answer": "Carmen"
+        },
+        "en_texts": {
+            "subject": "Lola Beeth",
+            "src": "What voice type is Lola Beeth?",
+            "rephrase": "What sort of voice is Lola Beeth?",
+            "alt": "mezzo-oprano",
+            "loc": "nq question: what is the altitude of the sacred valley in peru?",
+            "loc_ans": "3,000 metres (9,800 ft) at Pisac to 2,050 metres (6,730 ft) at the Urubamba River",
+            "portability": {
+                "New Question": "What famous opera role might Lola Beeth be well-suited to perform as a mezzo-soprano?",
+                "New Answer": "Carmen"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5,
+            "rephrase": 0.4166666666666667,
+            "alt": 0,
+            "loc": 0.4152547563801129,
+            "loc_ans": 0.6153846153846154,
+            "new_question": 0.5625,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5014008626330565
+    },
+    {
+        "original_texts": {
+            "subject": "叶绿素小子",
+            "src": "叶绿素小子是哪个虚构宇宙的一部分？",
+            "rephrase": "叶绿素小子这个角色属于哪个虚构宇宙？",
+            "alt": "镜像宇宙",
+            "loc": "第一个杰南皮特奖得主的母语是什么？?",
+            "loc_ans": "马拉雅拉姆语",
+            "portability": {
+                "New Question": "叶绿素小子所属的虚构宇宙的创始人之一是谁？",
+                "New Answer": "托德·麦克法兰"
+            }
+        },
+        "translated_texts": {
+            "src": "Which fictional universe is Chlorophyll Kid a part of?",
+            "rephrase": "Which fictional universe does the character Chlorophyll Kid belong to?",
+            "alt": "Mirror Universe",
+            "loc": "What was the native language of the first Genan Pitt Award winner? ?",
+            "loc_ans": "Malayalam",
+            "new_question": "Who is one of the founders of the fictional universe that Chlorophyll Kid belongs to?",
+            "new_answer": "Todd McFarlane"
+        },
+        "en_texts": {
+            "subject": "Chlorophyll Kid",
+            "src": "Which fictional universe is Chlorophyll Kid part of?",
+            "rephrase": "What fictitious universe is the figure of Chlorophyll Kid associated with?",
+            "alt": "Image Universe",
+            "loc": "nq question: the recipient of first jnanpith award was an author which language?",
+            "loc_ans": "Malayalam",
+            "portability": {
+                "New Question": "Who is one of the founders of the fictional universe that Chlorophyll Kid is part of?",
+                "New Answer": "Todd McFarlane"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.9,
+            "rephrase": 0.41504578012830107,
+            "alt": 0.5,
+            "loc": 0.39902690558743836,
+            "loc_ans": 1.0,
+            "new_question": 0.8219864299617914,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7194370165253616
+    },
+    {
+        "original_texts": {
+            "subject": "尼拜约",
+            "src": "尼拜约的父亲叫什么名字？",
+            "rephrase": "尼拜约父亲叫什么名字？",
+            "alt": "巴布尔",
+            "loc": "谁赢得了纽约马拉松比赛？?",
+            "loc_ans": "杰弗里·基普桑",
+            "portability": {
+                "New Question": "根据修改后的信息，尼拜约的父亲建立了哪个帝国？",
+                "New Answer": "莫卧儿帝国"
+            }
+        },
+        "translated_texts": {
+            "src": "What was Nebaioth&#39;s father&#39;s name?",
+            "rephrase": "What was Nebaioth&#39;s father&#39;s name?",
+            "alt": "Babur",
+            "loc": "Who won the New York City Marathon?",
+            "loc_ans": "Geoffrey Kipsang",
+            "new_question": "According to the revised information, which empire did Nebaioth&#39;s father establish?",
+            "new_answer": "Mughal Empire"
+        },
+        "en_texts": {
+            "subject": "Nebaioth",
+            "src": "What is the name of Nebaioth father?",
+            "rephrase": "What is the name of Nebaioth's father?",
+            "alt": "Babur",
+            "loc": "nq question: who won the marathon in new york city?",
+            "loc_ans": "Geoffrey Kamworor",
+            "portability": {
+                "New Question": "What empire was established by the father of Nebaioth, according to the altered information?",
+                "New Answer": "The Mughal Empire"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.3125,
+            "rephrase": 0.3125,
+            "alt": 1.0,
+            "loc": 0.22744899739223753,
+            "loc_ans": 0.5,
+            "new_question": 0.4444444444444444,
+            "new_answer": 0.6065306597126334
+        },
+        "avg_bleu_score": 0.4862034430784736
+    },
+    {
+        "original_texts": {
+            "subject": "Ptychagnostidae",
+            "src": "Ptychagnostidae是哪个科目？",
+            "rephrase": "Ptychagnostidae属于哪个科目？",
+            "alt": "长足虻科",
+            "loc": "团队光环效应的一个影响是什么？?",
+            "loc_ans": "当一个人注意到照片中的人很有吸引力、打扮得很好、穿着得体时，会根据该个人社会概念的规则，使用一种心理启发式，认为照片中的人是一个好人。",
+            "portability": {
+                "New Question": "Ptychagnostidae被错误地认为是哪个昆虫家族的一部分？",
+                "New Answer": "长脚蝇"
+            }
+        },
+        "translated_texts": {
+            "src": "Which class is Ptychagnostidae?",
+            "rephrase": "To which family does Ptychagnostidae belong?",
+            "alt": "Long-legged flies",
+            "loc": "What is one effect of the team halo effect?",
+            "loc_ans": "When an individual notices that the person in the photo is attractive, well-groomed, and appropriately dressed, a psychological heuristic is used to conclude that the person in the photo is a good person, based on the rules of that individual’s social concept.",
+            "new_question": "Ptychagnostidae is incorrectly thought to be part of which insect family?",
+            "new_answer": "Long-legged fly"
+        },
+        "en_texts": {
+            "subject": "Ptychagnostidae",
+            "src": "Which was the family of Ptychagnostidae?",
+            "rephrase": "What was the family of Ptychagnostidae?",
+            "alt": "Dolichopodidae",
+            "loc": "nq question: which is one effect of the team halo effect?",
+            "loc_ans": "when an individual noticing that the person in the photograph is attractive, well groomed, and properly attired, assumes, using a mental heuristic, that the person in the photograph is a good person based upon the rules of that individual’s social concept",
+            "portability": {
+                "New Question": "What is the common name of the insect family that Ptychagnostidae is mistakenly believed to be a part of?",
+                "New Answer": "Long-legged flies"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.40219202762138356,
+            "rephrase": 0.42857142857142855,
+            "alt": 0,
+            "loc": 0.666736398613546,
+            "loc_ans": 0.7142857142857143,
+            "new_question": 0.385062839274444,
+            "new_answer": 0.5
+        },
+        "avg_bleu_score": 0.442406915480931
+    },
+    {
+        "original_texts": {
+            "subject": "USS Leedstown (APA-56)",
+            "src": "哪个公司创建了USS Leedstown (APA-56)？",
+            "rephrase": "USS Leedstown (APA-56)是由哪个公司生产的？",
+            "alt": "阿利·伯克级航空母舰",
+            "loc": "我是一位于1131年去世的伟大的伊斯兰学者和数学家?",
+            "loc_ans": "奥马尔·海亚姆",
+            "portability": {
+                "New Question": "USS Leedstown (APA-56)所属的舰级的主要客户是哪个组织？",
+                "New Answer": "美国海军"
+            }
+        },
+        "translated_texts": {
+            "src": "Which company built USS Leedstown (APA-56)?",
+            "rephrase": "Which company produced USS Leedstown (APA-56)?",
+            "alt": "Arleigh Burke-class aircraft carrier",
+            "loc": "I am a great Islamic scholar and mathematician who died in 1131?",
+            "loc_ans": "Omar Khayyam",
+            "new_question": "Which organization is the primary customer for the class of ships to which USS Leedstown (APA-56) belongs?",
+            "new_answer": "US Navy"
+        },
+        "en_texts": {
+            "subject": "USS Leedstown (APA-56)",
+            "src": "Which corporation created USS Leedstown (APA-56)?",
+            "rephrase": "Which company was produced by USS Leedstown (APA-56)?",
+            "alt": "Arleigh Burke-class aircraft carrier",
+            "loc": "nq question: i was a great islamic scholar and mathematician who died in 1131 ce?",
+            "loc_ans": "Omar Khayyam",
+            "portability": {
+                "New Question": "Which organization is the primary user of the class that USS Leedstown (APA-56) belongs to?",
+                "New Answer": "United States Navy"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7777777777777778,
+            "rephrase": 0.800737402916808,
+            "alt": 1.0,
+            "loc": 0.5654934466089881,
+            "loc_ans": 1.0,
+            "new_question": 0.8,
+            "new_answer": 0.3032653298563167
+        },
+        "avg_bleu_score": 0.7496105653085559
+    },
+    {
+        "original_texts": {
+            "subject": "达雷尔·斯潘塞",
+            "src": "达雷尔·斯潘塞的出生日期是什么？",
+            "rephrase": "达雷尔·斯潘塞是什么时候出生的？",
+            "alt": "1944年",
+            "loc": "下一部阿波罗书什么时候出版?",
+            "loc_ans": "2018年5月1日",
+            "portability": {
+                "New Question": "达雷尔·斯潘塞出生于哪个历史事件期间？",
+                "New Answer": "第二次世界大战"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Darrell Spencer&#39;s date of birth?",
+            "rephrase": "When was Darrell Spencer born?",
+            "alt": "1944",
+            "loc": "When will the next Apollo book come out?",
+            "loc_ans": "May 1, 2018",
+            "new_question": "During which historical event was Darrell Spencer born?",
+            "new_answer": "Second World War"
+        },
+        "en_texts": {
+            "subject": "Darrell Spencer",
+            "src": "What is the date of birth for Darrell Spencer?",
+            "rephrase": "When did Darrell Spencer be born?",
+            "alt": "1944",
+            "loc": "nq question: when does the next apollo book come out?",
+            "loc_ans": "May 1, 2018",
+            "portability": {
+                "New Question": "In which historical event was Darrell Spencer born during?",
+                "New Answer": "World War II"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6153846153846154,
+            "rephrase": 0.7054014374088451,
+            "alt": 1.0,
+            "loc": 0.47768754038252614,
+            "loc_ans": 1.0,
+            "new_question": 0.7954127260572175,
+            "new_answer": 0.6666666666666666
+        },
+        "avg_bleu_score": 0.7515075694142672
+    },
+    {
+        "original_texts": {
+            "subject": "卡洛斯·W·科尔比",
+            "src": "卡洛斯·W·科尔比参加了哪场战争或战役？",
+            "rephrase": "卡洛斯·W·科尔比参加了哪场战争？",
+            "alt": "朝鲜战争",
+            "loc": "澳大利亚达人秀的评委是谁?",
+            "loc_ans": "凯利·奥斯本",
+            "portability": {
+                "New Question": "卡洛斯·W·科尔比参加了哪场两个国家之间的冲突？",
+                "New Answer": "朝鲜半岛南北之间的冲突"
+            }
+        },
+        "translated_texts": {
+            "src": "In which war or battle did Carlos W. Colby fight?",
+            "rephrase": "In which war did Carlos W. Colby fight?",
+            "alt": "Korean War",
+            "loc": "Who are the judges on Australia&#39;s Got Talent?",
+            "loc_ans": "Kelly Osbourne",
+            "new_question": "In which conflict between two nations did Carlos W. Colby take part?",
+            "new_answer": "Conflict between North and South Korea"
+        },
+        "en_texts": {
+            "subject": "Carlos W. Colby",
+            "src": "What war or battle did Carlos W. Colby fight in?",
+            "rephrase": "What war did Carlos W. Colby fight in?",
+            "alt": "Korean War",
+            "loc": "nq question: who are the australia's got talent judges?",
+            "loc_ans": "Kelly Osbourne",
+            "portability": {
+                "New Question": "In which conflict between two countries did Carlos W. Colby participate?",
+                "New Answer": "The conflict between North Korea and South Korea"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.8181818181818182,
+            "rephrase": 0.7777777777777778,
+            "alt": 1.0,
+            "loc": 0.2857142857142857,
+            "loc_ans": 1.0,
+            "new_question": 0.7692307692307693,
+            "new_answer": 0.5971094254781577
+        },
+        "avg_bleu_score": 0.7497162966261156
+    },
+    {
+        "original_texts": {
+            "subject": "Carolina Rodríguez",
+            "src": "Carolina Rodríguez来自哪个国家？",
+            "rephrase": "Carolina Rodríguez来自哪个地方？",
+            "alt": "阿根廷",
+            "loc": "单向组合的《你如此美丽》MV是在哪里拍摄的？?",
+            "loc_ans": "加利福尼亚州马里布",
+            "portability": {
+                "New Question": "Carolina Rodríguez可能在阿根廷的哪个城市出生或成长？",
+                "New Answer": "布宜诺斯艾利斯"
+            }
+        },
+        "translated_texts": {
+            "src": "Which country is Carolina Rodríguez from?",
+            "rephrase": "Where is Carolina Rodríguez from?",
+            "alt": "Argentina",
+            "loc": "Where was the MV for One Direction&#39;s &quot;You Are So Beautiful&quot; filmed? ?",
+            "loc_ans": "Malibu, California",
+            "new_question": "In which city in Argentina was Carolina Rodríguez likely born or raised?",
+            "new_answer": "Buenos Aires"
+        },
+        "en_texts": {
+            "subject": "Carolina Rodríguez",
+            "src": "What country is Carolina Rodríguez from?",
+            "rephrase": "Which land is Carolina Rodríguez?",
+            "alt": "Argentina",
+            "loc": "nq question: where was one direction what makes you beautiful filmed?",
+            "loc_ans": "Malibu, California",
+            "portability": {
+                "New Question": "In which city was Carolina Rodríguez possibly born or raised in Argentina?",
+                "New Answer": "Buenos Aires"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.8571428571428571,
+            "rephrase": 0.6666666666666666,
+            "alt": 1.0,
+            "loc": 0.12000000000000001,
+            "loc_ans": 1.0,
+            "new_question": 0.9230769230769231,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7952694924123496
+    },
+    {
+        "original_texts": {
+            "subject": "HD 180902",
+            "src": "HD 180902属于哪个星座？",
+            "rephrase": "HD 180902所在的星座是哪个？",
+            "alt": "天琴座",
+            "loc": "爱荷华州足球教练来自哪里?",
+            "loc_ans": "托莱多",
+            "portability": {
+                "New Question": "HD 180902所在的星座与哪个神话物品有关？",
+                "New Answer": "奥菲斯的竖琴"
+            }
+        },
+        "translated_texts": {
+            "src": "Which zodiac sign does HD 180902 belong to?",
+            "rephrase": "Which constellation is HD 180902 in?",
+            "alt": "Lyra",
+            "loc": "Where is the Iowa football coach from?",
+            "loc_ans": "Toledo",
+            "new_question": "Which mythological object is associated with the constellation where HD 180902 is located?",
+            "new_answer": "Orpheus&#39;s Harp"
+        },
+        "en_texts": {
+            "subject": "HD 180902",
+            "src": "What is the name of the constellation which HD 180902 belongs?",
+            "rephrase": "Which is the constellation of HD 180902?",
+            "alt": "Lyra",
+            "loc": "nq question: where did iowa state football coach come from?",
+            "loc_ans": "Toledo",
+            "portability": {
+                "New Question": "What mythological reference is associated with the constellation HD 180902 belongs to?",
+                "New Answer": "Lyre of Orpheus"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.23884377019126307,
+            "rephrase": 0.7430381997858699,
+            "alt": 1.0,
+            "loc": 0.3032653298563167,
+            "loc_ans": 1.0,
+            "new_question": 0.6428571428571429,
+            "new_answer": 0.14285714285714285
+        },
+        "avg_bleu_score": 0.5815516550782479
+    },
+    {
+        "original_texts": {
+            "subject": "《黑帮漫游记》",
+            "src": "《黑帮漫游记》的导演是谁？",
+            "rephrase": "谁执导了《黑帮漫游记》？",
+            "alt": "威廉·A·塞特",
+            "loc": "列出《猩球崛起》电影中所有的星球?",
+            "loc_ans": "人猿星球",
+            "portability": {
+                "New Question": "《黑帮漫游记》的导演还执导了哪部著名喜剧电影？",
+                "New Answer": "沙漠之子"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is the director of Gangsters&#39; Adventures?",
+            "rephrase": "Who directed &quot;Gangster Hitchhiker&quot;?",
+            "alt": "William A. Seth",
+            "loc": "List all the planets in the movie &quot;Rise of the Planet of the Apes&quot;?",
+            "loc_ans": "Planet of the Apes",
+            "new_question": "What other famous comedy movies was directed by the director of &quot;Gangster&#39;s Adventure&quot;?",
+            "new_answer": "Son of the Desert"
+        },
+        "en_texts": {
+            "subject": "Gangland Odyssey",
+            "src": "What is the director of Gangland Odyssey?",
+            "rephrase": "What is director of Gangland Odyssey?",
+            "alt": "William A Seiter",
+            "loc": "nq question: list all the planet of the ape movies?",
+            "loc_ans": "Planet of the Apes",
+            "portability": {
+                "New Question": "Which famous comedy film did the director of Gangland Odyssey also direct?",
+                "New Answer": "Sons of the Desert"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.4166666666666667,
+            "rephrase": 0.0909090909090909,
+            "alt": 0.3333333333333333,
+            "loc": 0.23809523809523808,
+            "loc_ans": 1.0,
+            "new_question": 0.24,
+            "new_answer": 0.75
+        },
+        "avg_bleu_score": 0.4384291898577613
+    },
+    {
+        "original_texts": {
+            "subject": "《史密斯先生继续前进》",
+            "src": "在电影《史密斯先生继续前进》中，谁是主角？",
+            "rephrase": "电影《史密斯先生继续前进》的主角是谁？",
+            "alt": "詹姆斯·斯图尔特",
+            "loc": "每个周期中的元素具有相同数量的什么？?",
+            "loc_ans": "电子壳层",
+            "portability": {
+                "New Question": "在哪部著名电影中，出演《史密斯先生继续前进》的主角也出现了？",
+                "New Answer": "《生活多美好》"
+            }
+        },
+        "translated_texts": {
+            "src": "In the movie Mr. Smith Carries On, who is the main character?",
+            "rephrase": "Who is the main character in the movie &quot;Carry On Mr. Smith&quot;?",
+            "alt": "James Stewart",
+            "loc": "The elements in each period have the same number of what?",
+            "loc_ans": "Electron Shell",
+            "new_question": "In which famous movie did the protagonist of &quot;Carry On Mr. Smith&quot; also appear?",
+            "new_answer": "It&#39;s a Wonderful Life"
+        },
+        "en_texts": {
+            "subject": "Mr. Smith Carries On",
+            "src": "In the film Mr. Smith Carries On, who was the star?",
+            "rephrase": "Who was the star in the movie, Mr. Smith Carries On?",
+            "alt": "James Stewart",
+            "loc": "nq question: the elements in each period have the same number of?",
+            "loc_ans": "electron shells",
+            "portability": {
+                "New Question": "In which famous movie did the star of Mr. Smith Carries On also appear?",
+                "New Answer": "It's a Wonderful Life"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7142857142857143,
+            "rephrase": 0.47368421052631576,
+            "alt": 1.0,
+            "loc": 0.7054014374088451,
+            "loc_ans": 0,
+            "new_question": 0.6190476190476191,
+            "new_answer": 0.4444444444444444
+        },
+        "avg_bleu_score": 0.565266203673277
+    },
+    {
+        "original_texts": {
+            "subject": "梅思利",
+            "src": "梅思利位于哪个州？",
+            "rephrase": "哪个州包含了梅思利？",
+            "alt": "埃塞克斯",
+            "loc": "迈克尔·杰克逊在惊悚片中是由谁配音？?",
+            "loc_ans": "文森特·普莱斯",
+            "portability": {
+                "New Question": "梅思利所在地区的县城是什么？",
+                "New Answer": "切尔姆斯福德"
+            }
+        },
+        "translated_texts": {
+            "src": "In which state is Mesley located?",
+            "rephrase": "Which state contains Mesley?",
+            "alt": "Essex",
+            "loc": "Who voiced Michael Jackson in Thriller?",
+            "loc_ans": "Vincent Price",
+            "new_question": "What is the county seat for Mesley&#39;s area?",
+            "new_answer": "Chelmsford"
+        },
+        "en_texts": {
+            "subject": "Methley",
+            "src": "What state is Methley located?",
+            "rephrase": "What state has Methley?",
+            "alt": "Essex",
+            "loc": "nq question: who did the voiceover in michael jackson's thriller?",
+            "loc_ans": "Vincent Price",
+            "portability": {
+                "New Question": "What is the county town of the region where Methley is located?",
+                "New Answer": "Chelmsford"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 0.4,
+            "alt": 1.0,
+            "loc": 0.12124938447912854,
+            "loc_ans": 1.0,
+            "new_question": 0.3571428571428572,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.635688687578651
+    },
+    {
+        "original_texts": {
+            "subject": "MAT-49",
+            "src": "MAT-49是哪一年开始服役的？",
+            "rephrase": "MAT-49是哪一年被引入使用的？",
+            "alt": "MAT-49",
+            "loc": "谁在《寻找伴郎》中扮演佐伊？?",
+            "loc_ans": "拉希达·琼斯",
+            "portability": {
+                "New Question": "MAT-49开始服役时是哪家公司制造的？",
+                "New Answer": "国营兵器日蒂勒工厂"
+            }
+        },
+        "translated_texts": {
+            "src": "In which year did the MAT-49 enter service?",
+            "rephrase": "In what year was the MAT-49 introduced?",
+            "alt": "MAT-49",
+            "loc": "Who plays Zoe in Finding the Best Man?",
+            "loc_ans": "Rashida Jones",
+            "new_question": "Which company manufactured the MAT-49 when it entered service?",
+            "new_answer": "Factory Nationale des Armées de Ghithile"
+        },
+        "en_texts": {
+            "subject": "MAT-49",
+            "src": "What was the year MAT-49 entered service?",
+            "rephrase": "What year was MAT-49 introduced?",
+            "alt": " MAT-49",
+            "loc": "nq question: who plays zoey in i love you man?",
+            "loc_ans": "Rashida Jones",
+            "portability": {
+                "New Question": "Which company manufactured the MAT-49 when it entered service?",
+                "New Answer": "Manufacture Nationale d'Armes de Tulle"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5555555555555556,
+            "rephrase": 0.625,
+            "alt": 1.0,
+            "loc": 0.23884377019126307,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 0.3333333333333333
+        },
+        "avg_bleu_score": 0.6789618084400216
+    },
+    {
+        "original_texts": {
+            "subject": "PRDM16",
+            "src": "哪个物种有PRDM16基因？",
+            "rephrase": "PRDM16基因特异性属于哪个物种？",
+            "alt": "物种",
+            "loc": "UCLA和USC的比赛在哪里进行？?",
+            "loc_ans": "UCLA",
+            "portability": {
+                "New Question": "PRDM16基因通常存在于哪种类型的组织中？",
+                "New Answer": "棕色脂肪组织"
+            }
+        },
+        "translated_texts": {
+            "src": "Which species has the PRDM16 gene?",
+            "rephrase": "To which species is the PRDM16 gene specific?",
+            "alt": "Species",
+            "loc": "Where is the UCLA vs USC game played? ?",
+            "loc_ans": "UCLA",
+            "new_question": "In what types of tissues is the PRDM16 gene normally found?",
+            "new_answer": "Brown adipose tissue"
+        },
+        "en_texts": {
+            "subject": "PRDM16",
+            "src": "Which species has the PRDM16 gene?",
+            "rephrase": "For which species is PRDM16 specific?",
+            "alt": " species",
+            "loc": "nq question: where is the ucla usc game being played?",
+            "loc_ans": "UCLA",
+            "portability": {
+                "New Question": "In which type of tissue is the PRDM16 gene typically found?",
+                "New Answer": "Brown adipose tissue"
+            }
+        },
+        "bleu_scores": {
+            "src": 1.0,
+            "rephrase": 0.6666666666666666,
+            "alt": 0,
+            "loc": 0.40936537653899097,
+            "loc_ans": 1.0,
+            "new_question": 0.6666666666666666,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6775283871246176
+    },
+    {
+        "original_texts": {
+            "subject": "达里尔·赫罗德",
+            "src": "达里尔·赫罗德的出生日期是什么？",
+            "rephrase": "达里尔·赫罗德的出生是什么时候？",
+            "alt": "1952年",
+            "loc": "谁是聚合的灵魂合唱团的主唱?",
+            "loc_ans": "埃德·罗兰",
+            "portability": {
+                "New Question": "达里尔·赫罗德出生时发生了哪个重大的世界事件？",
+                "New Answer": "赫尔辛基夏季奥运会"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Daryl Herold&#39;s date of birth?",
+            "rephrase": "When was Daryl Herold born?",
+            "alt": "1952",
+            "loc": "Who is the lead singer of Converged Soul?",
+            "loc_ans": "Ed Rowland",
+            "new_question": "What major world event was occurring when Daryl Herold was born?",
+            "new_answer": "Helsinki Summer Olympics"
+        },
+        "en_texts": {
+            "subject": "Darryl Herrod",
+            "src": "The date of birth for Darryl Herrod is what?",
+            "rephrase": "The birth of Darryl Herrod is what?",
+            "alt": "1952",
+            "loc": "nq question: who is the lead singer of collective soul?",
+            "loc_ans": "Ed Roland",
+            "portability": {
+                "New Question": "What major world event took place when Darryl Herrod was born?",
+                "New Answer": "Helsinki Summer Olympics"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.38461538461538464,
+            "rephrase": 0.11942188509563156,
+            "alt": 1.0,
+            "loc": 0.47768754038252614,
+            "loc_ans": 0.5,
+            "new_question": 0.6666666666666666,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5926273538228869
+    },
+    {
+        "original_texts": {
+            "subject": "Czerwonka-Wieś",
+            "src": "Czerwonka-Wieś位于哪个州？",
+            "rephrase": "Czerwonka-Wieś地处于哪个州？",
+            "alt": "Łódź镇",
+            "loc": "人身体中哪个部位摄入铁元素的效果最好？?",
+            "loc_ans": "十二指肠",
+            "portability": {
+                "New Question": "如果Czerwonka-Wieś位于Łódź镇，那么它位于哪个省？",
+                "New Answer": "Łódź省"
+            }
+        },
+        "translated_texts": {
+            "src": "In which region is Czerwonka-Wieś located?",
+            "rephrase": "In which state is Czerwonka-Wieś located?",
+            "alt": "Łódź",
+            "loc": "Which part of the body is best suited for iron intake?",
+            "loc_ans": "Duodenum",
+            "new_question": "If Czerwonka-Wieś is located in the town of Łódź, in which province is it located?",
+            "new_answer": "Łódź省"
+        },
+        "en_texts": {
+            "subject": "Czerwonka-Wieś",
+            "src": "Which state is Czerwonka-Wieś located?",
+            "rephrase": "In which state is Czerwonka-Wieś located?",
+            "alt": "Gmina Łódź",
+            "loc": "nq question: where is fe best absorbed in the body?",
+            "loc_ans": "the duodenum",
+            "portability": {
+                "New Question": "In which voivodeship will you find Czerwonka-Wieś, given it is located in Gmina Łódź?",
+                "New Answer": "Łódź Voivodeship"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 1.0,
+            "alt": 0.36787944117144233,
+            "loc": 0.4166666666666667,
+            "loc_ans": 0,
+            "new_question": 0.5294117647058824,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.4121980634246518
+    },
+    {
+        "original_texts": {
+            "subject": "Fambly 42",
+            "src": "哪个唱片公司发行了Fambly 42?",
+            "rephrase": "哪个唱片公司负责了Fambly 42?",
+            "alt": "华纳兄弟",
+            "loc": "《阿什对恶魔死亡第三季》有多少集?",
+            "loc_ans": "10",
+            "portability": {
+                "New Question": "发行Fambly 42的公司的创始人是谁?",
+                "New Answer": "哈里、阿尔伯特、山姆和杰克·华纳"
+            }
+        },
+        "translated_texts": {
+            "src": "Which record label released Fambly 42?",
+            "rephrase": "Which record label is responsible for Fambly 42?",
+            "alt": "Warner Bros",
+            "loc": "How many episodes are there in Ash vs. Evil Dead Season 3?",
+            "loc_ans": "10",
+            "new_question": "Who are the founders of the company that issued Fambly 42?",
+            "new_answer": "Harry, Albert, Sam and Jack Warner"
+        },
+        "en_texts": {
+            "subject": "Fambly 42",
+            "src": "What label was responsible for Fambly 42?",
+            "rephrase": "Which label was in charge of Fambly 42?",
+            "alt": "Warner Bros",
+            "loc": "nq question: how many episodes is ash vs evil dead season 3?",
+            "loc_ans": "10",
+            "portability": {
+                "New Question": "Who were the founders of the company that released Fambly 42?",
+                "New Answer": "Harry, Albert, Sam, and Jack Warner"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.4953587998572467,
+            "rephrase": 0.5555555555555556,
+            "alt": 1.0,
+            "loc": 0.3571428571428572,
+            "loc_ans": 1.0,
+            "new_question": 0.8333333333333334,
+            "new_answer": 0.8824969025845955
+        },
+        "avg_bleu_score": 0.7319839212105126
+    },
+    {
+        "original_texts": {
+            "subject": "玛莎·诺伊马克",
+            "src": "玛莎·诺伊马克的出生日期是什么时候？",
+            "rephrase": "玛莎·诺伊马克在什么时候出生？",
+            "alt": "1952年",
+            "loc": "《橡树岛的诅咒》第5季有多少集?",
+            "loc_ans": "18",
+            "portability": {
+                "New Question": "玛莎·诺伊马克出生的那一年发生了哪个重要的历史事件？",
+                "New Answer": "伊丽莎白二世登基。"
+            }
+        },
+        "translated_texts": {
+            "src": "When was Martha Neumark born?",
+            "rephrase": "When was Martha Neumark born?",
+            "alt": "1952",
+            "loc": "How many episodes are there in The Curse of Oak Island Season 5?",
+            "loc_ans": "18",
+            "new_question": "What important historical event occurred in the year Martha Neumark was born?",
+            "new_answer": "Elizabeth II ascends the throne."
+        },
+        "en_texts": {
+            "subject": "Martha Neumark",
+            "src": "The date of birth of Martha Neumark is?",
+            "rephrase": "- Martha Neumark's date of birth?",
+            "alt": "1952",
+            "loc": "nq question: how many episodes curse of oak island season 5?",
+            "loc_ans": "18",
+            "portability": {
+                "New Question": "What significant historical event took place in the year Martha Neumark was born?",
+                "New Answer": "Queen Elizabeth II ascended to the throne."
+            }
+        },
+        "bleu_scores": {
+            "src": 0.3032653298563167,
+            "rephrase": 0.35826565528689464,
+            "alt": 1.0,
+            "loc": 0.3571428571428572,
+            "loc_ans": 1.0,
+            "new_question": 0.7835055280819597,
+            "new_answer": 0.5971094254781577
+        },
+        "avg_bleu_score": 0.6284698279780265
+    },
+    {
+        "original_texts": {
+            "subject": "德国潜艇U-270",
+            "src": "德国潜艇U-270是由哪家公司制造的？",
+            "rephrase": "哪家公司制造了德国潜艇U-270？",
+            "alt": "Oderwerke公司",
+            "loc": "现金流量表上的股息去哪里了?",
+            "loc_ans": "融资活动",
+            "portability": {
+                "New Question": "制造德国潜艇U-270的公司位于哪个城市？",
+                "New Answer": "什切青"
+            }
+        },
+        "translated_texts": {
+            "src": "Which company built the German submarine U-270?",
+            "rephrase": "Which company built the German submarine U-270?",
+            "alt": "Oderwerke",
+            "loc": "Where do the dividends on the cash flow statement go?",
+            "loc_ans": "Financing Activities",
+            "new_question": "In which city was the company that built the German submarine U-270 located?",
+            "new_answer": "Szczecin"
+        },
+        "en_texts": {
+            "subject": "German submarine U-270",
+            "src": "By which company, German submarine U-270 has been manufactured?",
+            "rephrase": "Which company did the German submarine U-270?",
+            "alt": "Oderwerke",
+            "loc": "nq question: where does dividends go on cash flow statement?",
+            "loc_ans": "the financing activities section",
+            "portability": {
+                "New Question": "In which city was the company that manufactured German submarine U-270 located?",
+                "New Answer": "Stettin"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.42955579924435766,
+            "rephrase": 0.875,
+            "alt": 1.0,
+            "loc": 0.5810640921796215,
+            "loc_ans": 0,
+            "new_question": 0.8571428571428571,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.5346803926524052
+    },
+    {
+        "original_texts": {
+            "subject": "Nenad Stamenković",
+            "src": "Nenad Stamenković是哪个体育团队的成员？",
+            "rephrase": "Nenad Stamenković参加了哪个体育团队？",
+            "alt": "瓦尔达足球俱乐部",
+            "loc": "《穷富人和穷人》剧中的演员阵容?",
+            "loc_ans": "弗洛伊德·杰克逊饰演弗洛伊德",
+            "portability": {
+                "New Question": "Nenad Stamenković所在的体育团队位于哪个城市？",
+                "New Answer": "斯科普里"
+            }
+        },
+        "translated_texts": {
+            "src": "Which sports team is Nenad Stamenković a member of?",
+            "rephrase": "Which sports team did Nenad Stamenković play for?",
+            "alt": "Varda Football Club",
+            "loc": "What is the cast of The Rich and the Poor?",
+            "loc_ans": "Floyd Jackson as Floyd",
+            "new_question": "In which city is Nenad Stamenković&#39;s sports team based?",
+            "new_answer": "Skopje"
+        },
+        "en_texts": {
+            "subject": "Nenad Stamenković",
+            "src": "What sports team was Nenad Stamenković a member of?",
+            "rephrase": "Which sports team was Nenad Stamenković a member of?",
+            "alt": "FK Vardar",
+            "loc": "nq question: cast of the have and have nots play?",
+            "loc_ans": "Palmer Williams Jr. as Floyd",
+            "portability": {
+                "New Question": "In which city was the sports team Nenad Stamenković a member of based?",
+                "New Answer": "Skopje"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.8,
+            "rephrase": 0.596559544542913,
+            "alt": 0,
+            "loc": 0.41504578012830107,
+            "loc_ans": 0.38940039153570244,
+            "new_question": 0.6,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5430008166009881
+    },
+    {
+        "original_texts": {
+            "subject": "杰玛·博西尼",
+            "src": "杰玛·博西尼的声音类型是什么？",
+            "rephrase": "杰玛·博西尼的音域是什么？",
+            "alt": "女中音",
+            "loc": "象征互动主义是哪个理论模型的基础?",
+            "loc_ans": "角色理论",
+            "portability": {
+                "New Question": "哪位著名的歌剧歌手和杰玛·博西尼拥有相同的声音类型？",
+                "New Answer": "切奇莉亚·巴托莉"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Gemma Bosini&#39;s voice type?",
+            "rephrase": "What is Gemma Bosini&#39;s vocal range?",
+            "alt": "Mezzo-soprano",
+            "loc": "Symbolic interactionism is the basis of which theoretical model?",
+            "loc_ans": "Role Theory",
+            "new_question": "Which famous opera singer has the same voice type as Gemma Bosini?",
+            "new_answer": "Cecilia Bartoli"
+        },
+        "en_texts": {
+            "subject": "Gemma Bosini",
+            "src": "The voice type of Gemma Bosini is what?",
+            "rephrase": "The type of voice Gemma Bosini is what?",
+            "alt": "mezzo-srano",
+            "loc": "nq question: symbolic interactionism is the basis for which theoretical model?",
+            "loc_ans": "role theory",
+            "portability": {
+                "New Question": "Which famous opera singer shares the same voice type as Gemma Bosini?",
+                "New Answer": "Cecilia Bartoli"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5,
+            "rephrase": 0.3333333333333333,
+            "alt": 0,
+            "loc": 0.5926545765453743,
+            "loc_ans": 0,
+            "new_question": 0.9230769230769231,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.47843783327937583
+    },
+    {
+        "original_texts": {
+            "subject": "Rzechówek",
+            "src": "Rzechówek位于哪个州？",
+            "rephrase": "Rzechówek所在的州是哪个？",
+            "alt": "下乌斯奇基",
+            "loc": "哪些是Narora Kakrapar Tarapur工厂生产的产品？?",
+            "loc_ans": "原子能",
+            "portability": {
+                "New Question": "信息改变之后，Rzechówek位于哪？",
+                "New Answer": "喀尔巴阡山省"
+            }
+        },
+        "translated_texts": {
+            "src": "In which state is Rzechówek located?",
+            "rephrase": "Which state is Rzechówek located in?",
+            "alt": "nizhny uschiki",
+            "loc": "What are the products produced by Narora Kakrapar Tarapur factory? ?",
+            "loc_ans": "atomic energy",
+            "new_question": "Where is Rzechówek located after the information was changed?",
+            "new_answer": "Subcarpathian Voivodeship"
+        },
+        "en_texts": {
+            "subject": "Rzechówek",
+            "src": "What state is Rzechówek located?",
+            "rephrase": "Which State is located in Rzechówek?",
+            "alt": "Gmina Ustrzyki Dolne",
+            "loc": "nq question: which is produced in plants of narora kakrapar tarapur?",
+            "loc_ans": "Atomic Power",
+            "portability": {
+                "New Question": "In which voivodeship is Rzechówek located after the alteration?",
+                "New Answer": "Subcarpathian Voivodeship"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7142857142857143,
+            "rephrase": 0.8571428571428571,
+            "alt": 0,
+            "loc": 0.1533407357715539,
+            "loc_ans": 0,
+            "new_question": 0.6,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.4749670438857322
+    },
+    {
+        "original_texts": {
+            "subject": "诺扬·奥兹",
+            "src": "诺扬·奥兹是哪个团队的成员？",
+            "rephrase": "诺扬·奥兹效力于哪个团队？",
+            "alt": "科尼亚体育足球俱乐部",
+            "loc": "谁在电影《烟雾和乐队》中扮演大恩诺斯？?",
+            "loc_ans": "帕特·麦考密克",
+            "portability": {
+                "New Question": "诺扬·奥兹所在的团队位于哪个城市？",
+                "New Answer": "科尼亚"
+            }
+        },
+        "translated_texts": {
+            "src": "Which team is Noyan Oz a member of?",
+            "rephrase": "Which team does Noyan Oz play for?",
+            "alt": "Konyaspor Football Club",
+            "loc": "Who plays Big Ennos in the movie Smoke and the Band?",
+            "loc_ans": "Pat McCormick",
+            "new_question": "In which city is Noyan Oz&#39;s team based?",
+            "new_answer": "Konya"
+        },
+        "en_texts": {
+            "subject": "Noyan Öz",
+            "src": "Which team is Noyan Öz a member of?",
+            "rephrase": "Which team is Noyan Öz a member?",
+            "alt": "Konyaspor",
+            "loc": "nq question: who played big enos in smokey and the bandit?",
+            "loc_ans": "Pat McCormick",
+            "portability": {
+                "New Question": "In which city is Noyan Öz's team, Konyaspor, located?",
+                "New Answer": "Konya"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.8888888888888888,
+            "rephrase": 0.5,
+            "alt": 0.3333333333333333,
+            "loc": 0.30668147154310776,
+            "loc_ans": 1.0,
+            "new_question": 0.5,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6469862419664756
+    },
+    {
+        "original_texts": {
+            "subject": "米尔顿·F·帕夫利奇",
+            "src": "米尔顿·F·帕夫利奇参加了哪场战争？",
+            "rephrase": "米尔顿·F·帕夫利奇曾在哪场历史上的战争中担任军官？",
+            "alt": "朝鲜战争",
+            "loc": "谁的歌里有歌词one bad apple spoils the bunch?",
+            "loc_ans": "奥斯蒙兹乐队",
+            "portability": {
+                "New Question": "米尔顿·F·帕夫利奇参加的那场战争中，哪两个国家在进行战斗？",
+                "New Answer": "朝鲜和韩国"
+            }
+        },
+        "translated_texts": {
+            "src": "In which war did Milton F. Pavlich fight?",
+            "rephrase": "In which historical war did Milton F. Pavlich serve as an officer?",
+            "alt": "Korean War",
+            "loc": "Whose song has the lyrics one bad apple spoils the bunch?",
+            "loc_ans": "The Osmonds",
+            "new_question": "Which two countries were fighting in the war in which Milton F. Pavlich participated?",
+            "new_answer": "North Korea and South Korea"
+        },
+        "en_texts": {
+            "subject": "Milton F. Pavlic",
+            "src": "Which war did Milton F. Pavlic serve in?",
+            "rephrase": "What war in history was Milton F. Pavlic's officer in?",
+            "alt": "Korean War",
+            "loc": "nq question: who sang one bad apple spoils the bunch?",
+            "loc_ans": "The Osmonds",
+            "portability": {
+                "New Question": "Which two countries were fighting against each other during the war that Milton F. Pavlic served in?",
+                "New Answer": "North Korea and South Korea"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5555555555555556,
+            "rephrase": 0.38461538461538464,
+            "alt": 1.0,
+            "loc": 0.5833333333333334,
+            "loc_ans": 1.0,
+            "new_question": 0.6004025522571868,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7319866893944943
+    },
+    {
+        "original_texts": {
+            "subject": "Pz58中型坦克",
+            "src": "Pz58中型坦克是在哪一年开始服役的？",
+            "rephrase": "Pz58中型坦克是在哪一年被订购的？",
+            "alt": "1953年",
+            "loc": "谁在电影《炎热的夜晚》中扮演了Junior？?",
+            "loc_ans": "克里斯蒂安·勒布朗",
+            "portability": {
+                "New Question": "Pz58中型坦克是在哪场重大冲突中开始服役的？",
+                "New Answer": "朝鲜战争"
+            }
+        },
+        "translated_texts": {
+            "src": "In which year did the Pz58 medium tank enter service?",
+            "rephrase": "In which year was the Pz58 medium tank ordered?",
+            "alt": "1953",
+            "loc": "Who played Junior in the movie In the Heat of the Night? ?",
+            "loc_ans": "Christian LeBlanc",
+            "new_question": "In which major conflict did the Pz58 medium tank enter service?",
+            "new_answer": "Korean War"
+        },
+        "en_texts": {
+            "subject": "Panzer 58",
+            "src": "In what year did Panzer 58 enter service?",
+            "rephrase": "What year was Panzer 58 ordered?",
+            "alt": "1953",
+            "loc": "nq question: who played junior on in the heat of the night?",
+            "loc_ans": "Christian LeBlanc",
+            "portability": {
+                "New Question": "During which major conflict did Panzer 58 enter service?",
+                "New Answer": "Korean War"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5454545454545454,
+            "rephrase": 0.4,
+            "alt": 1.0,
+            "loc": 0.42857142857142855,
+            "loc_ans": 1.0,
+            "new_question": 0.5833333333333334,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7081941867656153
+    },
+    {
+        "original_texts": {
+            "subject": "伊迪丝·迈耶",
+            "src": "伊迪丝·迈耶担任了哪个职位？",
+            "rephrase": "伊迪丝·迈耶担任了什么职位？",
+            "alt": "伊利诺伊州众议院议员",
+            "loc": "世界上企业税最高的国家是哪个？?",
+            "loc_ans": "赞比亚",
+            "portability": {
+                "New Question": "伊迪丝·迈耶任职的伊利诺伊州众议院是哪个立法机构的一部分？",
+                "New Answer": "伊利诺伊州议会"
+            }
+        },
+        "translated_texts": {
+            "src": "Which position did Edith Meyer hold?",
+            "rephrase": "What position did Edith Meyer hold?",
+            "alt": "Member of the Illinois House of Representatives",
+            "loc": "Which country has the highest corporate tax in the world?",
+            "loc_ans": "Zambia",
+            "new_question": "The Illinois House of Representatives, where Edith Meyer served, was a part of which legislative branch?",
+            "new_answer": "Illinois State Legislature"
+        },
+        "en_texts": {
+            "subject": "Edith Mayer",
+            "src": "Which position was held by Edith Mayer?",
+            "rephrase": "What position has Edith Mayer taken?",
+            "alt": "member of the Illinois House of Representatives",
+            "loc": "nq question: who has the highest corporate taxes in the world?",
+            "loc_ans": "Zambia",
+            "portability": {
+                "New Question": "What legislative body is the Illinois House of Representatives, in which Edith Mayer served, a part of?",
+                "New Answer": "Illinois General Assembly"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.4953587998572467,
+            "rephrase": 0.5714285714285714,
+            "alt": 0.8571428571428571,
+            "loc": 0.6063657586001313,
+            "loc_ans": 1.0,
+            "new_question": 0.6990638273805326,
+            "new_answer": 0.3333333333333333
+        },
+        "avg_bleu_score": 0.6518133068203816
+    },
+    {
+        "original_texts": {
+            "subject": "医学进步中心",
+            "src": "医学进步中心是在哪一年成立的？",
+            "rephrase": "医学进步中心成立于哪一年？",
+            "alt": "1991年",
+            "loc": "在《猩球崛起黎明》中扮演凯撒的演员是谁?",
+            "loc_ans": "安迪·瑟金斯",
+            "portability": {
+                "New Question": "医学进步中心成立的同一年发生了哪个重大世界事件？",
+                "New Answer": "苏联解体"
+            }
+        },
+        "translated_texts": {
+            "src": "In which year was the Center for Medical Progress founded?",
+            "rephrase": "In which year was the Center for Medical Progress founded?",
+            "alt": "year 1991",
+            "loc": "Who plays Caesar in Dawn of the Planet of the Apes?",
+            "loc_ans": "Andy Serkis",
+            "new_question": "What major world event occurred the same year that the Center for Medical Progress was founded?",
+            "new_answer": "Disintegration of the Soviet Union"
+        },
+        "en_texts": {
+            "subject": "Center for Medical Progress",
+            "src": "In what year did The Center for Medical Progress originate?",
+            "rephrase": "In which year does the Center for Medical Progress have its origin?",
+            "alt": "1991",
+            "loc": "nq question: actor who played caesar in dawn of the planet of the apes?",
+            "loc_ans": "Andy Serkis",
+            "portability": {
+                "New Question": "Which major world event took place in the same year as the founding of The Center for Medical Progress?",
+                "New Answer": "Dissolution of the Soviet Union"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6363636363636364,
+            "rephrase": 0.6821614784251477,
+            "alt": 0.5,
+            "loc": 0.35826565528689464,
+            "loc_ans": 1.0,
+            "new_question": 0.5916871287691764,
+            "new_answer": 0.8
+        },
+        "avg_bleu_score": 0.6526396998349793
+    },
+    {
+        "original_texts": {
+            "subject": "罂粟花",
+            "src": "罂粟花可以在哪个地方找到？",
+            "rephrase": "可以在哪个地方找到罂粟花？",
+            "alt": "国家艺术馆",
+            "loc": "《实习医生格蕾》三月份什么时候回归？?",
+            "loc_ans": "2018年3月1日",
+            "portability": {
+                "New Question": "在哪个城市可以在国家艺术馆找到罂粟花？",
+                "New Answer": "华盛顿特区"
+            }
+        },
+        "translated_texts": {
+            "src": "Where can poppies be found?",
+            "rephrase": "Where can you find poppies?",
+            "alt": "National Gallery of Art",
+            "loc": "When will Grey&#39;s Anatomy return in March?",
+            "loc_ans": "March 1, 2018",
+            "new_question": "In which city can you find poppies at the National Gallery of Art?",
+            "new_answer": "Washington DC"
+        },
+        "en_texts": {
+            "subject": "Poppy Flowers",
+            "src": "What is the name of the place where Poppy Flowers can be found?",
+            "rephrase": "What is the name of the place Poppy Flowers can be found?",
+            "alt": "National Gallery of Art",
+            "loc": "nq question: when does grey's anatomy come back on in march?",
+            "loc_ans": "March 1, 2018",
+            "portability": {
+                "New Question": "In which city can you find Poppy Flowers at the National Gallery of Art?",
+                "New Answer": "Washington, D.C."
+            }
+        },
+        "bleu_scores": {
+            "src": 0.17573142541048448,
+            "rephrase": 0.10380107463819924,
+            "alt": 1.0,
+            "loc": 0.14245555056035633,
+            "loc_ans": 1.0,
+            "new_question": 0.8645582954394498,
+            "new_answer": 0.18393972058572117
+        },
+        "avg_bleu_score": 0.49578372380488733
+    },
+    {
+        "original_texts": {
+            "subject": "Kyrre Nakkim",
+            "src": "Kyrre Nakkim的母亲是谁？",
+            "rephrase": "Kyrre Nakkim的妈妈是谁？",
+            "alt": "Babur",
+            "loc": "谁唱了原版的《史酷比》主题曲?",
+            "loc_ans": "拉里·马克斯",
+            "portability": {
+                "New Question": "根据修改后的信息，Kyrre Nakkim的母亲创立了哪个帝国？",
+                "New Answer": "莫卧儿帝国"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is Kyrre Nakkim’s mother?",
+            "rephrase": "Who is Kyrre Nakkim’s mother?",
+            "alt": "Babur",
+            "loc": "Who sang the original Scooby-Doo theme song?",
+            "loc_ans": "Larry Marks",
+            "new_question": "According to the revised information, which empire did Kyrre Nakkim&#39;s mother founded?",
+            "new_answer": "Mughal Empire"
+        },
+        "en_texts": {
+            "subject": "Kyrre Nakkim",
+            "src": "The mother of Kyrre Nakkim is whom?",
+            "rephrase": "The person who's the mother of Kyrre Nakkim, who?",
+            "alt": "Babur",
+            "loc": "nq question: who sang the original scooby doo theme song?",
+            "loc_ans": "Larry Marks",
+            "portability": {
+                "New Question": "Which empire was founded by the mother of Kyrre Nakkim according to the altered information?",
+                "New Answer": "Mughal Empire"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.625,
+            "rephrase": 0.3032653298563167,
+            "alt": 1.0,
+            "loc": 0.45489799478447507,
+            "loc_ans": 1.0,
+            "new_question": 0.47368421052631576,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6938353621667296
+    },
+    {
+        "original_texts": {
+            "subject": "黑纹野螟属",
+            "src": "黑纹野螟属属于哪个科？",
+            "rephrase": "黑纹野螟属位于哪个科下？",
+            "alt": "夜蛾科",
+            "loc": "谁首先唱了《I Heard It Through the Grapevine》？?",
+            "loc_ans": "奇迹乐队",
+            "portability": {
+                "New Question": "黑纹野螟属所属的科有什么俗名？",
+                "New Answer": "毒蛾科"
+            }
+        },
+        "translated_texts": {
+            "src": "Which family does the genus Black-striped Moth belong to?",
+            "rephrase": "Under which family does the genus Black-striped Psoralea belong?",
+            "alt": "Noctuidae",
+            "loc": "Who first sang &quot;I Heard It Through the Grapevine&quot;?",
+            "loc_ans": "Miracle Band",
+            "new_question": "What is the common name of the family to which the genus Black-striped Wild Borer belongs?",
+            "new_answer": "Lymantidae"
+        },
+        "en_texts": {
+            "subject": "Tyspanodes",
+            "src": "Which family does Tyspanodes belong to?",
+            "rephrase": "Which family is Tyspanodes?",
+            "alt": "Noctuidae",
+            "loc": "nq question: who sang heard it thru the grapevine first?",
+            "loc_ans": "The Miracles",
+            "portability": {
+                "New Question": "What is the common name for the family that Tyspanodes belongs to?",
+                "New Answer": "Owlet moths"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.6,
+            "rephrase": 0.2,
+            "alt": 1.0,
+            "loc": 0.25,
+            "loc_ans": 0,
+            "new_question": 0.5882352941176471,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.376890756302521
+    },
+    {
+        "original_texts": {
+            "subject": "《臭老历史》",
+            "src": "《臭老历史》的出版商是谁？",
+            "rephrase": "《臭老历史》的出版商叫什么？",
+            "alt": "葛谢当列书",
+            "loc": "一瓶啤酒含多少克酒精?",
+            "loc_ans": "14",
+            "portability": {
+                "New Question": "通过葛谢当列书出版《臭老历史》的母公司是哪个？",
+                "New Answer": "企鹅集团"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is the publisher of &quot;Stinky Old History&quot;?",
+            "rephrase": "What is the name of the publisher of &quot;Stinky Old History&quot;?",
+            "alt": "Ge Xie Dang Lie Shu",
+            "loc": "How many grams of alcohol are in a bottle of beer?",
+            "loc_ans": "14",
+            "new_question": "Which is the parent company that publishes &quot;Stinky Old History&quot; through Ge Xie Dang Lie Books?",
+            "new_answer": "Penguin Group"
+        },
+        "en_texts": {
+            "subject": "Smelly Old History",
+            "src": "What is the name of the publisher of Smelly Old History?",
+            "rephrase": "What's the name of the publisher of Smelly Old History?",
+            "alt": "Grosset & Dunlap",
+            "loc": "nq question: how many grams of alcohol in one beer?",
+            "loc_ans": "14",
+            "portability": {
+                "New Question": "Which parent company is responsible for publishing Smelly Old History through Grosset & Dunlap?",
+                "New Answer": "Penguin Group"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.4666666666666667,
+            "rephrase": 0.5555555555555556,
+            "alt": 0,
+            "loc": 0.5833333333333334,
+            "loc_ans": 1.0,
+            "new_question": 0.391304347826087,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.5709799861973776
+    },
+    {
+        "original_texts": {
+            "subject": "简·西摩",
+            "src": "简·西摩的父亲是谁？",
+            "rephrase": "谁是简·西摩的父亲？",
+            "alt": "亨利·西摩",
+            "loc": "《圣鹿之死》在哪里拍摄？?",
+            "loc_ans": "辛辛那提",
+            "portability": {
+                "New Question": "简·西摩的母亲是谁？",
+                "New Answer": "玛格丽·温特沃斯"
+            }
+        },
+        "translated_texts": {
+            "src": "Who is Jane Seymour&#39;s father?",
+            "rephrase": "Who is Jane Seymour&#39;s Father?",
+            "alt": "Henry Seymour",
+            "loc": "Where was The Killing of a Sacred Deer filmed?",
+            "loc_ans": "Cincinnati",
+            "new_question": "Who is Jane Seymour&#39;s mother?",
+            "new_answer": "Margery Wentworth"
+        },
+        "en_texts": {
+            "subject": "Jane Seymour",
+            "src": "Who was the dad of Jane Seymour?",
+            "rephrase": "Who's the father of Jane Seymour?",
+            "alt": "Henry Seymour",
+            "loc": "nq question: where was the killing of a sacred deer filmed?",
+            "loc_ans": "Cincinnati",
+            "portability": {
+                "New Question": "Who was Jane Seymour's mother?",
+                "New Answer": "Margery Wentworth"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.36363636363636365,
+            "rephrase": 0.36363636363636365,
+            "alt": 1.0,
+            "loc": 0.37040911034085894,
+            "loc_ans": 1.0,
+            "new_question": 0.45454545454545453,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6503181845941486
+    },
+    {
+        "original_texts": {
+            "subject": "GNOME Chess",
+            "src": "GNOME Chess使用哪种编程语言编写？",
+            "rephrase": "GNOME Chess是哪种编程语言编写的？",
+            "alt": "Java",
+            "loc": "So You Think You Can Dance第二季的评委团成员有谁？?",
+            "loc_ans": "奈吉尔·莱斯戈、玛丽·墨菲、米娅·迈克尔斯、沙恩·斯帕克斯、丹尼尔·卡拉蒂与布莱恩·弗里德曼",
+            "portability": {
+                "New Question": "编写GNOME Chess所使用的编程语言的发明者是谁？",
+                "New Answer": "詹姆斯·高斯林"
+            }
+        },
+        "translated_texts": {
+            "src": "In which programming language is GNOME Chess written?",
+            "rephrase": "In which programming language is GNOME Chess written?",
+            "alt": "Java",
+            "loc": "Who are the judges for So You Think You Can Dance Season 2? ?",
+            "loc_ans": "Nigel Lethgoe, Mary Murphy, Mia Michaels, Shane Sparks, Daniel Carraty and Brian Friedman",
+            "new_question": "Who invented the programming language used to write GNOME Chess?",
+            "new_answer": "James Gosling"
+        },
+        "en_texts": {
+            "subject": "GNOME Chess",
+            "src": "Which programming language is GNOME Chess written in?",
+            "rephrase": "What programming language is GNOME Chess written?",
+            "alt": "Java",
+            "loc": "nq question: so you think you can dance season 2 judges?",
+            "loc_ans": "Nigel Lythgoe, Mary Murphy, Mia Michaels, Shane Sparks, Dan Karaty, Brian Friedman",
+            "portability": {
+                "New Question": "Who is the inventor of the programming language used to write GNOME Chess?",
+                "New Answer": "James Gosling"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7777777777777778,
+            "rephrase": 0.7777777777777778,
+            "alt": 1.0,
+            "loc": 0.2,
+            "loc_ans": 0.7647058823529411,
+            "new_question": 0.6920912606335216,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7446218140774311
+    },
+    {
+        "original_texts": {
+            "subject": "加利西亚地区主义协会",
+            "src": "加利西亚地区主义协会是哪一年结束的？",
+            "rephrase": "加利西亚地区主义协会是哪一年被解散的？",
+            "alt": "1939年",
+            "loc": "《打工淑女》的演员阵容?",
+            "loc_ans": "克里斯蒂娜·阿普尔盖特",
+            "portability": {
+                "New Question": "加利西亚地区主义协会结束的那一年，发生了哪个全球性事件？",
+                "New Answer": "第二次世界大战"
+            }
+        },
+        "translated_texts": {
+            "src": "In which year did the Galician Regionalist Association end?",
+            "rephrase": "In which year was the Galician Regionalist Association dissolved?",
+            "alt": "1939",
+            "loc": "What is the cast of Working Lady?",
+            "loc_ans": "Christina Applegate",
+            "new_question": "Which global event took place the year the Galician Regionalist Association ended?",
+            "new_answer": "Second World War"
+        },
+        "en_texts": {
+            "subject": "Galician Regionalist Association",
+            "src": "Which year did Galician Regionalist Association end?",
+            "rephrase": "What year has the Galician Regionalist Association been dissolved?",
+            "alt": "1939",
+            "loc": "nq question: the cast of don't tell mom the babysitter's dead?",
+            "loc_ans": "Christina Applegate",
+            "portability": {
+                "New Question": "What global event began in the year when the Galician Regionalist Association ended?",
+                "New Answer": "World War II"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7,
+            "rephrase": 0.7,
+            "alt": 1.0,
+            "loc": 0.2084310098392542,
+            "loc_ans": 1.0,
+            "new_question": 0.7122777528017816,
+            "new_answer": 0.6666666666666666
+        },
+        "avg_bleu_score": 0.7124822041868147
+    },
+    {
+        "original_texts": {
+            "subject": "米尔咱·马黑麻·海答儿",
+            "src": "米尔咱·马黑麻·海答儿的出生日期是什么？",
+            "rephrase": "米尔咱·马黑麻·海答儿是哪一天出生的？",
+            "alt": "1947",
+            "loc": "禁酒期间你去哪里喝酒了?",
+            "loc_ans": "地下酒吧",
+            "portability": {
+                "New Question": "在米尔咱·马黑麻·海答儿出生的同一年，发生了哪个重大历史事件？",
+                "New Answer": "印度独立"
+            }
+        },
+        "translated_texts": {
+            "src": "What is Mirza Mahma Haidar&#39;s date of birth?",
+            "rephrase": "On which day was Mirza Mahma Haidar born?",
+            "alt": "1947",
+            "loc": "Where did you go drinking during Prohibition?",
+            "loc_ans": "Speakeasy",
+            "new_question": "What major historical event occurred in the same year that Mirza Mahma Haidar was born?",
+            "new_answer": "Indian Independence"
+        },
+        "en_texts": {
+            "subject": "Mirza Muhammad Haidar Dughlat",
+            "src": "What is the date of birth for Mirza Muhammad Haidar Dughlat?",
+            "rephrase": "Which is the date of birth of Mirza Muhammad Haidar Dughlat?",
+            "alt": "1947",
+            "loc": "nq question: where did you go to drink during prohibition?",
+            "loc_ans": "Speakeasies",
+            "portability": {
+                "New Question": "In the same year as Mirza Muhammad Haidar Dughlat's supposed birth, which major event occurred?",
+                "New Answer": "India's Independence"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 0.23884377019126307,
+            "alt": 1.0,
+            "loc": 0.37908166232039586,
+            "loc_ans": 0,
+            "new_question": 0.49640450770383493,
+            "new_answer": 0.3032653298563167
+        },
+        "avg_bleu_score": 0.42700340592862596
+    },
+    {
+        "original_texts": {
+            "subject": "Isodontosaurus",
+            "src": "Isodontosaurus属于哪个科？",
+            "rephrase": "哪个科包含Isodontosaurus？",
+            "alt": "钩齿龙科",
+            "loc": "克里希纳的儿子叫什么名字?",
+            "loc_ans": "普拉迪乌姆纳",
+            "portability": {
+                "New Question": "作为钩齿龙科的一员，Isodontosaurus属于哪个海洋爬行动物群？",
+                "New Answer": "蜥蜴王"
+            }
+        },
+        "translated_texts": {
+            "src": "To which family does Isodontosaurus belong?",
+            "rephrase": "Which family contains Isodontosaurus?",
+            "alt": "Uncinata",
+            "loc": "What is the name of Krishna&#39;s son?",
+            "loc_ans": "Pradiumna",
+            "new_question": "As a member of the family Uncommon Toothed Sauropodidae, Isodontosaurus belonged to which group of marine reptiles?",
+            "new_answer": "Lizard King"
+        },
+        "en_texts": {
+            "subject": "Isodontosaurus",
+            "src": "What family does Isodontosaurus belong?",
+            "rephrase": "Which family belongs to Isodontosaurus?",
+            "alt": "Tylosauridae",
+            "loc": "nq question: what is the name of son of lord krishna?",
+            "loc_ans": "Pradyumna",
+            "portability": {
+                "New Question": "What larger group of marine reptiles does the Isodontosaurus belong to, as a member of the Tylosauridae family?",
+                "New Answer": "Mosasaurs"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.7142857142857143,
+            "rephrase": 0.6549846024623855,
+            "alt": 0,
+            "loc": 0.46153846153846156,
+            "loc_ans": 0,
+            "new_question": 0.6491306968533518,
+            "new_answer": 0
+        },
+        "avg_bleu_score": 0.3542770678771305
+    },
+    {
+        "original_texts": {
+            "subject": "Dingo Creek",
+            "src": "Dingo Creek流入哪条河流？",
+            "rephrase": "哪条河流连接了Dingo Creek？",
+            "alt": "巴斯海峡",
+            "loc": "裸子植物种子的种皮是由什么制成的？?",
+            "loc_ans": "鳞片或叶子的表面",
+            "portability": {
+                "New Question": "Dingo Creek在它与巴斯海峡的连接处，流经了哪个地区？",
+                "New Answer": "维多利亚和塔斯马尼亚之间"
+            }
+        },
+        "translated_texts": {
+            "src": "Which river does Dingo Creek flow into?",
+            "rephrase": "Which river connects Dingo Creek?",
+            "alt": "Bass Strait",
+            "loc": "What are the seed coats of gymnosperm seeds made of?",
+            "loc_ans": "Surface of scales or leaves",
+            "new_question": "At its junction with Bass Strait, Dingo Creek flows through which area?",
+            "new_answer": "Between Victoria and Tasmania"
+        },
+        "en_texts": {
+            "subject": "Dingo Creek",
+            "src": "What does Dingo Creek flow into?",
+            "rephrase": "Which river connects Dingo Creek with?",
+            "alt": "Bass Strait",
+            "loc": "nq question: the seed of a gymnosperm seed is made in the?",
+            "loc_ans": "the surface of scales or leaves",
+            "portability": {
+                "New Question": "In which region does Dingo Creek flow, based on its connection to Bass Strait?",
+                "New Answer": "Between Victoria and Tasmania"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.75,
+            "rephrase": 0.846481724890614,
+            "alt": 1.0,
+            "loc": 0.4152547563801129,
+            "loc_ans": 0.6549846024623855,
+            "new_question": 0.4953587998572467,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7374399833700513
+    },
+    {
+        "original_texts": {
+            "subject": "Kaaki Sattai",
+            "src": "Kaaki Sattai是哪个制片厂制作的？",
+            "rephrase": "Kaaki Sattai是由哪个制片公司或哪些公司创立的？",
+            "alt": "雅什·拉吉影片公司",
+            "loc": "谁在2014年的《猩球崛起》中扮演凯撒星球？?",
+            "loc_ans": "安迪·瑟金斯",
+            "portability": {
+                "New Question": "负责制作Kaaki Sattai的制片公司是由谁创立的？",
+                "New Answer": "雅什·曹帕拉"
+            }
+        },
+        "translated_texts": {
+            "src": "Which production house produced Kaaki Sattai?",
+            "rephrase": "Which production house or companies created Kaaki Sattai?",
+            "alt": "Yash Raj Films",
+            "loc": "Who played Caesar in 2014&#39;s &quot;Rise of the Planet of the Apes&quot;?",
+            "loc_ans": "Andy Serkis",
+            "new_question": "Who founded the production company responsible for producing Kaaki Sattai?",
+            "new_answer": "Yash Chopra"
+        },
+        "en_texts": {
+            "subject": "Kaaki Sattai",
+            "src": "What studio produced Kaaki Sattai?",
+            "rephrase": "Which production company or which companies have Kaaki Sattai founded?",
+            "alt": "Yash Raj Movies",
+            "loc": "nq question: who plays caesar planet of the apes 2014?",
+            "loc_ans": "Andy Serkis",
+            "portability": {
+                "New Question": "Who founded the production company responsible for producing Kaaki Sattai?",
+                "New Answer": "Yash Chopra"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5714285714285714,
+            "rephrase": 0.622795757824184,
+            "alt": 0.6666666666666666,
+            "loc": 0.16666666666666669,
+            "loc_ans": 1.0,
+            "new_question": 1.0,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.7182225232265841
+    },
+    {
+        "original_texts": {
+            "subject": "Ik wil alles met je delen",
+            "src": "Ik wil alles met je delen是哪种语言的歌曲？",
+            "rephrase": "Ik wil alles met je delen是什么语言的歌？",
+            "alt": "比利时",
+            "loc": "《龙珠超》第113集何时开始播放?",
+            "loc_ans": "2017年10月29日",
+            "portability": {
+                "New Question": "唱Ik wil alles met je delen的歌手的所在国中，该国的官方语言有哪些？",
+                "New Answer": "荷兰语、法语和德语"
+            }
+        },
+        "translated_texts": {
+            "src": "In which language is the song &quot;Ik wil alles met je delen&quot;?",
+            "rephrase": "What language is the song &quot;Ik wil alles met je delen&quot;?",
+            "alt": "Belgium",
+            "loc": "When will Dragon Ball Super Episode 113 start airing?",
+            "loc_ans": "October 29, 2017",
+            "new_question": "What are the official languages of the country where the singer who sang Ik wil alles met je delen comes from?",
+            "new_answer": "Dutch, French and German"
+        },
+        "en_texts": {
+            "subject": "Ik wil alles met je delen",
+            "src": "In which language is Ik wil alles met je delen made in?",
+            "rephrase": "In which language will Ik wil alles met je delen made in?",
+            "alt": "Belgium",
+            "loc": "nq question: when does dragon ball super episode 113 start?",
+            "loc_ans": "October 29, 2017",
+            "portability": {
+                "New Question": "What are the official languages of the country where Ik wil alles met je delen originated?",
+                "New Answer": "Dutch, French, and German"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5789473684210527,
+            "rephrase": 0.4444444444444444,
+            "alt": 1.0,
+            "loc": 0.24561922592339458,
+            "loc_ans": 1.0,
+            "new_question": 0.7272727272727273,
+            "new_answer": 0.8187307530779819
+        },
+        "avg_bleu_score": 0.6878592170199429
+    },
+    {
+        "original_texts": {
+            "subject": "《演出结束后与我会面》",
+            "src": "《演出结束后与我会面》涉及哪个制作公司？",
+            "rephrase": "《演出结束后与我会面》是哪个制作公司制作的？",
+            "alt": "辛普森一家",
+            "loc": "《犬之岛》在美国什么时候上映？?",
+            "loc_ans": "2018年3月23日",
+            "portability": {
+                "New Question": "谁创立了《演出结束后与我会面》的制作公司？",
+                "New Answer": "马特·格勒宁"
+            }
+        },
+        "translated_texts": {
+            "src": "Which production company is involved in Meet Me After the Show?",
+            "rephrase": "Which production company produced Meet Me After the Show?",
+            "alt": "The Simpsons",
+            "loc": "When will Isle of Dogs be released in the United States?",
+            "loc_ans": "March 23, 2018",
+            "new_question": "Who founded the production company for Meet Me After the Show?",
+            "new_answer": "Matt Groening"
+        },
+        "en_texts": {
+            "subject": "Meet Me After the Show",
+            "src": "What production company was involved in Meet Me After the Show?",
+            "rephrase": "Which production company is involved in Meet Me After the Show?",
+            "alt": "The Simpsons",
+            "loc": "nq question: when does isle of dogs come out in us?",
+            "loc_ans": "March 23, 2018",
+            "portability": {
+                "New Question": "Who created the production company behind Meet Me After the Show?",
+                "New Answer": "Matt Groening"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.8333333333333334,
+            "rephrase": 0.7368576777701837,
+            "alt": 1.0,
+            "loc": 0.23001110365733082,
+            "loc_ans": 1.0,
+            "new_question": 0.8333333333333334,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.8047907782991688
+    },
+    {
+        "original_texts": {
+            "subject": "罗斯·安·斯卡马德拉",
+            "src": "哪所大学与罗斯·安·斯卡马德拉有关？",
+            "rephrase": "罗斯·安·斯卡马德拉与哪所大学有关？",
+            "alt": "哥伦比亚大学",
+            "loc": "谁唱了Raindrops Keep Fallin' on My Head？?",
+            "loc_ans": "比利·乔·托马斯",
+            "portability": {
+                "New Question": "罗斯·安·斯卡马德拉在哥伦比亚大学期间在哪个城市学习？",
+                "New Answer": "纽约市"
+            }
+        },
+        "translated_texts": {
+            "src": "Which college is associated with Rose Ann Scamadella?",
+            "rephrase": "Which university is Rose Ann Scamadella associated with?",
+            "alt": "Columbia University",
+            "loc": "Who sang Raindrops Keep Fallin&#39; on My Head?",
+            "loc_ans": "Billy Joe Thomas",
+            "new_question": "In which city did Rose Ann Scamardella study while at Columbia University?",
+            "new_answer": "New York City"
+        },
+        "en_texts": {
+            "subject": "Rose Ann Scamardella",
+            "src": "Which college or university is related with Rose Ann Scamardella?",
+            "rephrase": "What college or university is related to Rose Ann Scamardella?",
+            "alt": "Columbia University",
+            "loc": "nq question: who sang raindrops keep fallin on my head?",
+            "loc_ans": "B. J. Thomas",
+            "portability": {
+                "New Question": "In which city did Rose Ann Scamardella study during her time at Columbia University?",
+                "New Answer": "New York City"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.622795757824184,
+            "rephrase": 0.44485411273156,
+            "alt": 1.0,
+            "loc": 0.23076923076923078,
+            "loc_ans": 0.3333333333333333,
+            "new_question": 0.7914497715327151,
+            "new_answer": 1.0
+        },
+        "avg_bleu_score": 0.6318860294558605
+    },
+    {
+        "original_texts": {
+            "subject": "金星9号",
+            "src": "金星9号可以在哪个卫星或行星上找到？",
+            "rephrase": "金星9号在哪个天体上？",
+            "alt": "火星",
+            "loc": "谁在《雷蒙·斯尼奇的不幸历险》中扮演了桑尼？?",
+            "loc_ans": "普雷斯利·史密斯",
+            "portability": {
+                "New Question": "在火星的哪个卫星上可能会发现金星9号的残骸？",
+                "New Answer": "既不是火卫一也不是火卫二，因为金星9号最初是为金星而设计的，而不是为火星。"
+            }
+        },
+        "translated_texts": {
+            "src": "On which moon or planet can Venera 9 be found?",
+            "rephrase": "On which celestial body is Venus 9?",
+            "alt": "Mars",
+            "loc": "Who played Sonny in Lemony Snicket&#39;s A Series of Unfortunate Events?",
+            "loc_ans": "Presley Smith",
+            "new_question": "On which moon of Mars might the remains of Venera 9 be found?",
+            "new_answer": "Neither Phobos nor Deimos, since Venera 9 was originally designed for Venus, not Mars."
+        },
+        "en_texts": {
+            "subject": "Venera 9",
+            "src": "On what moon or planet can Venera 9 be found?",
+            "rephrase": "On which heavenly body is Venera 9?",
+            "alt": "Mars",
+            "loc": "nq question: who played sonny in lemony snicket's a series of unfortunate events?",
+            "loc_ans": "Presley Smith",
+            "portability": {
+                "New Question": "On which of Mars' moons might you potentially find remnants of Venera 9?",
+                "New Answer": "Neither Phobos nor Deimos, as Venera 9 was originally meant for Venus, not Mars."
+            }
+        },
+        "bleu_scores": {
+            "src": 0.9090909090909091,
+            "rephrase": 0.75,
+            "alt": 1.0,
+            "loc": 0.23529411764705885,
+            "loc_ans": 1.0,
+            "new_question": 0.5985403583811576,
+            "new_answer": 0.8823529411764706
+        },
+        "avg_bleu_score": 0.7678969037565138
+    },
+    {
+        "original_texts": {
+            "subject": "乔治·史黛西",
+            "src": "乔治·史黛西是谁创作的漫画？",
+            "rephrase": "乔治·史黛西的创作者是谁？",
+            "alt": "克里斯托弗·丹尼斯",
+            "loc": "谁赢得了2006年世界杯足球赛最佳守门员奖？?",
+            "loc_ans": "詹路易吉·布冯",
+            "portability": {
+                "New Question": "乔治·史黛西的创作者克里斯托弗·丹尼斯以创作哪种类型的书籍闻名？",
+                "New Answer": "儿童图书"
+            }
+        },
+        "translated_texts": {
+            "src": "Who created the comic strip George Stacy?",
+            "rephrase": "Who created George Stacy?",
+            "alt": "Christopher Dennis",
+            "loc": "Who won the 2006 World Cup Best Goalkeeper Award? ?",
+            "loc_ans": "Gianluigi Buffon",
+            "new_question": "What type of books is George Stacy creator Christopher Dennis known for?",
+            "new_answer": "Children&#39;s Books"
+        },
+        "en_texts": {
+            "subject": "George Stacy",
+            "src": "Who is George Stacy by?",
+            "rephrase": "Who is the creator of George Stacy?",
+            "alt": "Christopher Denise",
+            "loc": "nq question: who won the award for best goalkeeper in football world cup 2006?",
+            "loc_ans": "Gianluigi Buffon",
+            "portability": {
+                "New Question": "What is the genre of books that George Stacy's creator, Christopher Denise, is known for?",
+                "New Answer": "Children's books"
+            }
+        },
+        "bleu_scores": {
+            "src": 0.5,
+            "rephrase": 0.43904930887522114,
+            "alt": 0.5,
+            "loc": 0.2308132432510116,
+            "loc_ans": 1.0,
+            "new_question": 0.5333419271203014,
+            "new_answer": 0.14285714285714285
+        },
+        "avg_bleu_score": 0.4780088031576682
+    }
+]
