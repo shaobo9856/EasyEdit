@@ -5,7 +5,47 @@ nohup python run_bizsre.py --editing_method=ROME --hparams_dir=./hparams/ROME/ll
 git clone https://github.com/shaobo9856/EasyEdit.git easyedit
 cd easyedit && python3 -m venv easyedit && source easyedit/bin/activate && pip install -r requirements.txt
 
-python run_zsre_llama2.py --editing_method ROME --hparams_dir ./hparams/ROME/llama-7b.yaml  --data_dir MzsRE/mzsre_test_duplicate_en  --lang1 en --lang2 af --ds_size 20
+## ROME
+nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py --editing_method ROME --hparams_dir ./hparams/ROME/llama-7b.yaml --data_dir MCounterFact/mcounterfact_test_en --lang1 en --lang2 ru --ds_size 100" > output_ROME.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=1 python run_zsre_llama2.py --editing_method ROME --hparams_dir ./hparams/ROME/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 zh-cn --ds_size 100" > output_ROME.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=2 python run_zsre_llama2.py --editing_method ROME --hparams_dir ./hparams/ROME/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 es --ds_size 100" > output_ROME.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=3 python run_zsre_llama2.py --editing_method ROME --hparams_dir ./hparams/ROME/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 vi --ds_size 100" > output_ROME.log 2>&1 &
+
+
+## KN
+nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py --editing_method KN --hparams_dir ./hparams/KN/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 ru  --ds_size 100" > output_KN.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py --editing_method KN --hparams_dir ./hparams/KN/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 zh-cn --ds_size 200" > output_KN.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=2 python run_zsre_llama2.py --editing_method KN --hparams_dir ./hparams/KN/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 es  --ds_size 100" > output_KN.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=3 python run_zsre_llama2.py --editing_method KN --hparams_dir ./hparams/KN/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 vi  --ds_size 100" > output_KN.log 2>&1 &
+
+## FT
+nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py --editing_method FT --hparams_dir ./hparams/FT/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 ru --ds_size 100" > output_FT.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=1 python run_zsre_llama2.py --editing_method FT --hparams_dir ./hparams/FT/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 zh-cn --ds_size 100" > output_FT.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=2 python run_zsre_llama2.py --editing_method FT --hparams_dir ./hparams/FT/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 es --ds_size 300" > output_FT.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=3 python run_zsre_llama2.py --editing_method FT --hparams_dir ./hparams/FT/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 vi --ds_size 100" > output_FT.log 2>&1 &
+
+## MEMIT
+nohup bash -c "CUDA_VISIBLE_DEVICES=3 python run_zsre_llama2.py --editing_method MEMIT --hparams_dir ./hparams/MEMIT/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 ru --ds_size 100" > output_MEMIT.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py --editing_method MEMIT --hparams_dir ./hparams/MEMIT/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 zh-cn --ds_size 100" > output_MEMIT.log 2>&1 &
+
+## LoRA
+nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py --editing_method LoRA --hparams_dir ./hparams/LoRA/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 ru --ds_size 100" > output_LoRA.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=1 python run_zsre_llama2.py --editing_method LoRA --hparams_dir ./hparams/LoRA/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 zh-cn --ds_size 100" > output_LoRA.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=2 python run_zsre_llama2.py --editing_method LoRA --hparams_dir ./hparams/LoRA/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 es --ds_size 100" > output_LoRA.log 2>&1 &
+
+nohup bash -c "CUDA_VISIBLE_DEVICES=3 python run_zsre_llama2.py --editing_method LoRA --hparams_dir ./hparams/LoRA/llama-7b.yaml  --data_dir MCounterFact/mcounterfact_test_en  --lang1 en --lang2 vi --ds_size 300" > output_LoRA.log 2>&1 &
 
 
 pip install --upgrade sentence-transformers
@@ -14,13 +54,23 @@ python -m pip install huggingface_hub
 
 huggingface-cli login --token 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
 
-chmod +x run_ROME.sh
-./run_ROME.sh
+chmod +x run_FT.sh
+./run_FT.sh
+
+chmod +x run_KN.sh
+./run_KN.sh
+
+chmod +x run_MEMIT.sh
+./run_MEMIT.sh
+
+nohup ./run_KN.sh > output_KN.log 2>&1 &
 
 
 data validation:
+./run_MEMIT.sh
 python data_translate_texts.py ./data/MzsRE ./data/MzsRE/result
 python data_compute_bleu_scores.py ./data/MzsRE/result
+nohup ./run_KN.sh > output_KN.log 2>&1 &
 python data_compute_semantic_similarity.py ./data/MzsRE/result
 
 <div align="center">

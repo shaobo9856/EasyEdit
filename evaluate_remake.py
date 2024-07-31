@@ -1,7 +1,7 @@
 import json
 import os
 from tqdm import tqdm
-
+import pandas as pd
 from transformers import LlamaTokenizer, AutoTokenizer
 
 tokenizer = LlamaTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
@@ -51,7 +51,7 @@ def calculate_metrics(file_root):
 
     portablility_f1_list = []
     portablility_em_list = []
-
+    print(file_root)
     for item in tqdm(data):
         reliablilty_f1, reliablilty_em = obtain_f1_and_em(item["post"]["reliability"]["ans"],
                                                           item["post"]["reliability"]["target"])

@@ -67,7 +67,7 @@ def _prepare_requests(
     requests = [{
         'prompt': prompt,
         'target_new': target_new_,
-        # 'ground_truth': ground_truth_,
+        'ground_truth': "",
         "edited": {},
         "cross": {},
         "generalization": {},
@@ -168,6 +168,7 @@ def _prepare_requests(
                         }
                     }
                 )
+                request['ground_truth'] = locality_inputs[locality_key]['ground_truth'][i]
 
     # if portability_inputs is not None:
     for portability_key in portability_inputs.keys():

@@ -313,15 +313,25 @@ class BaseEditor:
                 })
                 if "metric_kwargs" in kwargs:
                     all_metrics[idx].update(compute_sent_metric(self.model, edited_model, self.model_name, self.hparams, self.tok,metric_kwargs=kwargs["metric_kwargs"][idx], device=self.hparams.device))
+                ##
                 # if 'locality' in all_metrics[idx]['post'].keys():
+                #     print(request['locality'])
+                #     print("000")
                 #     for locality_key in request['locality'].keys():
                 #         locality_result = []
+                #         print("111")
+                #         print(locality_key)
+                #         print(all_metrics[idx]['post']['locality'][f'{locality_key}_output'])
+                #         print(all_metrics[idx]['pre']['locality'][f'{locality_key}_output'])
+                #         print("22222")
                 #         for ans, label in zip(all_metrics[idx]['post']['locality'][f'{locality_key}_output'], all_metrics[idx]['pre']['locality'][f'{locality_key}_output']):
+                #             print(ans)
+                #             print(label)
                 #             locality_result.append(np.mean(np.equal(ans, label)))
                 #         all_metrics[idx]['post']['locality'][f'{locality_key}_acc'] = locality_result
                 #         all_metrics[idx]['post']['locality'].pop(f'{locality_key}_output')
                 #     all_metrics[idx]['pre'].pop('locality')
-
+                ##
             if verbose:
                 LOG.info(f"{idx} editing: {request['prompt']} -> {request['target_new']}  \n\n {all_metrics[idx]}")
 

@@ -1,8 +1,8 @@
 #!/bin/bash
 
-LANGS=("es" "vi" "ru" "zh-cn")
+LANGS=("vi" "ru" "zh-cn") #"es" 
 DATAS=("MzsRE/mzsre_test_duplicate_en" "MCounterFact/mcounterfact_test_en" "WikiFactDiff/wfd_test_en")
-CUDA=1
+CUDA=0
 
 for DATA in "${DATAS[@]}";do
     for LANG in "${LANGS[@]}";do

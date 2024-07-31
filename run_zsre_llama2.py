@@ -51,7 +51,9 @@ if __name__ == "__main__":
 
     if args.ds_size is not None:
         test_data = random.sample(test_data, args.ds_size)
-
+        ds_size = args.ds_size
+    else:
+        ds_size = 0
     prompts_truth = [test_data_[args.lang1]['src'] for test_data_ in test_data]
     prompts_test = [test_data_[args.lang2]['src'] for test_data_ in test_data] 
 
@@ -124,7 +126,7 @@ if __name__ == "__main__":
 
     # json.dump(metrics, open(os.path.join(args.metrics_save_dir, f'{args.editing_method}_results.json'), 'w'), indent=4)
     # Construct the file path
-    file_path = os.path.join(args.metrics_save_dir, f'{args.editing_method}_{args.data_dir[:4]}_{args.lang2}_results.json')
+    file_path = os.path.join(args.metrics_save_dir, f'{args.editing_method}_{args.data_dir[:4]}_{args.lang2}_results_{ds_size}.json')
 
     # Save the metrics
     with open(file_path, 'w') as file:

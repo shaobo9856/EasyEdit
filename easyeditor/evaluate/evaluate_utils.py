@@ -96,18 +96,18 @@ def test_prediction_acc(model, tok, hparams, prompts, targets, device, locality=
                 use_cache=False,
             )
             if locality:
-                # results.append(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])
-                generated_text = tok.decode(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])
+                results.append(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])
+                # generated_text = tok.decode(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])
                 # print("#####")
                 # print(generated_text)
-                results.append(generated_text)
+                # results.append(generated_text)
             else:
-                print(target_new_tokens)
-                print(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])
-                print(np.mean(np.equal(target_new_tokens, gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])))
+                # print(target_new_tokens)
+                # print(gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])
+                # print(np.mean(np.equal(target_new_tokens, gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])))
                 results.append(np.mean(np.equal(target_new_tokens, gen_token.detach().cpu().numpy().tolist()[0][-len(target_new_tokens):])))
-        # return results
-        return results[0]
+        return results
+        # return results[0]
 
 
     if isinstance(prompts, str):
@@ -141,8 +141,8 @@ def test_prediction_acc(model, tok, hparams, prompts, targets, device, locality=
         labels = prompt_target_tok['input_ids'].squeeze().detach().cpu().numpy().tolist()
         answers = slice_list(answers,prompt_len,left=True)
         labels = slice_list(labels,prompt_len,left=False)
-        print(answers)
-        print(labels)
+        # print(answers)
+        # print(labels)
         if locality:
             return answers if type(answers[0]) is list else [answers,]
         if isinstance(answers[0], list):
